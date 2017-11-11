@@ -1,0 +1,1756 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cadastroNotaFiscal>
+  <notasFiscais>
+    <notaFiscal>
+      <unidadeNegocio>1  </unidadeNegocio>
+      <nf>76113</nf>
+      <serie>     </serie>
+      <tipoOperacao>6101G</tipoOperacao>
+      <CFOP>6101  </CFOP>
+      <dataEmissao>28/05/2009</dataEmissao>
+      <viaTransporte>R</viaTransporte>
+      <documentoFiscal>NF   </documentoFiscal>
+      <cliente>004384</cliente>
+      <cobranca>004384</cobranca>
+      <representante>000139</representante>
+      <baseICMS>1320.67</baseICMS>
+      <valorICMS>158.47</valorICMS>
+      <baseIPI>1200.58</baseIPI>
+      <valorIPI>120.09</valorIPI>
+      <incidenciaPIS> </incidenciaPIS>
+      <incidenciaCOFINS> </incidenciaCOFINS>
+      <totalMercadorias>1200.58</totalMercadorias>
+      <totalNF>1320.67</totalNF>
+      <transportadora>000072</transportadora>
+      <consignatario>      </consignatario>
+      <marca>            </marca>
+      <volume>0,360          </volume>
+      <quantidade>23    </quantidade>
+      <especie>CXS             </especie>
+      <pesoLiquido>31.978</pesoLiquido>
+      <pesoBruto>36.95068</pesoBruto>
+      <conta>100109</conta>
+      <portador>I06</portador>
+      <fatura>76113</fatura>
+      <cobrarPauta> </cobrarPauta>
+      <remessa>   </remessa>
+      <pedido>00004373    </pedido>
+      <horaSaida>00:00:00</horaSaida>
+      <gerouLancamentos>True</gerouLancamentos>
+      <itemsNaNota>34</itemsNaNota>
+      <tipoFrete>1</tipoFrete>
+      <uf>MG</uf>
+      <percentualComissao>10</percentualComissao>
+      <placa>       </placa>
+      <especieNota>S</especieNota>
+      <incidenciaISS>N</incidenciaISS>
+      <ateNota>0</ateNota>
+      <totalFaturado>1320.67</totalFaturado>
+      <substitutoTributario>      </substitutoTributario>
+      <notaReferencia>0</notaReferencia>
+      <condicaoPagamento>265</condicaoPagamento>
+      <complementoFatura>     </complementoFatura>
+      <contabilizado>C</contabilizado>
+      <faturaAglutinada> </faturaAglutinada>
+      <gerouINSS> </gerouINSS>
+      <serieReferencia>     </serieReferencia>
+      <codigoMunicipio>          </codigoMunicipio>
+      <quantidadeTotal>128</quantidadeTotal>
+      <impressa>True</impressa>
+      <declaracaoImportacao>            </declaracaoImportacao>
+      <indiceIndexador>     </indiceIndexador>
+      <modeloCupom>   </modeloCupom>
+      <numeroControleFormulario>            </numeroControleFormulario>
+      <romaneio>0</romaneio>
+      <ufPlacaTransportador>  </ufPlacaTransportador>
+      <codigoCancelamento>   </codigoCancelamento>
+      <codigoDevolucao>   </codigoDevolucao>
+      <ordemCompra>            </ordemCompra>
+      <projeto>            </projeto>
+      <modeloFormulario>1</modeloFormulario>
+      <ordemDeCompraGerada>  </ordemDeCompraGerada>
+      <totalItensServico>0</totalItensServico>
+      <usrnota1>                    </usrnota1>
+      <chaveNFe />
+      <numeroProtocolo />
+      <numeroLote />
+      <gerouPedidoConsignacao> </gerouPedidoConsignacao>
+      <incluiSubstituicaoTributaria> </incluiSubstituicaoTributaria>
+      <listarLivros>1</listarLivros>
+      <tipoNota>N</tipoNota>
+      <classificacaoDocumento> </classificacaoDocumento>
+      <mercado>KI</mercado>
+      <grade>  </grade>
+      <incidenciaContribSocial> </incidenciaContribSocial>
+      <folhaLivroSaida>      </folhaLivroSaida>
+      <tgConversaoUnidades>  0   </tgConversaoUnidades>
+      <fornecedor>      </fornecedor>
+      <volumeAtualizado>      </volumeAtualizado>
+      <ordemEnderecoCobranca> </ordemEnderecoCobranca>
+      <ordemEnderecoEntrega> </ordemEnderecoEntrega>
+      <forma>D</forma>
+      <tipoFreteConsignatario>  </tipoFreteConsignatario>
+      <conferido>  </conferido>
+      <numeroLivroSaida>   </numeroLivroSaida>
+      <usuarioAutorizado>A19</usuarioAutorizado>
+      <entregMercAposFatur>   </entregMercAposFatur>
+      <status />
+      <itensNf>
+        <itemNf>
+          <movimento>181826</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>601100007           </codigoMaterial>
+          <especif1>001673</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>2</quantidade>
+          <precoUnitario>14.46</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>31.81</baseICMS>
+          <baseIPI>28.92</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>11</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.4921</percentualDesconto>
+          <valorICMS>3.82</valorICMS>
+          <valorIPI>2.89</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>11</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>11</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>28.92</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181831</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>601300005           </codigoMaterial>
+          <especif1>000622</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>4</quantidade>
+          <precoUnitario>7.89</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>34.72</baseICMS>
+          <baseIPI>31.56</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>16</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.4724</percentualDesconto>
+          <valorICMS>4.17</valorICMS>
+          <valorIPI>3.16</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>16</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>16</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>31.56</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181828</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>601100008           </codigoMaterial>
+          <especif1>000780</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>4</quantidade>
+          <precoUnitario>11.67</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>51.35</baseICMS>
+          <baseIPI>46.68</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>13</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.4754</percentualDesconto>
+          <valorICMS>6.16</valorICMS>
+          <valorIPI>4.67</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>13</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>13</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>46.68</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181834</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>600700016           </codigoMaterial>
+          <especif1>001201</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>4</quantidade>
+          <precoUnitario>15.5</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>68.2</baseICMS>
+          <baseIPI>62</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>19</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.4946</percentualDesconto>
+          <valorICMS>8.18</valorICMS>
+          <valorIPI>6.2</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>19</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>19</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>62</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181821</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>601400004           </codigoMaterial>
+          <especif1>001011</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>4</quantidade>
+          <precoUnitario>15.67</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>68.95</baseICMS>
+          <baseIPI>62.68</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>6</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.4863</percentualDesconto>
+          <valorICMS>8.27</valorICMS>
+          <valorIPI>6.27</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>6</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>6</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>62.68</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181823</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>601100006           </codigoMaterial>
+          <especif1>001726</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>2</quantidade>
+          <precoUnitario>10.56</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>23.23</baseICMS>
+          <baseIPI>21.12</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>8</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.4783</percentualDesconto>
+          <valorICMS>2.79</valorICMS>
+          <valorIPI>2.11</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>8</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>8</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>21.12</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181819</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>606400005           </codigoMaterial>
+          <especif1>000837</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>4</quantidade>
+          <precoUnitario>25.19</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>110.84</baseICMS>
+          <baseIPI>100.76</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>4</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.5044</percentualDesconto>
+          <valorICMS>13.3</valorICMS>
+          <valorIPI>10.08</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>4</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>4</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>100.76</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181820</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>606400009           </codigoMaterial>
+          <especif1>000858</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>6</quantidade>
+          <precoUnitario>6.87</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>45.34</baseICMS>
+          <baseIPI>41.22</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>5</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.4967</percentualDesconto>
+          <valorICMS>5.44</valorICMS>
+          <valorIPI>4.12</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>5</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>5</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>41.22</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181817</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>606400002           </codigoMaterial>
+          <especif1>000743</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>6</quantidade>
+          <precoUnitario>8.3</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>54.78</baseICMS>
+          <baseIPI>49.8</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>2</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.5023</percentualDesconto>
+          <valorICMS>6.57</valorICMS>
+          <valorIPI>4.98</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>2</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>2</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>49.8</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181832</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>601400015           </codigoMaterial>
+          <especif1>000780</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>8</quantidade>
+          <precoUnitario>11.17</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>98.3</baseICMS>
+          <baseIPI>89.36</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>17</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.4932</percentualDesconto>
+          <valorICMS>11.8</valorICMS>
+          <valorIPI>8.94</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>17</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>17</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>89.36</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181829</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>601100009           </codigoMaterial>
+          <especif1>000780</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>8</quantidade>
+          <precoUnitario>16.28</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>143.26</baseICMS>
+          <baseIPI>130.24</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>14</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.4962</percentualDesconto>
+          <valorICMS>17.19</valorICMS>
+          <valorIPI>13.02</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>14</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>14</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>130.24</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181833</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>601400017           </codigoMaterial>
+          <especif1>000780</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>8</quantidade>
+          <precoUnitario>18.42</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>162.1</baseICMS>
+          <baseIPI>147.36</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>18</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.505</percentualDesconto>
+          <valorICMS>19.45</valorICMS>
+          <valorIPI>14.74</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>18</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>18</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>147.36</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181818</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>600700007           </codigoMaterial>
+          <especif1>000780</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>12</quantidade>
+          <precoUnitario>4.93</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>65.08</baseICMS>
+          <baseIPI>59.16</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>3</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.4472</percentualDesconto>
+          <valorICMS>7.81</valorICMS>
+          <valorIPI>5.92</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>3</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>3</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>59.16</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181830</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>600700010           </codigoMaterial>
+          <especif1>000973</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>12</quantidade>
+          <precoUnitario>9.38</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>123.82</baseICMS>
+          <baseIPI>112.56</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>15</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.491</percentualDesconto>
+          <valorICMS>14.86</valorICMS>
+          <valorIPI>11.26</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>4</sequenciaDia>
+          <sequenciaPedidoOC>15</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>15</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>112.56</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181816</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>600400030           </codigoMaterial>
+          <especif1>000227</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>36</quantidade>
+          <precoUnitario>1.93</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>76.43</baseICMS>
+          <baseIPI>69.48</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>1</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.4127</percentualDesconto>
+          <valorICMS>9.17</valorICMS>
+          <valorIPI>6.95</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>1</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>1</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>69.48</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181827</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>601100007           </codigoMaterial>
+          <especif1>001674</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>1</quantidade>
+          <precoUnitario>14.46</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>15.91</baseICMS>
+          <baseIPI>14.46</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>12</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.4921</percentualDesconto>
+          <valorICMS>1.91</valorICMS>
+          <valorIPI>1.45</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>12</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>12</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>14.46</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181825</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>601100007           </codigoMaterial>
+          <especif1>000455</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>1</quantidade>
+          <precoUnitario>14.46</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>15.91</baseICMS>
+          <baseIPI>14.46</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>10</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.4921</percentualDesconto>
+          <valorICMS>1.91</valorICMS>
+          <valorIPI>1.45</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>10</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>10</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>14.46</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181824</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>601100006           </codigoMaterial>
+          <especif1>001727</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>1</quantidade>
+          <precoUnitario>10.56</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>11.62</baseICMS>
+          <baseIPI>10.56</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>9</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.4783</percentualDesconto>
+          <valorICMS>1.39</valorICMS>
+          <valorIPI>1.06</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>9</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>9</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>10.56</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181822</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>601100006           </codigoMaterial>
+          <especif1>000450</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>1</quantidade>
+          <precoUnitario>10.56</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>11.62</baseICMS>
+          <baseIPI>10.56</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>7</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.4783</percentualDesconto>
+          <valorICMS>1.39</valorICMS>
+          <valorIPI>1.06</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>7</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>7</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>10.56</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+        <itemNf>
+          <movimento>181835</movimento>
+          <tipoOperacao>6101G</tipoOperacao>
+          <dataMovimento>28/05/2009</dataMovimento>
+          <codigoMaterial>600700017           </codigoMaterial>
+          <especif1>001209</especif1>
+          <especif2>      </especif2>
+          <centroArmazenagem>001 </centroArmazenagem>
+          <grade>  </grade>
+          <quantidade>4</quantidade>
+          <precoUnitario>24.41</precoUnitario>
+          <descricao />
+          <documento>          </documento>
+          <empresa>004384</empresa>
+          <contaGerencial>                         </contaGerencial>
+          <tipoDocumento>NF   </tipoDocumento>
+          <tabelaPreco>CM0005</tabelaPreco>
+          <incidenciaISS>N</incidenciaISS>
+          <tipoNota>N</tipoNota>
+          <baseICMS>107.4</baseICMS>
+          <baseIPI>97.64</baseIPI>
+          <serie>     </serie>
+          <notaFiscal>76113</notaFiscal>
+          <CFOP>6101  </CFOP>
+          <percentualICMS>12</percentualICMS>
+          <codigoTipoDocumento>   </codigoTipoDocumento>
+          <retencaoInformada>      </retencaoInformada>
+          <complementoIncidIPI>0</complementoIncidIPI>
+          <ICMSPresumido> </ICMSPresumido>
+          <CSTPIS>  </CSTPIS>
+          <CSTCOFINS>  </CSTCOFINS>
+          <codBaseCreditoPisCofinsEntrad>  </codBaseCreditoPisCofinsEntrad>
+          <sequenciaNota>20</sequenciaNota>
+          <incidenciaIPI>1</incidenciaIPI>
+          <incidenciaICMS>0</incidenciaICMS>
+          <incidenciaPIS>N</incidenciaPIS>
+          <incidenciaCOFINS>N</incidenciaCOFINS>
+          <incidenciaICMSEntrada> </incidenciaICMSEntrada>
+          <complementoIncidenciaICMS>0</complementoIncidenciaICMS>
+          <incidenciaContribSocial>N</incidenciaContribSocial>
+          <percentualIPI>10</percentualIPI>
+          <percentualDesconto>23.5036</percentualDesconto>
+          <valorICMS>12.89</valorICMS>
+          <valorIPI>9.76</valorIPI>
+          <percentualComissao>10</percentualComissao>
+          <percentualPIS>0.65</percentualPIS>
+          <percentualCOFINS>3</percentualCOFINS>
+          <transfCentroArmaz>    </transfCentroArmaz>
+          <estorno> </estorno>
+          <pedidoOc>00004373    </pedidoOc>
+          <indice>     </indice>
+          <ordenacao>001   </ordenacao>
+          <transfUnNegocio>   </transfUnNegocio>
+          <contrato>        </contrato>
+          <contabil>        </contabil>
+          <codigoRetorno>  </codigoRetorno>
+          <contabilidade> </contabilidade>
+          <excecaoNCM>    </excecaoNCM>
+          <etiquetaHex>      </etiquetaHex>
+          <inspecao> </inspecao>
+          <classePedidoExclusivo4> </classePedidoExclusivo4>
+          <saidaSemSaldo>          </saidaSemSaldo>
+          <usrmovi2>                    </usrmovi2>
+          <sequenciaDia>2</sequenciaDia>
+          <sequenciaPedidoOC>20</sequenciaPedidoOC>
+          <sequenciaDiaPedidoOC>1</sequenciaDiaPedidoOC>
+          <baseICMSComIPI>True</baseICMSComIPI>
+          <comissoesItem>
+            <comissaoNf>
+              <clienteFornecedor>004384</clienteFornecedor>
+              <especieNF>S</especieNF>
+              <sequenciaNF>20</sequenciaNF>
+              <representante>000139</representante>
+              <valorBaseComissao>97.64</valorBaseComissao>
+              <percentualComissao>10</percentualComissao>
+              <tipoBaseComissao>      </tipoBaseComissao>
+              <percComissaoOrigRepresentante>10</percComissaoOrigRepresentante>
+              <origem>S</origem>
+            </comissaoNf>
+          </comissoesItem>
+        </itemNf>
+      </itensNf>
+      <parcelasNf>
+        <parcelaNf>
+          <vencimento>29/06/2009</vencimento>
+          <valorParcela>720.38</valorParcela>
+          <nossoNumero />
+          <codigoCaixa>   </codigoCaixa>
+          <turnoSequencial>   </turnoSequencial>
+          <sessaoCaixa>                    </sessaoCaixa>
+        </parcelaNf>
+        <parcelaNf>
+          <vencimento>27/07/2009</vencimento>
+          <valorParcela>600.29</valorParcela>
+          <nossoNumero />
+          <codigoCaixa>   </codigoCaixa>
+          <turnoSequencial>   </turnoSequencial>
+          <sessaoCaixa>                    </sessaoCaixa>
+        </parcelaNf>
+        <parcelaNf>
+          <vencimento>29/06/2009</vencimento>
+          <valorParcela>720.38</valorParcela>
+          <nossoNumero />
+          <codigoCaixa>   </codigoCaixa>
+          <turnoSequencial>   </turnoSequencial>
+          <sessaoCaixa>                    </sessaoCaixa>
+        </parcelaNf>
+        <parcelaNf>
+          <vencimento>27/07/2009</vencimento>
+          <valorParcela>600.29</valorParcela>
+          <nossoNumero />
+          <codigoCaixa>   </codigoCaixa>
+          <turnoSequencial>   </turnoSequencial>
+          <sessaoCaixa>                    </sessaoCaixa>
+        </parcelaNf>
+      </parcelasNf>
+    </notaFiscal>
+  </notasFiscais>
+</cadastroNotaFiscal>

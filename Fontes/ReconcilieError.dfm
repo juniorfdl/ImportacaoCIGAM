@@ -1,0 +1,237 @@
+object ReconcileErrorForm: TReconcileErrorForm
+  Left = 565
+  Top = 298
+  BorderStyle = bsDialog
+  Caption = 'Erros no ClientDataSet'
+  ClientHeight = 479
+  ClientWidth = 520
+  Color = clBtnFace
+  ParentFont = True
+  OldCreateOrder = False
+  Position = poScreenCenter
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnShow = DisplayFieldValues
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 433
+    Width = 520
+    Height = 46
+    Align = alBottom
+    BevelOuter = bvNone
+    BorderStyle = bsSingle
+    Color = clWhite
+    Ctl3D = False
+    ParentCtl3D = False
+    TabOrder = 0
+    object OKBtn: TBitBtn
+      Left = 336
+      Top = 9
+      Width = 80
+      Height = 29
+      Cursor = crHandPoint
+      TabOrder = 0
+      Kind = bkOK
+    end
+    object CancelBtn: TBitBtn
+      Left = 428
+      Top = 9
+      Width = 80
+      Height = 29
+      Cursor = crHandPoint
+      Cancel = True
+      Caption = 'Cancelar'
+      ModalResult = 2
+      TabOrder = 1
+      Glyph.Data = {
+        DE010000424DDE01000000000000760000002800000024000000120000000100
+        0400000000006801000000000000000000001000000000000000000000000000
+        80000080000000808000800000008000800080800000C0C0C000808080000000
+        FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00333333333333
+        333333333333333333333333000033338833333333333333333F333333333333
+        0000333911833333983333333388F333333F3333000033391118333911833333
+        38F38F333F88F33300003339111183911118333338F338F3F8338F3300003333
+        911118111118333338F3338F833338F3000033333911111111833333338F3338
+        3333F8330000333333911111183333333338F333333F83330000333333311111
+        8333333333338F3333383333000033333339111183333333333338F333833333
+        00003333339111118333333333333833338F3333000033333911181118333333
+        33338333338F333300003333911183911183333333383338F338F33300003333
+        9118333911183333338F33838F338F33000033333913333391113333338FF833
+        38F338F300003333333333333919333333388333338FFF830000333333333333
+        3333333333333333333888330000333333333333333333333333333333333333
+        0000}
+      NumGlyphs = 2
+    end
+  end
+  object Panel2: TPanel
+    Left = 0
+    Top = 406
+    Width = 520
+    Height = 27
+    Align = alBottom
+    BevelOuter = bvNone
+    Color = 16640731
+    TabOrder = 1
+    object ConflictsOnly: TCheckBox
+      Left = 5
+      Top = 6
+      Width = 206
+      Height = 17
+      Caption = 'Mostrar Somente Campos em Conflito'
+      TabOrder = 0
+      OnClick = DisplayFieldValues
+    end
+    object ChangedOnly: TCheckBox
+      Left = 317
+      Top = 6
+      Width = 200
+      Height = 17
+      Caption = 'Mostrar Apenas Campos Modificados'
+      TabOrder = 1
+      OnClick = DisplayFieldValues
+    end
+  end
+  object Panel3: TPanel
+    Left = 0
+    Top = 193
+    Width = 520
+    Height = 213
+    Align = alBottom
+    BevelOuter = bvNone
+    BorderStyle = bsSingle
+    Color = 16640731
+    Ctl3D = False
+    ParentCtl3D = False
+    TabOrder = 2
+    object UpdateData: TStringGrid
+      Left = 0
+      Top = 0
+      Width = 518
+      Height = 211
+      Align = alClient
+      BorderStyle = bsNone
+      ColCount = 4
+      Ctl3D = False
+      DefaultColWidth = 119
+      RowCount = 2
+      Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goThumbTracking]
+      ParentCtl3D = False
+      TabOrder = 0
+      OnSelectCell = UpdateDataSelectCell
+      OnSetEditText = UpdateDataSetEditText
+    end
+  end
+  object Panel4: TPanel
+    Left = 0
+    Top = 185
+    Width = 520
+    Height = 8
+    Align = alBottom
+    BevelOuter = bvNone
+    Color = clWhite
+    TabOrder = 3
+  end
+  object Panel5: TPanel
+    Left = 0
+    Top = 0
+    Width = 520
+    Height = 185
+    Align = alClient
+    BevelOuter = bvNone
+    BorderStyle = bsSingle
+    Color = 16640731
+    Ctl3D = False
+    ParentCtl3D = False
+    TabOrder = 4
+    object Label1: TLabel
+      Left = 49
+      Top = 13
+      Width = 85
+      Height = 13
+      Caption = 'Tipo Modifica'#231#227'o:'
+    end
+    object UpdateType: TLabel
+      Left = 143
+      Top = 13
+      Width = 49
+      Height = 13
+      Caption = 'Modified'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clBlack
+      Font.Height = -11
+      Font.Name = 'Default'
+      Font.Style = [fsBold]
+      ParentFont = False
+    end
+    object Label3: TLabel
+      Left = 49
+      Top = 33
+      Width = 92
+      Height = 13
+      Caption = 'Mensagem de Erro:'
+    end
+    object IconImage: TImage
+      Left = 4
+      Top = 12
+      Width = 34
+      Height = 34
+      Picture.Data = {
+        055449636F6E0000010002002020100000000000E80200002600000020200200
+        00000000300100000E0300002800000020000000400000000100040000000000
+        0002000000000000000000000000000000000000000000000000800000800000
+        00808000800000008000800080800000C0C0C000808080000000FF0000FF0000
+        00FFFF00FF000000FF00FF00FFFF0000FFFFFF00000008888888888888888888
+        8888880000008888888888888888888888888880003000000000000000000000
+        0008888803BBBBBBBBBBBBBBBBBBBBBBBB7088883BBBBBBBBBBBBBBBBBBBBBBB
+        BBB708883BBBBBBBBBBBBBBBBBBBBBBBBBBB08883BBBBBBBBBBBB7007BBBBBBB
+        BBBB08803BBBBBBBBBBBB0000BBBBBBBBBB7088003BBBBBBBBBBB0000BBBBBBB
+        BBB0880003BBBBBBBBBBB7007BBBBBBBBB708800003BBBBBBBBBBBBBBBBBBBBB
+        BB088000003BBBBBBBBBBB0BBBBBBBBBB70880000003BBBBBBBBB707BBBBBBBB
+        B08800000003BBBBBBBBB303BBBBBBBB7088000000003BBBBBBBB000BBBBBBBB
+        0880000000003BBBBBBB70007BBBBBB708800000000003BBBBBB30003BBBBBB0
+        88000000000003BBBBBB00000BBBBB70880000000000003BBBBB00000BBBBB08
+        800000000000003BBBBB00000BBBB7088000000000000003BBBB00000BBBB088
+        0000000000000003BBBB00000BBB708800000000000000003BBB70007BBB0880
+        00000000000000003BBBBBBBBBB70880000000000000000003BBBBBBBBB08800
+        000000000000000003BBBBBBBB7088000000000000000000003BBBBBBB088000
+        0000000000000000003BBBBBB708800000000000000000000003BBBBB0880000
+        00000000000000000003BBBB70800000000000000000000000003BB700000000
+        0000000000000000000003330000000000000000F8000003F0000001C0000000
+        80000000000000000000000000000001000000018000000380000003C0000007
+        C0000007E000000FE000000FF000001FF000001FF800003FF800003FFC00007F
+        FC00007FFE0000FFFE0000FFFF0001FFFF0001FFFF8003FFFF8003FFFFC007FF
+        FFC007FFFFE00FFFFFE01FFFFFF07FFFFFF8FFFF280000002000000040000000
+        0100010000000000800000000000000000000000000000000000000000000000
+        FFFFFF000000000000000000000000003FFFFFC07FFFFFE07FFFFFF07FFCFFF0
+        7FF87FE03FF87FE03FFCFFC01FFFFFC01FFDFF800FFDFF800FFDFF0007F8FF00
+        07F8FE0003F8FE0003F07C0001F07C0001F0780000F0780000F070000078F000
+        007FE000003FE000003FC000001FC000001F8000000F8000000F000000060000
+        00000000FFFFFFFFFFFFFFFFC000001F8000000F000000070000000700000007
+        000000078000000F8000000FC000001FC000001FE000003FE000003FF000007F
+        F000007FF80000FFF80000FFFC0001FFFC0001FFFE0003FFFE0003FFFF0007FF
+        FF0007FFFF800FFFFF800FFFFFC01FFFFFC01FFFFFE03FFFFFE03FFFFFF07FFF
+        FFF8FFFF}
+    end
+    object ActionGroup: TRadioGroup
+      Left = 402
+      Top = 47
+      Width = 102
+      Height = 123
+      Caption = ' A'#231#227'o a Tomar  '
+      TabOrder = 0
+      OnClick = DisplayFieldValues
+    end
+    object ErrorMsg: TMemo
+      Left = 48
+      Top = 52
+      Width = 342
+      Height = 117
+      TabStop = False
+      Color = clBtnFace
+      ReadOnly = True
+      TabOrder = 1
+    end
+  end
+end

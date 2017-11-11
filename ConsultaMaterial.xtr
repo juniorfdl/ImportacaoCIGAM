@@ -1,0 +1,493 @@
+<XmlTransformation Version="1.0"><Transform Direction="ToCds" DataEncoding="utf-8"><SelectEach dest="DATAPACKET\ROWDATA\ROW" from="\reg"><Select dest="@codigoMaterial" from="\codigoMaterial"/><Select dest="@codigoGrupo" from="\codigoGrupo"/><Select dest="@codigoSubGrupo" from="\codigoSubGrupo"/><Select dest="@centroControle" from="\centroControle"/><Select dest="@descricao" from="\descricao"/><Select dest="@codigoUnidadeMedida" from="\codigoUnidadeMedida"/><Select dest="@quantidadeRelacaoPaiFilho" from="\quantidadeRelacaoPaiFilho"/><Select dest="@percentualPis" from="\percentualPis"/><Select dest="@percentualCofins" from="\percentualCofins"/><Select dest="@percentualPisRetencao" from="\percentualPisRetencao"/><Select dest="@percentualCofinsRetencao" from="\percentualCofinsRetencao"/><Select dest="@quantidadeRefComposicaoGeral" from="\quantidadeRefComposicaoGeral"/><Select dest="@precoCusto" from="\precoCusto"/><Select dest="@revisaoEngenharia" from="\revisaoEngenharia"/><Select dest="@percentualCsll" from="\percentualCsll"/><Select dest="@percentualIcmsSinief" from="\percentualIcmsSinief"/><Select dest="@codigoContaGerencial" from="\codigoContaGerencial"/><Select dest="@peso" from="\peso"/><Select dest="@percentualMedioIcms" from="\percentualMedioIcms"/><Select dest="@percentualIrrf" from="\percentualIrrf"/><Select dest="@percentualIpi" from="\percentualIpi"/><Select dest="@percentualFrete" from="\percentualFrete"/><Select dest="@percentualEmbalagem" from="\percentualEmbalagem"/><Select dest="@percentualComissao" from="\percentualComissao"/><Select dest="@percentualReajuste" from="\percentualReajuste"/><Select dest="@codigoFiscal" from="\codigoFiscal"/><Select dest="@dataUltimaRevisao" from="\dataUltimaRevisao"/><Select dest="@dataReajuste" from="\dataReajuste"/><Select dest="@codigoFabricante" from="\codigoFabricante"/><Select dest="@codigoFabrica" from="\codigoFabrica"/><Select dest="@referencia" from="\referencia"/><Select dest="@codigoReduzido" from="\codigoReduzido"/><Select dest="@precoStPisCofins" from="\precoStPisCofins"/><Select dest="@conversorCompra" from="\conversorCompra"/><Select dest="@encargosFinanceiros" from="\encargosFinanceiros"/><Select dest="@valorFrete" from="\valorFrete"/><Select dest="@aplicacao" from="\aplicacao"/><Select dest="@codigoEspecif1" from="\codigoEspecif1"/><Select dest="@codigoEspecif2" from="\codigoEspecif2"/><Select dest="@codigoEspecif3" from="\codigoEspecif3"/><Select dest="@codigoEspecif4" from="\codigoEspecif4"/><Select dest="@codigoEspecif5" from="\codigoEspecif5"/><Select dest="@codigoEspecif6" from="\codigoEspecif6"/><Select dest="@percentualRoyaltie" from="\percentualRoyaltie"/><Select dest="@percentualImpostoImportacao" from="\percentualImpostoImportacao"/><Select dest="@dataCadastro" from="\dataCadastro"/><Select dest="@garantiaCompra" from="\garantiaCompra"/><Select dest="@garantiaVenda" from="\garantiaVenda"/><Select dest="@regraCusteio" from="\regraCusteio"/><Select dest="@regraIpi" from="\regraIpi"/><Select dest="@sufixoContabil" from="\sufixoContabil"/><Select dest="@codigoContabil" from="\codigoContabil"/><Select dest="@localizacao" from="\localizacao"/><Select dest="@tipo" from="\tipo"/><Select dest="@volume" from="\volume"/><Select dest="@origemMercadoria" from="\origemMercadoria"/><Select dest="@contabilPrincipalInvSped" from="\contabilPrincipalInvSped"/><Select dest="@precoPauta" from="\precoPauta"/><Select dest="@percIcmsPisCofisImportacao" from="\percIcmsPisCofisImportacao"/><Select dest="@conversorVenda" from="\conversorVenda"/><Select dest="@codigoUnidadeCompra" from="\codigoUnidadeCompra"/><Select dest="@codigoUnidadeVenda" from="\codigoUnidadeVenda"/><Select dest="@pesoEmbalagem" from="\pesoEmbalagem"/><Select dest="@percentualInss" from="\percentualInss"/><Select dest="@valorIpi" from="\valorIpi"/><Select dest="@codigoUnidadeNegocio" from="\codigoUnidadeNegocio"/><Select dest="@sessao" from="\sessao"/><Select dest="@codigoUsuarioModificacao" from="\codigoUsuarioModificacao"/><Select dest="@codigoUsuarioCriacao" from="\codigoUsuarioCriacao"/><Select dest="@dataModificacao" from="\dataModificacao"/><Select dest="@dataLiberaColecao" from="\dataLiberaColecao"/><Select dest="@dataLiberaEsqueleto" from="\dataLiberaEsqueleto"/><Select dest="@configuracaoReposicao" from="\configuracaoReposicao"/><Select dest="@configuracao" from="\configuracao"/><Select dest="@codigoCentroArmazenagemPadrao" from="\codigoCentroArmazenagemPadrao"/><Select dest="@tabPrecosEstruturaComercial" from="\tabPrecosEstruturaComercial"/><Select dest="@utilizaGrade" from="\utilizaGrade"/><Select dest="@tipoFormacaoPrecos" from="\tipoFormacaoPrecos"/><Select dest="@classificacaoAbc" from="\classificacaoAbc"/><Select dest="@qualidadeProduto" from="\qualidadeProduto"/><Select dest="@manterPedidoNf" from="\manterPedidoNf"/><Select dest="@zerarSaldo" from="\zerarSaldo"/><Select dest="@codigoTributario" from="\codigoTributario"/><Select dest="@usuarioUltRevisaoEngenharia" from="\usuarioUltRevisaoEngenharia"/><Select dest="@tipoBaixaOp" from="\tipoBaixaOp"/><Select dest="@estruturaComercial" from="\estruturaComercial"/><Select dest="@controlaNumeroSerie" from="\controlaNumeroSerie"/><Select dest="@criarProdutoClienteNaVenda" from="\criarProdutoClienteNaVenda"/><Select dest="@ordemExibicao" from="\ordemExibicao"/><Select dest="@questionarioAfericaoGa" from="\questionarioAfericaoGa"/><Select dest="@usrmate1" from="\usrmate1"/><Select dest="@usrmate2" from="\usrmate2"/><Select dest="@usrmate3" from="\usrmate3"/><Select dest="@usrmate4" from="\usrmate4"/><Select dest="@usrmate5" from="\usrmate5"/><Select dest="@existeImagem" from="\existeImagem"/><Select dest="@existeDocumento" from="\existeDocumento"/></SelectEach></Transform><XmlSchema RootName="reg"><![CDATA[<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="reg" type="regType"/>
+  <xs:complexType name="regType">
+    <xs:sequence>
+      <xs:element name="codigoMaterial" type="codigoMaterialType"/>
+      <xs:element name="codigoGrupo" type="codigoGrupoType"/>
+      <xs:element name="codigoSubGrupo" type="codigoSubGrupoType"/>
+      <xs:element name="centroControle" type="centroControleType"/>
+      <xs:element name="descricao" type="descricaoType"/>
+      <xs:element name="codigoUnidadeMedida" type="codigoUnidadeMedidaType"/>
+      <xs:element name="quantidadeRelacaoPaiFilho" type="quantidadeRelacaoPaiFilhoType"/>
+      <xs:element name="percentualPis" type="percentualPisType"/>
+      <xs:element name="percentualCofins" type="percentualCofinsType"/>
+      <xs:element name="percentualPisRetencao" type="percentualPisRetencaoType"/>
+      <xs:element name="percentualCofinsRetencao" type="percentualCofinsRetencaoType"/>
+      <xs:element name="quantidadeRefComposicaoGeral" type="quantidadeRefComposicaoGeralType"/>
+      <xs:element name="precoCusto" type="precoCustoType"/>
+      <xs:element name="revisaoEngenharia" type="revisaoEngenhariaType"/>
+      <xs:element name="percentualCsll" type="percentualCsllType"/>
+      <xs:element name="percentualIcmsSinief" type="percentualIcmsSiniefType"/>
+      <xs:element name="codigoContaGerencial" type="codigoContaGerencialType"/>
+      <xs:element name="peso" type="pesoType"/>
+      <xs:element name="percentualMedioIcms" type="percentualMedioIcmsType"/>
+      <xs:element name="percentualIrrf" type="percentualIrrfType"/>
+      <xs:element name="percentualIpi" type="percentualIpiType"/>
+      <xs:element name="percentualFrete" type="percentualFreteType"/>
+      <xs:element name="percentualEmbalagem" type="percentualEmbalagemType"/>
+      <xs:element name="percentualComissao" type="percentualComissaoType"/>
+      <xs:element name="percentualReajuste" type="percentualReajusteType"/>
+      <xs:element name="codigoFiscal" type="codigoFiscalType"/>
+      <xs:element name="dataUltimaRevisao" type="dataUltimaRevisaoType"/>
+      <xs:element name="dataReajuste" type="dataReajusteType"/>
+      <xs:element name="codigoFabricante" type="codigoFabricanteType"/>
+      <xs:element name="codigoFabrica" type="codigoFabricaType"/>
+      <xs:element name="referencia" type="referenciaType"/>
+      <xs:element name="codigoReduzido" type="codigoReduzidoType"/>
+      <xs:element name="precoStPisCofins" type="precoStPisCofinsType"/>
+      <xs:element name="conversorCompra" type="conversorCompraType"/>
+      <xs:element name="encargosFinanceiros" type="encargosFinanceirosType"/>
+      <xs:element name="valorFrete" type="valorFreteType"/>
+      <xs:element name="aplicacao" type="aplicacaoType"/>
+      <xs:element name="codigoEspecif1" type="codigoEspecif1Type"/>
+      <xs:element name="codigoEspecif2" type="codigoEspecif2Type"/>
+      <xs:element name="codigoEspecif3" type="codigoEspecif3Type"/>
+      <xs:element name="codigoEspecif4" type="codigoEspecif4Type"/>
+      <xs:element name="codigoEspecif5" type="codigoEspecif5Type"/>
+      <xs:element name="codigoEspecif6" type="codigoEspecif6Type"/>
+      <xs:element name="percentualRoyaltie" type="percentualRoyaltieType"/>
+      <xs:element name="percentualImpostoImportacao" type="percentualImpostoImportacaoType"/>
+      <xs:element name="dataCadastro" type="dataCadastroType"/>
+      <xs:element name="garantiaCompra" type="garantiaCompraType"/>
+      <xs:element name="garantiaVenda" type="garantiaVendaType"/>
+      <xs:element name="regraCusteio" type="regraCusteioType"/>
+      <xs:element name="regraIpi" type="regraIpiType"/>
+      <xs:element name="sufixoContabil" type="sufixoContabilType"/>
+      <xs:element name="codigoContabil" type="codigoContabilType"/>
+      <xs:element name="localizacao" type="localizacaoType"/>
+      <xs:element name="tipo" type="tipoType"/>
+      <xs:element name="volume" type="volumeType"/>
+      <xs:element name="origemMercadoria" type="origemMercadoriaType"/>
+      <xs:element name="contabilPrincipalInvSped" type="contabilPrincipalInvSpedType"/>
+      <xs:element name="precoPauta" type="precoPautaType"/>
+      <xs:element name="percIcmsPisCofisImportacao" type="percIcmsPisCofisImportacaoType"/>
+      <xs:element name="conversorVenda" type="conversorVendaType"/>
+      <xs:element name="codigoUnidadeCompra" type="codigoUnidadeCompraType"/>
+      <xs:element name="codigoUnidadeVenda" type="codigoUnidadeVendaType"/>
+      <xs:element name="pesoEmbalagem" type="pesoEmbalagemType"/>
+      <xs:element name="percentualInss" type="percentualInssType"/>
+      <xs:element name="valorIpi" type="valorIpiType"/>
+      <xs:element name="codigoUnidadeNegocio" type="codigoUnidadeNegocioType"/>
+      <xs:element name="sessao" type="sessaoType"/>
+      <xs:element name="codigoUsuarioModificacao" type="codigoUsuarioModificacaoType"/>
+      <xs:element name="codigoUsuarioCriacao" type="codigoUsuarioCriacaoType"/>
+      <xs:element name="dataModificacao" type="dataModificacaoType"/>
+      <xs:element name="dataLiberaColecao" type="dataLiberaColecaoType"/>
+      <xs:element name="dataLiberaEsqueleto" type="dataLiberaEsqueletoType"/>
+      <xs:element name="configuracaoReposicao" type="configuracaoReposicaoType"/>
+      <xs:element name="configuracao" type="configuracaoType"/>
+      <xs:element name="codigoCentroArmazenagemPadrao" type="codigoCentroArmazenagemPadraoType"/>
+      <xs:element name="tabPrecosEstruturaComercial" type="tabPrecosEstruturaComercialType"/>
+      <xs:element name="utilizaGrade" type="utilizaGradeType"/>
+      <xs:element name="tipoFormacaoPrecos" type="tipoFormacaoPrecosType"/>
+      <xs:element name="classificacaoAbc" type="classificacaoAbcType"/>
+      <xs:element name="qualidadeProduto" type="qualidadeProdutoType"/>
+      <xs:element name="manterPedidoNf" type="manterPedidoNfType"/>
+      <xs:element name="zerarSaldo" type="zerarSaldoType"/>
+      <xs:element name="codigoTributario" type="codigoTributarioType"/>
+      <xs:element name="usuarioUltRevisaoEngenharia" type="usuarioUltRevisaoEngenhariaType"/>
+      <xs:element name="tipoBaixaOp" type="tipoBaixaOpType"/>
+      <xs:element name="estruturaComercial" type="estruturaComercialType"/>
+      <xs:element name="controlaNumeroSerie" type="controlaNumeroSerieType"/>
+      <xs:element name="criarProdutoClienteNaVenda" type="criarProdutoClienteNaVendaType"/>
+      <xs:element name="ordemExibicao" type="ordemExibicaoType"/>
+      <xs:element name="questionarioAfericaoGa" type="questionarioAfericaoGaType"/>
+      <xs:element name="usrmate1" type="usrmate1Type"/>
+      <xs:element name="usrmate2" type="usrmate2Type"/>
+      <xs:element name="usrmate3" type="usrmate3Type"/>
+      <xs:element name="usrmate4" type="usrmate4Type"/>
+      <xs:element name="usrmate5" type="usrmate5Type"/>
+      <xs:element name="existeImagem" type="existeImagemType"/>
+      <xs:element name="existeDocumento" type="existeDocumentoType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="codigoMaterial" type="codigoMaterialType"/>
+  <xs:simpleType name="codigoMaterialType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoGrupo" type="codigoGrupoType"/>
+  <xs:simpleType name="codigoGrupoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoSubGrupo" type="codigoSubGrupoType"/>
+  <xs:simpleType name="codigoSubGrupoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="centroControle" type="centroControleType"/>
+  <xs:simpleType name="centroControleType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="descricao" type="descricaoType"/>
+  <xs:simpleType name="descricaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoUnidadeMedida" type="codigoUnidadeMedidaType"/>
+  <xs:simpleType name="codigoUnidadeMedidaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="quantidadeRelacaoPaiFilho" type="quantidadeRelacaoPaiFilhoType"/>
+  <xs:simpleType name="quantidadeRelacaoPaiFilhoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualPis" type="percentualPisType"/>
+  <xs:simpleType name="percentualPisType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualCofins" type="percentualCofinsType"/>
+  <xs:simpleType name="percentualCofinsType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualPisRetencao" type="percentualPisRetencaoType"/>
+  <xs:simpleType name="percentualPisRetencaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualCofinsRetencao" type="percentualCofinsRetencaoType"/>
+  <xs:simpleType name="percentualCofinsRetencaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="quantidadeRefComposicaoGeral" type="quantidadeRefComposicaoGeralType"/>
+  <xs:simpleType name="quantidadeRefComposicaoGeralType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="precoCusto" type="precoCustoType"/>
+  <xs:simpleType name="precoCustoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="revisaoEngenharia" type="revisaoEngenhariaType"/>
+  <xs:simpleType name="revisaoEngenhariaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualCsll" type="percentualCsllType"/>
+  <xs:simpleType name="percentualCsllType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualIcmsSinief" type="percentualIcmsSiniefType"/>
+  <xs:simpleType name="percentualIcmsSiniefType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoContaGerencial" type="codigoContaGerencialType"/>
+  <xs:simpleType name="codigoContaGerencialType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="peso" type="pesoType"/>
+  <xs:simpleType name="pesoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualMedioIcms" type="percentualMedioIcmsType"/>
+  <xs:simpleType name="percentualMedioIcmsType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualIrrf" type="percentualIrrfType"/>
+  <xs:simpleType name="percentualIrrfType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualIpi" type="percentualIpiType"/>
+  <xs:simpleType name="percentualIpiType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualFrete" type="percentualFreteType"/>
+  <xs:simpleType name="percentualFreteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualEmbalagem" type="percentualEmbalagemType"/>
+  <xs:simpleType name="percentualEmbalagemType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualComissao" type="percentualComissaoType"/>
+  <xs:simpleType name="percentualComissaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualReajuste" type="percentualReajusteType"/>
+  <xs:simpleType name="percentualReajusteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoFiscal" type="codigoFiscalType"/>
+  <xs:simpleType name="codigoFiscalType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="dataUltimaRevisao" type="dataUltimaRevisaoType"/>
+  <xs:simpleType name="dataUltimaRevisaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="dataReajuste" type="dataReajusteType"/>
+  <xs:simpleType name="dataReajusteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoFabricante" type="codigoFabricanteType"/>
+  <xs:simpleType name="codigoFabricanteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoFabrica" type="codigoFabricaType"/>
+  <xs:simpleType name="codigoFabricaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="referencia" type="referenciaType"/>
+  <xs:simpleType name="referenciaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoReduzido" type="codigoReduzidoType"/>
+  <xs:simpleType name="codigoReduzidoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="precoStPisCofins" type="precoStPisCofinsType"/>
+  <xs:simpleType name="precoStPisCofinsType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="conversorCompra" type="conversorCompraType"/>
+  <xs:simpleType name="conversorCompraType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="encargosFinanceiros" type="encargosFinanceirosType"/>
+  <xs:simpleType name="encargosFinanceirosType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorFrete" type="valorFreteType"/>
+  <xs:simpleType name="valorFreteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="aplicacao" type="aplicacaoType"/>
+  <xs:simpleType name="aplicacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoEspecif1" type="codigoEspecif1Type"/>
+  <xs:simpleType name="codigoEspecif1Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoEspecif2" type="codigoEspecif2Type"/>
+  <xs:simpleType name="codigoEspecif2Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoEspecif3" type="codigoEspecif3Type"/>
+  <xs:simpleType name="codigoEspecif3Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoEspecif4" type="codigoEspecif4Type"/>
+  <xs:simpleType name="codigoEspecif4Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoEspecif5" type="codigoEspecif5Type"/>
+  <xs:simpleType name="codigoEspecif5Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoEspecif6" type="codigoEspecif6Type"/>
+  <xs:simpleType name="codigoEspecif6Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualRoyaltie" type="percentualRoyaltieType"/>
+  <xs:simpleType name="percentualRoyaltieType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualImpostoImportacao" type="percentualImpostoImportacaoType"/>
+  <xs:simpleType name="percentualImpostoImportacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="dataCadastro" type="dataCadastroType"/>
+  <xs:simpleType name="dataCadastroType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="garantiaCompra" type="garantiaCompraType"/>
+  <xs:simpleType name="garantiaCompraType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="garantiaVenda" type="garantiaVendaType"/>
+  <xs:simpleType name="garantiaVendaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="regraCusteio" type="regraCusteioType"/>
+  <xs:simpleType name="regraCusteioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="regraIpi" type="regraIpiType"/>
+  <xs:simpleType name="regraIpiType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="sufixoContabil" type="sufixoContabilType"/>
+  <xs:simpleType name="sufixoContabilType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoContabil" type="codigoContabilType"/>
+  <xs:simpleType name="codigoContabilType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="localizacao" type="localizacaoType"/>
+  <xs:simpleType name="localizacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tipo" type="tipoType"/>
+  <xs:simpleType name="tipoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="volume" type="volumeType"/>
+  <xs:simpleType name="volumeType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="origemMercadoria" type="origemMercadoriaType"/>
+  <xs:simpleType name="origemMercadoriaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="contabilPrincipalInvSped" type="contabilPrincipalInvSpedType"/>
+  <xs:simpleType name="contabilPrincipalInvSpedType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="precoPauta" type="precoPautaType"/>
+  <xs:simpleType name="precoPautaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percIcmsPisCofisImportacao" type="percIcmsPisCofisImportacaoType"/>
+  <xs:simpleType name="percIcmsPisCofisImportacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="conversorVenda" type="conversorVendaType"/>
+  <xs:simpleType name="conversorVendaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoUnidadeCompra" type="codigoUnidadeCompraType"/>
+  <xs:simpleType name="codigoUnidadeCompraType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoUnidadeVenda" type="codigoUnidadeVendaType"/>
+  <xs:simpleType name="codigoUnidadeVendaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="pesoEmbalagem" type="pesoEmbalagemType"/>
+  <xs:simpleType name="pesoEmbalagemType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualInss" type="percentualInssType"/>
+  <xs:simpleType name="percentualInssType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorIpi" type="valorIpiType"/>
+  <xs:simpleType name="valorIpiType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoUnidadeNegocio" type="codigoUnidadeNegocioType"/>
+  <xs:simpleType name="codigoUnidadeNegocioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="sessao" type="sessaoType"/>
+  <xs:simpleType name="sessaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoUsuarioModificacao" type="codigoUsuarioModificacaoType"/>
+  <xs:simpleType name="codigoUsuarioModificacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoUsuarioCriacao" type="codigoUsuarioCriacaoType"/>
+  <xs:simpleType name="codigoUsuarioCriacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="dataModificacao" type="dataModificacaoType"/>
+  <xs:simpleType name="dataModificacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="dataLiberaColecao" type="dataLiberaColecaoType"/>
+  <xs:simpleType name="dataLiberaColecaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="dataLiberaEsqueleto" type="dataLiberaEsqueletoType"/>
+  <xs:simpleType name="dataLiberaEsqueletoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="configuracaoReposicao" type="configuracaoReposicaoType"/>
+  <xs:simpleType name="configuracaoReposicaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="configuracao" type="configuracaoType"/>
+  <xs:simpleType name="configuracaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoCentroArmazenagemPadrao" type="codigoCentroArmazenagemPadraoType"/>
+  <xs:simpleType name="codigoCentroArmazenagemPadraoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tabPrecosEstruturaComercial" type="tabPrecosEstruturaComercialType"/>
+  <xs:simpleType name="tabPrecosEstruturaComercialType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="utilizaGrade" type="utilizaGradeType"/>
+  <xs:simpleType name="utilizaGradeType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tipoFormacaoPrecos" type="tipoFormacaoPrecosType"/>
+  <xs:simpleType name="tipoFormacaoPrecosType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="classificacaoAbc" type="classificacaoAbcType"/>
+  <xs:simpleType name="classificacaoAbcType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="qualidadeProduto" type="qualidadeProdutoType"/>
+  <xs:simpleType name="qualidadeProdutoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="manterPedidoNf" type="manterPedidoNfType"/>
+  <xs:simpleType name="manterPedidoNfType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="zerarSaldo" type="zerarSaldoType"/>
+  <xs:simpleType name="zerarSaldoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoTributario" type="codigoTributarioType"/>
+  <xs:simpleType name="codigoTributarioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="usuarioUltRevisaoEngenharia" type="usuarioUltRevisaoEngenhariaType"/>
+  <xs:simpleType name="usuarioUltRevisaoEngenhariaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tipoBaixaOp" type="tipoBaixaOpType"/>
+  <xs:simpleType name="tipoBaixaOpType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="estruturaComercial" type="estruturaComercialType"/>
+  <xs:simpleType name="estruturaComercialType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="controlaNumeroSerie" type="controlaNumeroSerieType"/>
+  <xs:simpleType name="controlaNumeroSerieType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="criarProdutoClienteNaVenda" type="criarProdutoClienteNaVendaType"/>
+  <xs:simpleType name="criarProdutoClienteNaVendaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="ordemExibicao" type="ordemExibicaoType"/>
+  <xs:simpleType name="ordemExibicaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="questionarioAfericaoGa" type="questionarioAfericaoGaType"/>
+  <xs:simpleType name="questionarioAfericaoGaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="usrmate1" type="usrmate1Type"/>
+  <xs:simpleType name="usrmate1Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="usrmate2" type="usrmate2Type"/>
+  <xs:simpleType name="usrmate2Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="usrmate3" type="usrmate3Type"/>
+  <xs:simpleType name="usrmate3Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="usrmate4" type="usrmate4Type"/>
+  <xs:simpleType name="usrmate4Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="usrmate5" type="usrmate5Type"/>
+  <xs:simpleType name="usrmate5Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="existeImagem" type="existeImagemType"/>
+  <xs:simpleType name="existeImagemType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="existeDocumento" type="existeDocumentoType"/>
+  <xs:simpleType name="existeDocumentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+</xs:schema>]]></XmlSchema><CdsSkeleton/><XslTransform/><Skeleton><![CDATA[<?xml version="1.0"?><DATAPACKET Version="2.0"><METADATA><FIELDS><FIELD attrname="codigoMaterial" fieldtype="string" WIDTH="9"/><FIELD attrname="codigoGrupo" fieldtype="string" WIDTH="2"/><FIELD attrname="codigoSubGrupo" fieldtype="string" WIDTH="2"/><FIELD attrname="centroControle" fieldtype="string" WIDTH="32"/><FIELD attrname="descricao" fieldtype="string" WIDTH="24"/><FIELD attrname="codigoUnidadeMedida" fieldtype="string" WIDTH="2"/><FIELD attrname="quantidadeRelacaoPaiFilho" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualPis" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualCofins" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualPisRetencao" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualCofinsRetencao" fieldtype="string" WIDTH="1"/><FIELD attrname="quantidadeRefComposicaoGeral" fieldtype="string" WIDTH="1"/><FIELD attrname="precoCusto" fieldtype="string" WIDTH="1"/><FIELD attrname="revisaoEngenharia" fieldtype="string" WIDTH="2"/><FIELD attrname="percentualCsll" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualIcmsSinief" fieldtype="string" WIDTH="4"/><FIELD attrname="codigoContaGerencial" fieldtype="string" WIDTH="32"/><FIELD attrname="peso" fieldtype="string" WIDTH="5"/><FIELD attrname="percentualMedioIcms" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualIrrf" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualIpi" fieldtype="string" WIDTH="2"/><FIELD attrname="percentualFrete" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualEmbalagem" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualComissao" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualReajuste" fieldtype="string" WIDTH="1"/><FIELD attrname="codigoFiscal" fieldtype="string" WIDTH="8"/><FIELD attrname="dataUltimaRevisao" fieldtype="string" WIDTH="10"/><FIELD attrname="dataReajuste" fieldtype="string" WIDTH="10"/><FIELD attrname="codigoFabricante" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoFabrica" fieldtype="string" WIDTH="6"/><FIELD attrname="referencia" fieldtype="string" WIDTH="6"/><FIELD attrname="codigoReduzido" fieldtype="string" WIDTH="3"/><FIELD attrname="precoStPisCofins" fieldtype="string" WIDTH="1"/><FIELD attrname="conversorCompra" fieldtype="string" WIDTH="1"/><FIELD attrname="encargosFinanceiros" fieldtype="string" WIDTH="1"/><FIELD attrname="valorFrete" fieldtype="string" WIDTH="1"/><FIELD attrname="aplicacao" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoEspecif1" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoEspecif2" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoEspecif3" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoEspecif4" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoEspecif5" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoEspecif6" fieldtype="string" WIDTH="32"/><FIELD attrname="percentualRoyaltie" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualImpostoImportacao" fieldtype="string" WIDTH="1"/><FIELD attrname="dataCadastro" fieldtype="string" WIDTH="10"/><FIELD attrname="garantiaCompra" fieldtype="string" WIDTH="1"/><FIELD attrname="garantiaVenda" fieldtype="string" WIDTH="1"/><FIELD attrname="regraCusteio" fieldtype="string" WIDTH="32"/><FIELD attrname="regraIpi" fieldtype="string" WIDTH="32"/><FIELD attrname="sufixoContabil" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoContabil" fieldtype="string" WIDTH="32"/><FIELD attrname="localizacao" fieldtype="string" WIDTH="32"/><FIELD attrname="tipo" fieldtype="string" WIDTH="1"/><FIELD attrname="volume" fieldtype="string" WIDTH="10"/><FIELD attrname="origemMercadoria" fieldtype="string" WIDTH="1"/><FIELD attrname="contabilPrincipalInvSped" fieldtype="string" WIDTH="4"/><FIELD attrname="precoPauta" fieldtype="string" WIDTH="1"/><FIELD attrname="percIcmsPisCofisImportacao" fieldtype="string" WIDTH="1"/><FIELD attrname="conversorVenda" fieldtype="string" WIDTH="1"/><FIELD attrname="codigoUnidadeCompra" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoUnidadeVenda" fieldtype="string" WIDTH="32"/><FIELD attrname="pesoEmbalagem" fieldtype="string" WIDTH="6"/><FIELD attrname="percentualInss" fieldtype="string" WIDTH="1"/><FIELD attrname="valorIpi" fieldtype="string" WIDTH="1"/><FIELD attrname="codigoUnidadeNegocio" fieldtype="string" WIDTH="32"/><FIELD attrname="sessao" fieldtype="string" WIDTH="6"/><FIELD attrname="codigoUsuarioModificacao" fieldtype="string" WIDTH="3"/><FIELD attrname="codigoUsuarioCriacao" fieldtype="string" WIDTH="3"/><FIELD attrname="dataModificacao" fieldtype="string" WIDTH="10"/><FIELD attrname="dataLiberaColecao" fieldtype="string" WIDTH="4"/><FIELD attrname="dataLiberaEsqueleto" fieldtype="string" WIDTH="4"/><FIELD attrname="configuracaoReposicao" fieldtype="string" WIDTH="32"/><FIELD attrname="configuracao" fieldtype="string" WIDTH="6"/><FIELD attrname="codigoCentroArmazenagemPadrao" fieldtype="string" WIDTH="3"/><FIELD attrname="tabPrecosEstruturaComercial" fieldtype="string" WIDTH="32"/><FIELD attrname="utilizaGrade" fieldtype="string" WIDTH="32"/><FIELD attrname="tipoFormacaoPrecos" fieldtype="string" WIDTH="32"/><FIELD attrname="classificacaoAbc" fieldtype="string" WIDTH="32"/><FIELD attrname="qualidadeProduto" fieldtype="string" WIDTH="32"/><FIELD attrname="manterPedidoNf" fieldtype="string" WIDTH="2"/><FIELD attrname="zerarSaldo" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoTributario" fieldtype="string" WIDTH="32"/><FIELD attrname="usuarioUltRevisaoEngenharia" fieldtype="string" WIDTH="3"/><FIELD attrname="tipoBaixaOp" fieldtype="string" WIDTH="32"/><FIELD attrname="estruturaComercial" fieldtype="string" WIDTH="5"/><FIELD attrname="controlaNumeroSerie" fieldtype="string" WIDTH="5"/><FIELD attrname="criarProdutoClienteNaVenda" fieldtype="string" WIDTH="5"/><FIELD attrname="ordemExibicao" fieldtype="string" WIDTH="1"/><FIELD attrname="questionarioAfericaoGa" fieldtype="string" WIDTH="32"/><FIELD attrname="usrmate1" fieldtype="string" WIDTH="32"/><FIELD attrname="usrmate2" fieldtype="string" WIDTH="32"/><FIELD attrname="usrmate3" fieldtype="string" WIDTH="32"/><FIELD attrname="usrmate4" fieldtype="string" WIDTH="4"/><FIELD attrname="usrmate5" fieldtype="string" WIDTH="1"/><FIELD attrname="existeImagem" fieldtype="string" WIDTH="5"/><FIELD attrname="existeDocumento" fieldtype="string" WIDTH="5"/></FIELDS><PARAMS/></METADATA><ROWDATA/><METADATA><FIELDS><FIELD attrname="codigoMaterial" fieldtype="string" WIDTH="9"/><FIELD attrname="codigoGrupo" fieldtype="string" WIDTH="2"/><FIELD attrname="codigoSubGrupo" fieldtype="string" WIDTH="2"/><FIELD attrname="centroControle" fieldtype="string" WIDTH="32"/><FIELD attrname="descricao" fieldtype="string" WIDTH="24"/><FIELD attrname="codigoUnidadeMedida" fieldtype="string" WIDTH="2"/><FIELD attrname="quantidadeRelacaoPaiFilho" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualPis" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualCofins" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualPisRetencao" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualCofinsRetencao" fieldtype="string" WIDTH="1"/><FIELD attrname="quantidadeRefComposicaoGeral" fieldtype="string" WIDTH="1"/><FIELD attrname="precoCusto" fieldtype="string" WIDTH="1"/><FIELD attrname="revisaoEngenharia" fieldtype="string" WIDTH="2"/><FIELD attrname="percentualCsll" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualIcmsSinief" fieldtype="string" WIDTH="4"/><FIELD attrname="codigoContaGerencial" fieldtype="string" WIDTH="32"/><FIELD attrname="peso" fieldtype="string" WIDTH="5"/><FIELD attrname="percentualMedioIcms" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualIrrf" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualIpi" fieldtype="string" WIDTH="2"/><FIELD attrname="percentualFrete" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualEmbalagem" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualComissao" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualReajuste" fieldtype="string" WIDTH="1"/><FIELD attrname="codigoFiscal" fieldtype="string" WIDTH="8"/><FIELD attrname="dataUltimaRevisao" fieldtype="string" WIDTH="10"/><FIELD attrname="dataReajuste" fieldtype="string" WIDTH="10"/><FIELD attrname="codigoFabricante" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoFabrica" fieldtype="string" WIDTH="6"/><FIELD attrname="referencia" fieldtype="string" WIDTH="6"/><FIELD attrname="codigoReduzido" fieldtype="string" WIDTH="3"/><FIELD attrname="precoStPisCofins" fieldtype="string" WIDTH="1"/><FIELD attrname="conversorCompra" fieldtype="string" WIDTH="1"/><FIELD attrname="encargosFinanceiros" fieldtype="string" WIDTH="1"/><FIELD attrname="valorFrete" fieldtype="string" WIDTH="1"/><FIELD attrname="aplicacao" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoEspecif1" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoEspecif2" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoEspecif3" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoEspecif4" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoEspecif5" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoEspecif6" fieldtype="string" WIDTH="32"/><FIELD attrname="percentualRoyaltie" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualImpostoImportacao" fieldtype="string" WIDTH="1"/><FIELD attrname="dataCadastro" fieldtype="string" WIDTH="10"/><FIELD attrname="garantiaCompra" fieldtype="string" WIDTH="1"/><FIELD attrname="garantiaVenda" fieldtype="string" WIDTH="1"/><FIELD attrname="regraCusteio" fieldtype="string" WIDTH="32"/><FIELD attrname="regraIpi" fieldtype="string" WIDTH="32"/><FIELD attrname="sufixoContabil" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoContabil" fieldtype="string" WIDTH="32"/><FIELD attrname="localizacao" fieldtype="string" WIDTH="32"/><FIELD attrname="tipo" fieldtype="string" WIDTH="1"/><FIELD attrname="volume" fieldtype="string" WIDTH="10"/><FIELD attrname="origemMercadoria" fieldtype="string" WIDTH="1"/><FIELD attrname="contabilPrincipalInvSped" fieldtype="string" WIDTH="4"/><FIELD attrname="precoPauta" fieldtype="string" WIDTH="1"/><FIELD attrname="percIcmsPisCofisImportacao" fieldtype="string" WIDTH="1"/><FIELD attrname="conversorVenda" fieldtype="string" WIDTH="1"/><FIELD attrname="codigoUnidadeCompra" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoUnidadeVenda" fieldtype="string" WIDTH="32"/><FIELD attrname="pesoEmbalagem" fieldtype="string" WIDTH="6"/><FIELD attrname="percentualInss" fieldtype="string" WIDTH="1"/><FIELD attrname="valorIpi" fieldtype="string" WIDTH="1"/><FIELD attrname="codigoUnidadeNegocio" fieldtype="string" WIDTH="32"/><FIELD attrname="sessao" fieldtype="string" WIDTH="6"/><FIELD attrname="codigoUsuarioModificacao" fieldtype="string" WIDTH="3"/><FIELD attrname="codigoUsuarioCriacao" fieldtype="string" WIDTH="3"/><FIELD attrname="dataModificacao" fieldtype="string" WIDTH="10"/><FIELD attrname="dataLiberaColecao" fieldtype="string" WIDTH="4"/><FIELD attrname="dataLiberaEsqueleto" fieldtype="string" WIDTH="4"/><FIELD attrname="configuracaoReposicao" fieldtype="string" WIDTH="32"/><FIELD attrname="configuracao" fieldtype="string" WIDTH="6"/><FIELD attrname="codigoCentroArmazenagemPadrao" fieldtype="string" WIDTH="3"/><FIELD attrname="tabPrecosEstruturaComercial" fieldtype="string" WIDTH="32"/><FIELD attrname="utilizaGrade" fieldtype="string" WIDTH="32"/><FIELD attrname="tipoFormacaoPrecos" fieldtype="string" WIDTH="32"/><FIELD attrname="classificacaoAbc" fieldtype="string" WIDTH="32"/><FIELD attrname="qualidadeProduto" fieldtype="string" WIDTH="32"/><FIELD attrname="manterPedidoNf" fieldtype="string" WIDTH="2"/><FIELD attrname="zerarSaldo" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoTributario" fieldtype="string" WIDTH="32"/><FIELD attrname="usuarioUltRevisaoEngenharia" fieldtype="string" WIDTH="3"/><FIELD attrname="tipoBaixaOp" fieldtype="string" WIDTH="32"/><FIELD attrname="estruturaComercial" fieldtype="string" WIDTH="5"/><FIELD attrname="controlaNumeroSerie" fieldtype="string" WIDTH="5"/><FIELD attrname="criarProdutoClienteNaVenda" fieldtype="string" WIDTH="5"/><FIELD attrname="ordemExibicao" fieldtype="string" WIDTH="1"/><FIELD attrname="questionarioAfericaoGa" fieldtype="string" WIDTH="32"/><FIELD attrname="usrmate1" fieldtype="string" WIDTH="32"/><FIELD attrname="usrmate2" fieldtype="string" WIDTH="32"/><FIELD attrname="usrmate3" fieldtype="string" WIDTH="32"/><FIELD attrname="usrmate4" fieldtype="string" WIDTH="4"/><FIELD attrname="usrmate5" fieldtype="string" WIDTH="1"/><FIELD attrname="existeImagem" fieldtype="string" WIDTH="5"/><FIELD attrname="existeDocumento" fieldtype="string" WIDTH="5"/></FIELDS><PARAMS/></METADATA><ROWDATA/></DATAPACKET>
+]]></Skeleton></XmlTransformation>

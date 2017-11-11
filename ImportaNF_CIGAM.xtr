@@ -1,0 +1,193 @@
+<XmlTransformation Version="1.0"><Transform Direction="ToCds"><SelectEach dest="DATAPACKET\ROWDATA\ROW" from="\cadastrarNotasFiscais\notasFiscais\notaFiscal"><Select dest="@unidadeNegocio" from="\unidadeNegocio"/><Select dest="@nf" from="\nf"/><Select dest="@serie" from="\serie"/><Select dest="@tipoOperacao" from="\tipoOperacao"/><Select dest="@dataEmissao" from="\dataEmissao"/><Select dest="@cliente" from="\cliente"/><Select dest="@representante1" from="\representante"/><Select dest="@uf" from="\uf"/><Select dest="@quantidadeTotal" from="\quantidadeTotal"/><Select dest="@codigoMaterial" from="\itensNf\itemNf\codigoMaterial"/><Select dest="@centroArmazenagem" from="\itensNf\itemNf\centroArmazenagem"/><Select dest="@grade" from="\itensNf\itemNf\grade"/><Select dest="@quantidade1" from="\itensNf\itemNf\quantidade"/><Select dest="@precoUnitario" from="\itensNf\itemNf\precoUnitario"/><Select dest="@descricao" from="\itensNf\itemNf\descricao"/><Select dest="@numeracao" from="\itensNf\itemNf\grades\gradeItemNf\numeracao"/><Select dest="@quantidade2" from="\itensNf\itemNf\grades\gradeItemNf\quantidade"/><Select dest="@representante2" from="\itensNf\itemNf\comissoesItem\comissaoNf\representante"/><Select dest="@valorBaseComissao1" from="\itensNf\itemNf\comissoesItem\comissaoNf\valorBaseComissao"/><Select dest="@percentualComissao1" from="\itensNf\itemNf\comissoesItem\comissaoNf\percentualComissao"/><Select dest="@representante3" from="\comissoesNf\comissaoNf\representante"/><Select dest="@valorBaseComissao2" from="\comissoesNf\comissaoNf\valorBaseComissao"/><Select dest="@percentualComissao2" from="\comissoesNf\comissaoNf\percentualComissao"/><Select dest="@vencimento" from="\parcelasNf\parcelaNf\vencimento"/><Select dest="@valorParcela" from="\parcelasNf\parcelaNf\valorParcela"/></SelectEach></Transform><XmlSchema RootName="cadastrarNotasFiscais"><![CDATA[<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="cadastrarNotasFiscais" type="cadastrarNotasFiscaisType"/>
+  <xs:complexType name="cadastrarNotasFiscaisType">
+    <xs:sequence>
+      <xs:element name="notasFiscais" type="notasFiscaisType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="notasFiscais" type="notasFiscaisType"/>
+  <xs:complexType name="notasFiscaisType">
+    <xs:sequence>
+      <xs:element name="notaFiscal" type="notaFiscalType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="notaFiscal" type="notaFiscalType"/>
+  <xs:complexType name="notaFiscalType">
+    <xs:sequence>
+      <xs:element name="unidadeNegocio" type="unidadeNegocioType"/>
+      <xs:element name="nf" type="nfType"/>
+      <xs:element name="serie" type="serieType"/>
+      <xs:element name="tipoOperacao" type="tipoOperacaoType"/>
+      <xs:element name="dataEmissao" type="dataEmissaoType"/>
+      <xs:element name="cliente" type="clienteType"/>
+      <xs:element name="representante" type="representanteType"/>
+      <xs:element name="uf" type="ufType"/>
+      <xs:element name="quantidadeTotal" type="quantidadeTotalType"/>
+      <xs:element name="itensNf" type="itensNfType"/>
+      <xs:element name="comissoesNf" type="comissoesNfType"/>
+      <xs:element name="parcelasNf" type="parcelasNfType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="unidadeNegocio" type="unidadeNegocioType"/>
+  <xs:simpleType name="unidadeNegocioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="nf" type="nfType"/>
+  <xs:simpleType name="nfType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="serie" type="serieType"/>
+  <xs:simpleType name="serieType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tipoOperacao" type="tipoOperacaoType"/>
+  <xs:simpleType name="tipoOperacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="dataEmissao" type="dataEmissaoType"/>
+  <xs:simpleType name="dataEmissaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="cliente" type="clienteType"/>
+  <xs:simpleType name="clienteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="representante" type="representanteType"/>
+  <xs:simpleType name="representanteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="uf" type="ufType"/>
+  <xs:simpleType name="ufType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="quantidadeTotal" type="quantidadeTotalType"/>
+  <xs:simpleType name="quantidadeTotalType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="itensNf" type="itensNfType"/>
+  <xs:complexType name="itensNfType">
+    <xs:sequence>
+      <xs:element name="itemNf" type="itemNfType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="itemNf" type="itemNfType"/>
+  <xs:complexType name="itemNfType">
+    <xs:sequence>
+      <xs:element name="codigoMaterial" type="codigoMaterialType"/>
+      <xs:element name="centroArmazenagem" type="centroArmazenagemType"/>
+      <xs:element name="grade" type="gradeType"/>
+      <xs:element name="quantidade" type="quantidadeType"/>
+      <xs:element name="precoUnitario" type="precoUnitarioType"/>
+      <xs:element name="descricao" type="descricaoType"/>
+      <xs:element name="grades" type="gradesType"/>
+      <xs:element name="comissoesItem" type="comissoesItemType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="codigoMaterial" type="codigoMaterialType"/>
+  <xs:simpleType name="codigoMaterialType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="centroArmazenagem" type="centroArmazenagemType"/>
+  <xs:simpleType name="centroArmazenagemType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="grade" type="gradeType"/>
+  <xs:simpleType name="gradeType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="quantidade" type="quantidadeType"/>
+  <xs:simpleType name="quantidadeType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="precoUnitario" type="precoUnitarioType"/>
+  <xs:simpleType name="precoUnitarioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="descricao" type="descricaoType"/>
+  <xs:simpleType name="descricaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="grades" type="gradesType"/>
+  <xs:complexType name="gradesType">
+    <xs:sequence>
+      <xs:element name="gradeItemNf" type="gradeItemNfType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="gradeItemNf" type="gradeItemNfType"/>
+  <xs:complexType name="gradeItemNfType">
+    <xs:sequence>
+      <xs:element name="numeracao" type="numeracaoType"/>
+      <xs:element name="quantidade" type="quantidadeType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="numeracao" type="numeracaoType"/>
+  <xs:simpleType name="numeracaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="quantidade" type="quantidadeType"/>
+  <xs:simpleType name="quantidadeType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="comissoesItem" type="comissoesItemType"/>
+  <xs:complexType name="comissoesItemType">
+    <xs:sequence>
+      <xs:element name="comissaoNf" type="comissaoNfType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="comissaoNf" type="comissaoNfType"/>
+  <xs:complexType name="comissaoNfType">
+    <xs:sequence>
+      <xs:element name="representante" type="representanteType"/>
+      <xs:element name="valorBaseComissao" type="valorBaseComissaoType"/>
+      <xs:element name="percentualComissao" type="percentualComissaoType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="representante" type="representanteType"/>
+  <xs:simpleType name="representanteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorBaseComissao" type="valorBaseComissaoType"/>
+  <xs:simpleType name="valorBaseComissaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualComissao" type="percentualComissaoType"/>
+  <xs:simpleType name="percentualComissaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="comissoesNf" type="comissoesNfType"/>
+  <xs:complexType name="comissoesNfType">
+    <xs:sequence>
+      <xs:element name="comissaoNf" type="comissaoNfType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="comissaoNf" type="comissaoNfType"/>
+  <xs:complexType name="comissaoNfType">
+    <xs:sequence>
+      <xs:element name="representante" type="representanteType"/>
+      <xs:element name="valorBaseComissao" type="valorBaseComissaoType"/>
+      <xs:element name="percentualComissao" type="percentualComissaoType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="parcelasNf" type="parcelasNfType"/>
+  <xs:complexType name="parcelasNfType">
+    <xs:sequence>
+      <xs:element name="parcelaNf" type="parcelaNfType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="parcelaNf" type="parcelaNfType"/>
+  <xs:complexType name="parcelaNfType">
+    <xs:sequence>
+      <xs:element name="vencimento" type="vencimentoType"/>
+      <xs:element name="valorParcela" type="valorParcelaType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="vencimento" type="vencimentoType"/>
+  <xs:simpleType name="vencimentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorParcela" type="valorParcelaType"/>
+  <xs:simpleType name="valorParcelaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+</xs:schema>]]></XmlSchema><CdsSkeleton/><XslTransform/><Skeleton><![CDATA[<?xml version="1.0"?><DATAPACKET Version="2.0"><METADATA><FIELDS><FIELD attrname="unidadeNegocio" fieldtype="string" WIDTH="32"/><FIELD attrname="nf" fieldtype="string" WIDTH="1"/><FIELD attrname="serie" fieldtype="string" WIDTH="32"/><FIELD attrname="tipoOperacao" fieldtype="string" WIDTH="32"/><FIELD attrname="dataEmissao" fieldtype="string" WIDTH="32"/><FIELD attrname="cliente" fieldtype="string" WIDTH="32"/><FIELD attrname="representante1" fieldtype="string" WIDTH="32"/><FIELD attrname="uf" fieldtype="string" WIDTH="32"/><FIELD attrname="quantidadeTotal" fieldtype="string" WIDTH="1"/><FIELD attrname="codigoMaterial" fieldtype="string" WIDTH="32"/><FIELD attrname="centroArmazenagem" fieldtype="string" WIDTH="32"/><FIELD attrname="grade" fieldtype="string" WIDTH="32"/><FIELD attrname="quantidade1" fieldtype="string" WIDTH="1"/><FIELD attrname="precoUnitario" fieldtype="string" WIDTH="1"/><FIELD attrname="descricao" fieldtype="string" WIDTH="32"/><FIELD attrname="numeracao" fieldtype="string" WIDTH="32"/><FIELD attrname="quantidade2" fieldtype="string" WIDTH="1"/><FIELD attrname="representante2" fieldtype="string" WIDTH="32"/><FIELD attrname="valorBaseComissao1" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualComissao1" fieldtype="string" WIDTH="1"/><FIELD attrname="representante3" fieldtype="string" WIDTH="32"/><FIELD attrname="valorBaseComissao2" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualComissao2" fieldtype="string" WIDTH="1"/><FIELD attrname="vencimento" fieldtype="string" WIDTH="32"/><FIELD attrname="valorParcela" fieldtype="string" WIDTH="1"/></FIELDS><PARAMS/></METADATA><ROWDATA/><METADATA><FIELDS><FIELD attrname="unidadeNegocio" fieldtype="string" WIDTH="32"/><FIELD attrname="nf" fieldtype="string" WIDTH="1"/><FIELD attrname="serie" fieldtype="string" WIDTH="32"/><FIELD attrname="tipoOperacao" fieldtype="string" WIDTH="32"/><FIELD attrname="dataEmissao" fieldtype="string" WIDTH="32"/><FIELD attrname="cliente" fieldtype="string" WIDTH="32"/><FIELD attrname="representante1" fieldtype="string" WIDTH="32"/><FIELD attrname="uf" fieldtype="string" WIDTH="32"/><FIELD attrname="quantidadeTotal" fieldtype="string" WIDTH="1"/><FIELD attrname="codigoMaterial" fieldtype="string" WIDTH="32"/><FIELD attrname="centroArmazenagem" fieldtype="string" WIDTH="32"/><FIELD attrname="grade" fieldtype="string" WIDTH="32"/><FIELD attrname="quantidade1" fieldtype="string" WIDTH="1"/><FIELD attrname="precoUnitario" fieldtype="string" WIDTH="1"/><FIELD attrname="descricao" fieldtype="string" WIDTH="32"/><FIELD attrname="numeracao" fieldtype="string" WIDTH="32"/><FIELD attrname="quantidade2" fieldtype="string" WIDTH="1"/><FIELD attrname="representante2" fieldtype="string" WIDTH="32"/><FIELD attrname="valorBaseComissao1" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualComissao1" fieldtype="string" WIDTH="1"/><FIELD attrname="representante3" fieldtype="string" WIDTH="32"/><FIELD attrname="valorBaseComissao2" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualComissao2" fieldtype="string" WIDTH="1"/><FIELD attrname="vencimento" fieldtype="string" WIDTH="32"/><FIELD attrname="valorParcela" fieldtype="string" WIDTH="1"/></FIELDS><PARAMS/></METADATA><ROWDATA/></DATAPACKET>
+]]></Skeleton></XmlTransformation>

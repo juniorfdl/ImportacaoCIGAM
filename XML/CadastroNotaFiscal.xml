@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://webservices.cigam.com/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://webservices.cigam.com/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Serviço destinado ao cadastro de Notas Fiscais</wsdl:documentation>
+  <wsdl:types />
+  <wsdl:message name="ListarIdSoapIn">
+    <wsdl:part name="pin" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="ListarIdSoapOut">
+    <wsdl:part name="ListarIdResult" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="ListarPendentesSoapIn">
+    <wsdl:part name="pin" type="s:string" />
+    <wsdl:part name="statusRegistro" type="s:string" />
+    <wsdl:part name="acao" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="ListarPendentesSoapOut">
+    <wsdl:part name="ListarPendentesResult" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="LiberarPendentesSoapIn">
+    <wsdl:part name="pin" type="s:string" />
+    <wsdl:part name="id" type="s:int" />
+    <wsdl:part name="liberarCorrelatos" type="s:boolean" />
+  </wsdl:message>
+  <wsdl:message name="LiberarPendentesSoapOut">
+    <wsdl:part name="LiberarPendentesResult" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="ListarNotasFiscaisSoapIn">
+    <wsdl:part name="pin" type="s:string" />
+    <wsdl:part name="nf" type="s:int" />
+    <wsdl:part name="serie" type="s:string" />
+    <wsdl:part name="codigoUnidadeNegocio" type="s:string" />
+    <wsdl:part name="tipoOperacao" type="s:string" />
+    <wsdl:part name="codigoCliente" type="s:string" />
+    <wsdl:part name="codigoRepresentante" type="s:string" />
+    <wsdl:part name="tipoNota" type="s:string" />
+    <wsdl:part name="codigoTransportadora" type="s:string" />
+    <wsdl:part name="dataEmissaoInicial" type="s:dateTime" />
+    <wsdl:part name="dataEmissaoFinal" type="s:dateTime" />
+  </wsdl:message>
+  <wsdl:message name="ListarNotasFiscaisSoapOut">
+    <wsdl:part name="ListarNotasFiscaisResult" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="ListarNotasFiscaisPafSoapIn">
+    <wsdl:part name="pin" type="s:string" />
+    <wsdl:part name="nf" type="s:int" />
+    <wsdl:part name="serie" type="s:string" />
+    <wsdl:part name="codigoUnidadeNegocio" type="s:string" />
+    <wsdl:part name="tipoOperacao" type="s:string" />
+    <wsdl:part name="codigoCliente" type="s:string" />
+    <wsdl:part name="codigoRepresentante" type="s:string" />
+    <wsdl:part name="tipoNota" type="s:string" />
+    <wsdl:part name="codigoTransportadora" type="s:string" />
+    <wsdl:part name="dataEmissaoInicial" type="s:dateTime" />
+    <wsdl:part name="dataEmissaoFinal" type="s:dateTime" />
+  </wsdl:message>
+  <wsdl:message name="ListarNotasFiscaisPafSoapOut">
+    <wsdl:part name="ListarNotasFiscaisPafResult" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="ListarComissoesPorRepresentanteSoapIn">
+    <wsdl:part name="pin" type="s:string" />
+    <wsdl:part name="cdRepresentante" type="s:string" />
+    <wsdl:part name="dtEmissaoInicial" type="s:dateTime" />
+    <wsdl:part name="dtEmissaoFinal" type="s:dateTime" />
+  </wsdl:message>
+  <wsdl:message name="ListarComissoesPorRepresentanteSoapOut">
+    <wsdl:part name="ListarComissoesPorRepresentanteResult" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="CadastrarNotasFiscaisSoapIn">
+    <wsdl:part name="pin" type="s:string" />
+    <wsdl:part name="statusRegistro" type="s:string" />
+    <wsdl:part name="notaFiscalXml" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="CadastrarNotasFiscaisSoapOut">
+    <wsdl:part name="CadastrarNotasFiscaisResult" type="s:string" />
+  </wsdl:message>
+  <wsdl:portType name="IntegradorNotaFiscalXmlSoap">
+    <wsdl:operation name="ListarId">
+      <wsdl:input message="tns:ListarIdSoapIn" />
+      <wsdl:output message="tns:ListarIdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarPendentes">
+      <wsdl:input message="tns:ListarPendentesSoapIn" />
+      <wsdl:output message="tns:ListarPendentesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LiberarPendentes">
+      <wsdl:input message="tns:LiberarPendentesSoapIn" />
+      <wsdl:output message="tns:LiberarPendentesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarNotasFiscais">
+      <wsdl:input message="tns:ListarNotasFiscaisSoapIn" />
+      <wsdl:output message="tns:ListarNotasFiscaisSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarNotasFiscaisPaf">
+      <wsdl:input message="tns:ListarNotasFiscaisPafSoapIn" />
+      <wsdl:output message="tns:ListarNotasFiscaisPafSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarComissoesPorRepresentante">
+      <wsdl:input message="tns:ListarComissoesPorRepresentanteSoapIn" />
+      <wsdl:output message="tns:ListarComissoesPorRepresentanteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CadastrarNotasFiscais">
+      <wsdl:input message="tns:CadastrarNotasFiscaisSoapIn" />
+      <wsdl:output message="tns:CadastrarNotasFiscaisSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="IntegradorNotaFiscalXmlSoap" type="tns:IntegradorNotaFiscalXmlSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="ListarId">
+      <soap:operation soapAction="http://webservices.cigam.com/ListarId" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarPendentes">
+      <soap:operation soapAction="http://webservices.cigam.com/ListarPendentes" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LiberarPendentes">
+      <soap:operation soapAction="http://webservices.cigam.com/LiberarPendentes" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarNotasFiscais">
+      <soap:operation soapAction="http://webservices.cigam.com/ListarNotasFiscais" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarNotasFiscaisPaf">
+      <soap:operation soapAction="http://webservices.cigam.com/ListarNotasFiscaisPaf" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarComissoesPorRepresentante">
+      <soap:operation soapAction="http://webservices.cigam.com/ListarComissoesPorRepresentante" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CadastrarNotasFiscais">
+      <soap:operation soapAction="http://webservices.cigam.com/CadastrarNotasFiscais" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="IntegradorNotaFiscalXmlSoap12" type="tns:IntegradorNotaFiscalXmlSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="ListarId">
+      <soap12:operation soapAction="http://webservices.cigam.com/ListarId" style="rpc" />
+      <wsdl:input>
+        <soap12:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://www.w3.org/2003/05/soap-encoding" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://www.w3.org/2003/05/soap-encoding" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarPendentes">
+      <soap12:operation soapAction="http://webservices.cigam.com/ListarPendentes" style="rpc" />
+      <wsdl:input>
+        <soap12:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://www.w3.org/2003/05/soap-encoding" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://www.w3.org/2003/05/soap-encoding" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LiberarPendentes">
+      <soap12:operation soapAction="http://webservices.cigam.com/LiberarPendentes" style="rpc" />
+      <wsdl:input>
+        <soap12:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://www.w3.org/2003/05/soap-encoding" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://www.w3.org/2003/05/soap-encoding" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarNotasFiscais">
+      <soap12:operation soapAction="http://webservices.cigam.com/ListarNotasFiscais" style="rpc" />
+      <wsdl:input>
+        <soap12:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://www.w3.org/2003/05/soap-encoding" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://www.w3.org/2003/05/soap-encoding" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarNotasFiscaisPaf">
+      <soap12:operation soapAction="http://webservices.cigam.com/ListarNotasFiscaisPaf" style="rpc" />
+      <wsdl:input>
+        <soap12:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://www.w3.org/2003/05/soap-encoding" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://www.w3.org/2003/05/soap-encoding" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarComissoesPorRepresentante">
+      <soap12:operation soapAction="http://webservices.cigam.com/ListarComissoesPorRepresentante" style="rpc" />
+      <wsdl:input>
+        <soap12:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://www.w3.org/2003/05/soap-encoding" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://www.w3.org/2003/05/soap-encoding" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CadastrarNotasFiscais">
+      <soap12:operation soapAction="http://webservices.cigam.com/CadastrarNotasFiscais" style="rpc" />
+      <wsdl:input>
+        <soap12:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://www.w3.org/2003/05/soap-encoding" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="encoded" namespace="http://webservices.cigam.com/" encodingStyle="http://www.w3.org/2003/05/soap-encoding" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="IntegradorNotaFiscalXml">
+    <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Serviço destinado ao cadastro de Notas Fiscais</wsdl:documentation>
+    <wsdl:port name="IntegradorNotaFiscalXmlSoap" binding="tns:IntegradorNotaFiscalXmlSoap">
+      <soap:address location="http://200.248.132.66:81/webservice/cigam/Integrador/CadastroNotaFiscal.integrador.asmx" />
+    </wsdl:port>
+    <wsdl:port name="IntegradorNotaFiscalXmlSoap12" binding="tns:IntegradorNotaFiscalXmlSoap12">
+      <soap12:address location="http://200.248.132.66:81/webservice/cigam/Integrador/CadastroNotaFiscal.integrador.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

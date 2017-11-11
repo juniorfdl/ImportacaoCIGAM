@@ -1,0 +1,3740 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<geempres>
+<reg>
+<codigoEmpresa>018145</codigoEmpresa>
+<nomeCompleto>MAIRA VIEIRA MOREIRA EIRELI - ME</nomeCompleto>
+<contato>NFE:</contato>
+<fone>(27) 99948-3217</fone>
+<faxFone> </faxFone>
+<endereco>AV NOGUEIRA DA GAMA</endereco>
+<bairro>CENTRO</bairro>
+<municipio>LINHARES</municipio>
+<uf>ES</uf>
+<cep>29900042</cep>
+<cnpjCpf>24953742000108</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>083175091</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>08/07/2016</dataNascimento>
+<ultimoMovimento>02/08/2017</ultimoMovimento>
+<cadastro>29/06/2016</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia> </fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento>205</codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>113</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>1890</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A08</codigoUsuarioModificacao>
+<enviarCarta> </enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>AGO 17</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>018145</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>1400</numero>
+<complemento>LOJA  4</complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao>I01</portadorPadrao>
+<ativo>True</ativo>
+<sessao>134845</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A00</codigoUsuarioCriacao>
+<dataModificacao>03/08/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>02/08/2017</ultimaVenda>
+<prefixoCnae>56.11</prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae>201</sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>002053</codigoEmpresa>
+<nomeCompleto>M Z MOREIRA SILVESTRE ME</nomeCompleto>
+<contato>NFE: M Z</contato>
+<fone>(22) 2523-3611</fone>
+<faxFone> </faxFone>
+<endereco>RUA DOUTOR ERNESTO BRASILIO</endereco>
+<bairro>CENTRO</bairro>
+<municipio>NOVA FRIBURGO</municipio>
+<uf>RJ</uf>
+<cep>28610120</cep>
+<cnpjCpf>73781791000108</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>84995843</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>30/10/2015</dataNascimento>
+<ultimoMovimento>30/10/2015</ultimoMovimento>
+<cadastro>18/10/2008</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>M Z MOREIRA SILVESTR</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa>F5</tipoEmpresa>
+<atividade>101</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado>SB</codigoMercado>
+<codigoUsuarioModificacao>B37</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>FEV15</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>002053</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>24</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete>1</tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>163411</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A05</codigoUsuarioCriacao>
+<dataModificacao>24/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>30/10/2015</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1>2702</Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>003794</codigoEmpresa>
+<nomeCompleto>NIRCE FERREIRA DE OLIVEIRA-ME</nomeCompleto>
+<contato>NIRCE FERREIRA DE OLIVEIRA-ME</contato>
+<fone>(31) 3831-4164</fone>
+<faxFone> </faxFone>
+<endereco>RUA DR. ALEXANDRE DRUMOND</endereco>
+<bairro>CENTRO</bairro>
+<municipio>ITABIRA</municipio>
+<uf>MG</uf>
+<cep>35900010</cep>
+<cnpjCpf>41808387000194</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>3177925970057</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>24/03/2011</dataNascimento>
+<ultimoMovimento>24/03/2011</ultimoMovimento>
+<cadastro>04/03/2009</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>005528</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>DECORE</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>101</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado>KD</codigoMercado>
+<codigoUsuarioModificacao>A60</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>02JUN</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>003794</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>117</numero>
+<complemento>LT E</complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete>1</tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>114706</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>SUP</codigoUsuarioCriacao>
+<dataModificacao>07/08/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>24/03/2011</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>004145</codigoEmpresa>
+<nomeCompleto>EVANDRO COMERCIAL LTDA</nomeCompleto>
+<contato> </contato>
+<fone>(86) 3323-1916</fone>
+<faxFone> </faxFone>
+<endereco>RUA CARAMURU</endereco>
+<bairro>BOA ESPERANCA</bairro>
+<municipio>PARNAIBA</municipio>
+<uf>PI</uf>
+<cep>64215400</cep>
+<cnpjCpf>06983931000214</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>194578810</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>08/10/2014</dataNascimento>
+<ultimoMovimento>08/10/2014</ultimoMovimento>
+<cadastro>08/04/2009</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>COMERCIAL EVANDRO</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>104</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado>QB</codigoMercado>
+<codigoUsuarioModificacao>A37</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>02JUN</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>004145</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>14</numero>
+<complemento>QD. D CASA 14</complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete>1</tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>090112</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>SUP</codigoUsuarioCriacao>
+<dataModificacao>21/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>08/10/2014</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>004163</codigoEmpresa>
+<nomeCompleto>UTILIDADES DOMESTICAS PADRE BELCHIOR EIRELI - EPP</nomeCompleto>
+<contato> </contato>
+<fone>(31) 3224-3998</fone>
+<faxFone> </faxFone>
+<endereco>R DOS GOITACAZES</endereco>
+<bairro>CENTRO</bairro>
+<municipio>BELO HORIZONTE</municipio>
+<uf>MG</uf>
+<cep>30190050</cep>
+<cnpjCpf>07246758000153</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>0622325180068</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>29/07/2016</dataNascimento>
+<ultimoMovimento>06/06/2017</ultimoMovimento>
+<cadastro>14/04/2009</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>NOSSO LAR UTILIDADES</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>102</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado>KD</codigoMercado>
+<codigoUsuarioModificacao>A32</codigoUsuarioModificacao>
+<enviarCarta> </enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>JUN 17</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>004163</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>531</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete>1</tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio> </codigoUnidadeNegocio>
+<portadorPadrao>I05</portadorPadrao>
+<ativo>True</ativo>
+<sessao>155637</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>SUP</codigoUsuarioCriacao>
+<dataModificacao>28/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>29/07/2016</ultimaVenda>
+<prefixoCnae>47.59</prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae>899</sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>004422</codigoEmpresa>
+<nomeCompleto>RIVATTI MOVEIS LTDA</nomeCompleto>
+<contato>ADRIANA</contato>
+<fone>54-3025-9300</fone>
+<faxFone> </faxFone>
+<endereco>RUA GUAVIROVAS, DAS</endereco>
+<bairro>BELA VISTA</bairro>
+<municipio>CAXIAS DO SUL</municipio>
+<uf>RS</uf>
+<cep>95076140</cep>
+<cnpjCpf>03961151000102</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>0290360048</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>11/08/2009</dataNascimento>
+<ultimoMovimento>10/05/2017</ultimoMovimento>
+<cadastro>02/06/2009</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>0</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>RIVATTI</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor>9</codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>113</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado>UD</codigoMercado>
+<codigoUsuarioModificacao>A82</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>02JUN</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>004422</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>1198</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete>1</tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>25/08/2011</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>133118</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn>201</codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A08</codigoUsuarioCriacao>
+<dataModificacao>01/06/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>11/08/2009</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>006403</codigoEmpresa>
+<nomeCompleto>KARINA DEIENNO BADRAN - ME</nomeCompleto>
+<contato>NFE - KARINA DEIENNO BADRAN -</contato>
+<fone>(16) 3722-2737</fone>
+<faxFone> </faxFone>
+<endereco>RUA MARECHAL DEODORO</endereco>
+<bairro>CENTRO</bairro>
+<municipio>SAO JOAQUIM DA BARRA</municipio>
+<uf>SP</uf>
+<cep>14600000</cep>
+<cnpjCpf>04663383000139</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>642086707117</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>12/07/2016</dataNascimento>
+<ultimoMovimento>29/06/2017</ultimoMovimento>
+<cadastro>15/06/2010</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>LIVRARIA E PAPELARIA</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor>9</codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>108</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A82</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>SET14</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>006403</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>236</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>171640</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A08</codigoUsuarioCriacao>
+<dataModificacao>02/08/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>12/07/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>006688</codigoEmpresa>
+<nomeCompleto>MARIA DOS SANTOS ANDRADE DE CASTRO - ME</nomeCompleto>
+<contato>NFE - ALUA PRESENTES LTDA</contato>
+<fone>(31) 3825-7720</fone>
+<faxFone> </faxFone>
+<endereco>AVENIDA CARLOS CHAGAS</endereco>
+<bairro>CIDADE NOBRE</bairro>
+<municipio>IPATINGA</municipio>
+<uf>MG</uf>
+<cep>35162359</cep>
+<cnpjCpf>06341934000173</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>3132955830011</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>19/04/2016</dataNascimento>
+<ultimoMovimento>16/12/2013</ultimoMovimento>
+<cadastro>17/08/2010</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>ALUA ESPACO TEEN</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>101</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A37</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>JUL15</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>006688</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>249</numero>
+<complemento>LJ A</complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete>1</tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>105714</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A00</codigoUsuarioCriacao>
+<dataModificacao>31/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>19/04/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>007168</codigoEmpresa>
+<nomeCompleto>SANTOS E SANTOS COMERCIO ATACADISTA LTDA</nomeCompleto>
+<contato>NFE - SANTOS E SANTOS COMERCIO</contato>
+<fone>(47) 3366-3783</fone>
+<faxFone> </faxFone>
+<endereco>AV MARGINAL LESTE</endereco>
+<bairro>CENTRO</bairro>
+<municipio>BALNEARIO CAMBORIU</municipio>
+<uf>SC</uf>
+<cep>88330116</cep>
+<cnpjCpf>13059199000175</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>256291764</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>10/07/2013</dataNascimento>
+<ultimoMovimento>10/12/2012</ultimoMovimento>
+<cadastro>02/02/2011</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>MALUVAN ATACADO</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>111</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>B28</codigoUsuarioModificacao>
+<enviarCarta> </enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>JULH13</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>007168</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>950</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>101033</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A05</codigoUsuarioCriacao>
+<dataModificacao>11/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>10/07/2013</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>1</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>007277</codigoEmpresa>
+<nomeCompleto>OSVALDO PERIM SUPERMERCADOS LTDA</nomeCompleto>
+<contato>NFE - OSVALDO PERIM SUPERMERCA</contato>
+<fone>(28) 2101-5000</fone>
+<faxFone> </faxFone>
+<endereco>AV.JONES DOS SANTOS NEVES</endereco>
+<bairro>SANTO ANTONIO</bairro>
+<municipio>CACHOEIRO DE ITAPEMIRIM</municipio>
+<uf>ES</uf>
+<cep>29300500</cep>
+<cnpjCpf>27735448000100</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>080902081</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>22/07/2016</dataNascimento>
+<ultimoMovimento>27/10/2016</ultimoMovimento>
+<cadastro>15/03/2011</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>SUPER PERIM</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>104</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A32</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>NOV15</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>007277</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>79</numero>
+<complemento>79 A 121</complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>165324</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A00</codigoUsuarioCriacao>
+<dataModificacao>28/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>22/07/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>007356</codigoEmpresa>
+<nomeCompleto>ATRIO HOTEIS SA</nomeCompleto>
+<contato>ANA</contato>
+<fone>(54) 3209-5555</fone>
+<faxFone>(54) 3209-5550</faxFone>
+<endereco>RUA JOAO NICHELE</endereco>
+<bairro>SANVITTO II</bairro>
+<municipio>CAXIAS DO SUL</municipio>
+<uf>RS</uf>
+<cep>95001970</cep>
+<cnpjCpf>80732928001090</cnpjCpf>
+<inscrito>False</inscrito>
+<inscricao>ISENTO</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>26/06/2014</dataNascimento>
+<ultimoMovimento>25/07/2017</ultimoMovimento>
+<cadastro>23/03/2011</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>0</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>IBIS HOTEL</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor>9</codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>113</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A08</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>JUN14</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>007356</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>2335</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>23/03/2011</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>172039</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn>201</codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A18</codigoUsuarioCriacao>
+<dataModificacao>26/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>26/06/2014</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss>S</listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>008310</codigoEmpresa>
+<nomeCompleto>CAT COMERCIO IMPORTACAO E EXPORTACAO LTDA-ME</nomeCompleto>
+<contato>NFE - CAT COMERCIO IMPORTACAO</contato>
+<fone>(73) 3268-3311</fone>
+<faxFone> </faxFone>
+<endereco>RUA CONSELHEIRO LUIZ VIANA FILHO</endereco>
+<bairro>CENTRO</bairro>
+<municipio>PORTO SEGURO</municipio>
+<uf>BA</uf>
+<cep>45810000</cep>
+<cnpjCpf>12222362000297</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>006125880</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>20/10/2015</dataNascimento>
+<ultimoMovimento>17/07/2017</ultimoMovimento>
+<cadastro>06/02/2012</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>ATACADAO DA HOTELARI</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>103</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>3100</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A37</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>AGO 16</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>008310</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>100</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete>1</tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao>I01</portadorPadrao>
+<ativo>True</ativo>
+<sessao>162129</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A05</codigoUsuarioCriacao>
+<dataModificacao>01/08/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>20/10/2015</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>008955</codigoEmpresa>
+<nomeCompleto>RIO MARAVILHA ARTIGOS PARA FESTAS LTDA EPP</nomeCompleto>
+<contato>NFE RIO MARAVILHA ARTIGOS PARA</contato>
+<fone>(21) 2232-4493</fone>
+<faxFone> </faxFone>
+<endereco>RUA DA ALFANDEGA</endereco>
+<bairro>CENTRO</bairro>
+<municipio>RIO DE JANEIRO</municipio>
+<uf>RJ</uf>
+<cep>20061022</cep>
+<cnpjCpf>12029671000164</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>79070580</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>20/11/2013</dataNascimento>
+<ultimoMovimento>20/06/2017</ultimoMovimento>
+<cadastro>01/08/2012</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>BRINKMANIA</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>101</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A08</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>MAIO17</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>008955</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>316</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>160744</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A38</codigoUsuarioCriacao>
+<dataModificacao>22/06/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>20/11/2013</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>009783</codigoEmpresa>
+<nomeCompleto>LOJA LINDA LTDA</nomeCompleto>
+<contato>NFE LOJA LINDA</contato>
+<fone>(31)3824-6550</fone>
+<faxFone> </faxFone>
+<endereco>AV CARLOS CHAGAS</endereco>
+<bairro>CIDADE NOBRE</bairro>
+<municipio>IPATINGA</municipio>
+<uf>MG</uf>
+<cep>35162359</cep>
+<cnpjCpf>11266215000175</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>0014722720037</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>14/05/2013</dataNascimento>
+<ultimoMovimento>null</ultimoMovimento>
+<cadastro>18/03/2013</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>LOJA LINDA</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>101</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A37</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>MAR 13</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>009783</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>387</numero>
+<complemento>LJ B</complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>105734</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A66</codigoUsuarioCriacao>
+<dataModificacao>31/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>14/05/2013</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>009924</codigoEmpresa>
+<nomeCompleto>PROCARDIO INSTITUTO DE CARDIOLOGIA DA PARAIBA LTDA</nomeCompleto>
+<contato>ANGELA</contato>
+<fone>(83) 4009-6100</fone>
+<faxFone> </faxFone>
+<endereco>AVENIDA RUI BARBOSA</endereco>
+<bairro>TORRE</bairro>
+<municipio>JOAO PESSOA</municipio>
+<uf>PB</uf>
+<cep>58040490</cep>
+<cnpjCpf>08973539000139</cnpjCpf>
+<inscrito>False</inscrito>
+<inscricao> </inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>29/04/2016</dataNascimento>
+<ultimoMovimento>07/07/2017</ultimoMovimento>
+<cadastro>25/04/2013</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>MEMORIAL SAO FRANCIS</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>113</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A08</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>ABR 16</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>009924</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>198</numero>
+<complemento>TERREO</complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>165714</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A66</codigoUsuarioCriacao>
+<dataModificacao>10/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>29/04/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>010656</codigoEmpresa>
+<nomeCompleto>CARTAO DE CREDITO BANCO DO BRASIL SA</nomeCompleto>
+<contato>NFE_BANCO DO BRASIL SA</contato>
+<fone>(54) 3220-2535</fone>
+<faxFone> </faxFone>
+<endereco>RUA MARQUES DO HERVAL</endereco>
+<bairro>CENTRO</bairro>
+<municipio>CAXIAS DO SUL</municipio>
+<uf>RS</uf>
+<cep>95020260</cep>
+<cnpjCpf>00000000590215</cnpjCpf>
+<inscrito>False</inscrito>
+<inscricao>ISENTO</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>09/12/2013</dataNascimento>
+<ultimoMovimento>06/07/2017</ultimoMovimento>
+<cadastro>05/12/2013</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>0</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>ESTILO CAXIAS DO SUL</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor>2161</codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>113</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado>UD</codigoMercado>
+<codigoUsuarioModificacao>A08</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna> </agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>010656</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>1344</numero>
+<complemento>5 ANDAR</complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete>1</tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>150849</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn>201</codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A06</codigoUsuarioCriacao>
+<dataModificacao>07/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>09/12/2013</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>010940</codigoEmpresa>
+<nomeCompleto>TUDO AQUI VARIEDADES EIRELI</nomeCompleto>
+<contato>NFE TUDO AQUI</contato>
+<fone>99 3525 7214</fone>
+<faxFone>99 8102 1515</faxFone>
+<endereco>AVENIDA GETULIO VARGAS</endereco>
+<bairro>CENTRO</bairro>
+<municipio>IMPERATRIZ</municipio>
+<uf>MA</uf>
+<cep>65901450</cep>
+<cnpjCpf>18294761000169</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>124117007</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>28/01/2016</dataNascimento>
+<ultimoMovimento>08/08/2016</ultimoMovimento>
+<cadastro>11/03/2014</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>TUDO AQUI</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>102</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A32</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>JUN 15</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>010940</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>827</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>165624</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A83</codigoUsuarioCriacao>
+<dataModificacao>28/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>28/01/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>011176</codigoEmpresa>
+<nomeCompleto>FIXMIX UTILIDADES LTDA</nomeCompleto>
+<contato>NFE_FIXMIX UTILIDADES LTDA - M</contato>
+<fone>(67) 9981-0590</fone>
+<faxFone> </faxFone>
+<endereco>RUA MARQUES DE POMBAL</endereco>
+<bairro>PRQ RESIDENCIAL POM</bairro>
+<municipio>CAMPO GRANDE</municipio>
+<uf>MS</uf>
+<cep>79046052</cep>
+<cnpjCpf>18634344000118</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>28.392.106-4</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>25/01/2016</dataNascimento>
+<ultimoMovimento>25/01/2016</ultimoMovimento>
+<cadastro>27/03/2014</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>FIX MIX UTILIDADES</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa>F1</tipoEmpresa>
+<atividade>101</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado>LA</codigoMercado>
+<codigoUsuarioModificacao>A23</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>ABR14</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>011176</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>3309</numero>
+<complemento>LOJA 04</complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete>1</tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>080603</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A06</codigoUsuarioCriacao>
+<dataModificacao>28/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>25/01/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento>4</grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>012429</codigoEmpresa>
+<nomeCompleto>VILLA FILIPA COMERCIO DE PRESENTES E DECORACOES LTDA ME</nomeCompleto>
+<contato>NFE VILLA FILIPA</contato>
+<fone>(14) 3354-5222</fone>
+<faxFone> </faxFone>
+<endereco>AVENIDA DOM LUCIO</endereco>
+<bairro>CENTRO</bairro>
+<municipio>BOTUCATU</municipio>
+<uf>SP</uf>
+<cep>18602092</cep>
+<cnpjCpf>15100551000102</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>224097423112</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>06/08/2015</dataNascimento>
+<ultimoMovimento>null</ultimoMovimento>
+<cadastro>13/10/2014</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>VILLA FILIPA</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>102</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A32</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>JUL 17</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>012429</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>233</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao>I05</portadorPadrao>
+<ativo>True</ativo>
+<sessao>155847</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A73</codigoUsuarioCriacao>
+<dataModificacao>28/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>06/08/2015</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>1</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>012585</codigoEmpresa>
+<nomeCompleto>THIAGO RODRIGUES VIEIRA ME</nomeCompleto>
+<contato>NFE:</contato>
+<fone>(35) 3221-3999</fone>
+<faxFone>(35) 9 9832 5818</faxFone>
+<endereco>RUA PRESIDENTE ANTONIO CARLOS</endereco>
+<bairro>CENTRO</bairro>
+<municipio>VARGINHA</municipio>
+<uf>MG</uf>
+<cep>37002000</cep>
+<cnpjCpf>17741093000108</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>0021142680045</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>27/08/2015</dataNascimento>
+<ultimoMovimento>27/08/2015</ultimoMovimento>
+<cadastro>24/11/2014</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>STOK IMPORTS</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>111</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A23</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>AGO15</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>012585</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>748</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>101233</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A00</codigoUsuarioCriacao>
+<dataModificacao>11/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>27/08/2015</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>012781</codigoEmpresa>
+<nomeCompleto>PRATO FEITO ALIMENTACAO E SERVICOS LTDA</nomeCompleto>
+<contato>NFE PRATO FEITO ALIMENTACAO E</contato>
+<fone>(51) 2107-8000</fone>
+<faxFone> </faxFone>
+<endereco>RUA JOAO SCHAEFER</endereco>
+<bairro>VILA SCHULTZ</bairro>
+<municipio>SANTA CRUZ DO SUL</municipio>
+<uf>RS</uf>
+<cep>96845530</cep>
+<cnpjCpf>94161122001932</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>1080113611</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>06/02/2015</dataNascimento>
+<ultimoMovimento>01/08/2017</ultimoMovimento>
+<cadastro>12/12/2014</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>PRATO FEITO</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>114</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>3000</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A23</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>AGO 17</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>007130</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>255</numero>
+<complemento>ALA 1</complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>162255</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A76</codigoUsuarioCriacao>
+<dataModificacao>03/08/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>06/02/2015</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>012961</codigoEmpresa>
+<nomeCompleto>KEC COMERCIO LTDA - ME</nomeCompleto>
+<contato>NFE:</contato>
+<fone>(31)2555-7415</fone>
+<faxFone> </faxFone>
+<endereco>RUA RIO DE JANEIRO</endereco>
+<bairro>CENTRO</bairro>
+<municipio>BELO HORIZONTE</municipio>
+<uf>MG</uf>
+<cep>30160041</cep>
+<cnpjCpf>18454185000170</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>0021814770097</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>26/04/2016</dataNascimento>
+<ultimoMovimento>15/12/2015</ultimoMovimento>
+<cadastro>26/01/2015</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>CASA E COISA UTILIDA</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa>F5</tipoEmpresa>
+<atividade>101</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A23</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>JAN15</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>012961</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>910</numero>
+<complemento>LJ LUC T13/T15</complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>093846</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A00</codigoUsuarioCriacao>
+<dataModificacao>19/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>26/04/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>013000</codigoEmpresa>
+<nomeCompleto>CABRAL COMERCIO DE PRESENTES E DECORACOES LTDA EPP</nomeCompleto>
+<contato>NFE CABRAL COMERCIO DE PRESENT</contato>
+<fone>83 3337 6050</fone>
+<faxFone> </faxFone>
+<endereco>CONSUL JOSEPH NOUJAIM HABIB NACAD</endereco>
+<bairro>CATOLE</bairro>
+<municipio>CAMPINA GRANDE</municipio>
+<uf>PB</uf>
+<cep>58410260</cep>
+<cnpjCpf>19070179000181</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>162220685</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>19/08/2016</dataNascimento>
+<ultimoMovimento>13/06/2017</ultimoMovimento>
+<cadastro>03/02/2015</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>CASA LEBLANC</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>100</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A08</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>AGO 16</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>013000</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>495</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>161052</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A00</codigoUsuarioCriacao>
+<dataModificacao>14/06/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>19/08/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>013797</codigoEmpresa>
+<nomeCompleto>LUIS MANUEL RODRIGUES XAVIER - ME</nomeCompleto>
+<contato>NFE BALTAZAR PRESENTES</contato>
+<fone>(11) 2098-2613</fone>
+<faxFone> </faxFone>
+<endereco>R AZEVEDO SOARES</endereco>
+<bairro>TATUAPE</bairro>
+<municipio>SAO PAULO</municipio>
+<uf>SP</uf>
+<cep>3322001</cep>
+<cnpjCpf>67380519000113</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>113261290115</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>30/04/2015</dataNascimento>
+<ultimoMovimento>null</ultimoMovimento>
+<cadastro>22/04/2015</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia> </fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>102</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A32</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>SET16</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>013797</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>1068</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>153310</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A00</codigoUsuarioCriacao>
+<dataModificacao>27/06/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>30/04/2015</ultimaVenda>
+<prefixoCnae>47.59</prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae>899</sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>014287</codigoEmpresa>
+<nomeCompleto>EMBALAGENS CAMPOPLASTIC LTDA</nomeCompleto>
+<contato>NFE EMBALAGENS CAMPOPLASTIC LT</contato>
+<fone>(44) 3523-4959</fone>
+<faxFone> </faxFone>
+<endereco>AVENIDA CAPITAO INDIO BANDEIRA</endereco>
+<bairro>JD. CURITIBA</bairro>
+<municipio>CAMPO MOURAO</municipio>
+<uf>PR</uf>
+<cep>87300005</cep>
+<cnpjCpf>05060677000139</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>9025879420</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>03/07/2015</dataNascimento>
+<ultimoMovimento>03/08/2017</ultimoMovimento>
+<cadastro>02/07/2015</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>EMBALAGENS CAMPOPLAS</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento>290</codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>111</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>1900</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A08</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>JUL 17</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>012374</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>2567</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao>I01</portadorPadrao>
+<ativo>True</ativo>
+<sessao>092204</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A76</codigoUsuarioCriacao>
+<dataModificacao>07/08/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>03/08/2017</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>014640</codigoEmpresa>
+<nomeCompleto>SHOPPING CASA PARA CASA EIRELI - EPP</nomeCompleto>
+<contato>NFE SHOPPING CASA PARA CASA EI</contato>
+<fone>(11) 4304-0779</fone>
+<faxFone> </faxFone>
+<endereco>RUA TUIUTI</endereco>
+<bairro>TATUAPE</bairro>
+<municipio>SAO PAULO</municipio>
+<uf>SP</uf>
+<cep>3307005</cep>
+<cnpjCpf>22915716000151</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>144828050115</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>30/08/2016</dataNascimento>
+<ultimoMovimento>30/08/2016</ultimoMovimento>
+<cadastro>15/08/2015</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>SHOPP CASA PARA CASA</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa>F5</tipoEmpresa>
+<atividade>111</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A23</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>AGO15</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>014067</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>2429</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>164922</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A00</codigoUsuarioCriacao>
+<dataModificacao>19/06/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>30/08/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>014755</codigoEmpresa>
+<nomeCompleto>R N PONTES E CIA LTDA</nomeCompleto>
+<contato>NFE R N PONTES</contato>
+<fone>(93)3523 4401</fone>
+<faxFone>93-3523-3918</faxFone>
+<endereco>RUA GALDINO VELOSO</endereco>
+<bairro>CENTRO</bairro>
+<municipio>SANTAREM</municipio>
+<uf>PA</uf>
+<cep>68005070</cep>
+<cnpjCpf>07765747000180</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>152503790</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>24/08/2015</dataNascimento>
+<ultimoMovimento>null</ultimoMovimento>
+<cadastro>17/08/2015</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>CASA DOS PRESENTES</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>101</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A37</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>AGO 15</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>014755</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>391</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>155249</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A83</codigoUsuarioCriacao>
+<dataModificacao>27/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>24/08/2015</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>016979</codigoEmpresa>
+<nomeCompleto>MADRE CASA PRESENTES LTDA</nomeCompleto>
+<contato>NFE MADRE CASA</contato>
+<fone>(62) 8118 7365</fone>
+<faxFone> </faxFone>
+<endereco>AVENIDA T-0004</endereco>
+<bairro>SETOR BUENO</bairro>
+<municipio>GOIANIA</municipio>
+<uf>GO</uf>
+<cep>74230035</cep>
+<cnpjCpf>23828810000136</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>106498304</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>29/04/2016</dataNascimento>
+<ultimoMovimento>null</ultimoMovimento>
+<cadastro>02/03/2016</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>MADRE CASA PRESENTES</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>101</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A32</codigoUsuarioModificacao>
+<enviarCarta> </enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>MAR 16</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>016979</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>218</numero>
+<complemento>QD 121 LT 02</complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>155618</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A00</codigoUsuarioCriacao>
+<dataModificacao>28/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>29/04/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>017129</codigoEmpresa>
+<nomeCompleto>LU DECORACOES LTDA</nomeCompleto>
+<contato>NFE: LU DECORACOES</contato>
+<fone>(45) 3054-1950</fone>
+<faxFone> </faxFone>
+<endereco>AVENIDA MARIPA</endereco>
+<bairro>CENTRO</bairro>
+<municipio>TOLEDO</municipio>
+<uf>PR</uf>
+<cep>85902060</cep>
+<cnpjCpf>84911049000196</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>4180567971</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>11/03/2016</dataNascimento>
+<ultimoMovimento>null</ultimoMovimento>
+<cadastro>04/03/2016</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia> </fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>106</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>B18</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>MAR 16</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>017129</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>4998</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>144206</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>B11</codigoUsuarioCriacao>
+<dataModificacao>26/06/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>11/03/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>017135</codigoEmpresa>
+<nomeCompleto>PAPELARIA E LIVRARIA AVENIDA LTDA</nomeCompleto>
+<contato>NFE PAPELARIA</contato>
+<fone>(63) 3351 2473</fone>
+<faxFone>(63) 9984 2775</faxFone>
+<endereco>GOIAS</endereco>
+<bairro>CENTRO</bairro>
+<municipio>GURUPI</municipio>
+<uf>TO</uf>
+<cep>77402970</cep>
+<cnpjCpf>03721602000126</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>290160146</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>09/03/2016</dataNascimento>
+<ultimoMovimento>16/08/2016</ultimoMovimento>
+<cadastro>04/03/2016</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>PAPELARIA E LIVRARIA</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>108</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A32</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>MAR 16</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>017135</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>01641</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>165645</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A83</codigoUsuarioCriacao>
+<dataModificacao>28/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>09/03/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>017196</codigoEmpresa>
+<nomeCompleto>M D PRESENTES E DECORACOES EIRELI EPP</nomeCompleto>
+<contato>NFE M D PRESENTES</contato>
+<fone>16 3623 5310</fone>
+<faxFone>16 99414 5962</faxFone>
+<endereco>AVENIDA BRAZ OLAIA ACOSTA</endereco>
+<bairro>JARDIM CALIFORNIA</bairro>
+<municipio>RIBEIRAO PRETO</municipio>
+<uf>SP</uf>
+<cep>14026040</cep>
+<cnpjCpf>21257063000106</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>797087422115</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>17/03/2016</dataNascimento>
+<ultimoMovimento>null</ultimoMovimento>
+<cadastro>14/03/2016</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>M D PRESENTES E DECO</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>101</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>3800</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>B26</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>MAR 16</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>017196</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>626</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao>I01</portadorPadrao>
+<ativo>True</ativo>
+<sessao>085052</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A83</codigoUsuarioCriacao>
+<dataModificacao>09/06/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>17/03/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>017537</codigoEmpresa>
+<nomeCompleto>EDEN COMERCIO ELETRONICO DO BRASIL LTDA</nomeCompleto>
+<contato>NFE: EDEN</contato>
+<fone>(11) 3614-9228</fone>
+<faxFone> </faxFone>
+<endereco>AVENIDA REBOUCAS</endereco>
+<bairro>PINHEIROS</bairro>
+<municipio>SAO PAULO</municipio>
+<uf>SP</uf>
+<cep>5402600</cep>
+<cnpjCpf>12805240000142</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>146459902112</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>27/07/2016</dataNascimento>
+<ultimoMovimento>13/01/2017</ultimoMovimento>
+<cadastro>11/04/2016</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>DINDA</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>101</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A32</codigoUsuarioModificacao>
+<enviarCarta> </enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>ABR16</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>017537</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>3506</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>165612</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A00</codigoUsuarioCriacao>
+<dataModificacao>28/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>27/07/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>017774</codigoEmpresa>
+<nomeCompleto>A C PITTA COMERCIO LTDA</nomeCompleto>
+<contato>NFE AC PITA</contato>
+<fone> </fone>
+<faxFone> </faxFone>
+<endereco>HERMES DA FONSECA</endereco>
+<bairro>TIROL</bairro>
+<municipio>NATAL</municipio>
+<uf>RN</uf>
+<cep>59020650</cep>
+<cnpjCpf>24206757000102</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>200313118</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>18/05/2016</dataNascimento>
+<ultimoMovimento>07/03/2017</ultimoMovimento>
+<cadastro>13/05/2016</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>SPAZZIO ACESSORIO</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>107</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A32</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>MAI 16</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>017774</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>1273</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>155735</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A83</codigoUsuarioCriacao>
+<dataModificacao>28/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>18/05/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>018179</codigoEmpresa>
+<nomeCompleto>LUIZ AUGUSTO ALTENBURG - ME</nomeCompleto>
+<contato>NFE: LUIZ AUGUSTO ALTEMBURG ME</contato>
+<fone>(47) 3329-0014</fone>
+<faxFone> </faxFone>
+<endereco>R ALBERTO STEIN</endereco>
+<bairro>VELHA</bairro>
+<municipio>BLUMENAU</municipio>
+<uf>SC</uf>
+<cep>89036200</cep>
+<cnpjCpf>03501570000153</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>255459157</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>22/07/2016</dataNascimento>
+<ultimoMovimento>22/07/2016</ultimoMovimento>
+<cadastro>08/07/2016</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>PONTINHO</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa>F1</tipoEmpresa>
+<atividade>101</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>A32</codigoUsuarioModificacao>
+<enviarCarta> </enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>JUL 16</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>018179</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>199</numero>
+<complemento>LOJA  103 E 104</complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>153357</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A00</codigoUsuarioCriacao>
+<dataModificacao>27/06/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>22/07/2016</ultimaVenda>
+<prefixoCnae>47.81</prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae>400</sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>1</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>018229</codigoEmpresa>
+<nomeCompleto>OCEANICA CONSTRUCAO CIVIL LTDA-ME</nomeCompleto>
+<contato> </contato>
+<fone>(91) 3423-1948</fone>
+<faxFone> </faxFone>
+<endereco>AV SENADOR LEMOS</endereco>
+<bairro>CENTRO</bairro>
+<municipio>SALINOPOLIS</municipio>
+<uf>PA</uf>
+<cep>68721000</cep>
+<cnpjCpf>10779220000119</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>152897011</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>29/07/2016</dataNascimento>
+<ultimoMovimento>29/07/2016</ultimoMovimento>
+<cadastro>27/07/2016</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>CASA DO CIMENTO</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa>F5</tipoEmpresa>
+<atividade>105</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado> </codigoMercado>
+<codigoUsuarioModificacao>B26</codigoUsuarioModificacao>
+<enviarCarta> </enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>JUL 16</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>018229</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>387</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete> </tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>141655</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A00</codigoUsuarioCriacao>
+<dataModificacao>12/06/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>29/07/2016</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado> </basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1> </Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>000282</codigoEmpresa>
+<nomeCompleto>DANIELLA DIAS BARBOSA MOTA</nomeCompleto>
+<contato>NFE - DANIELLA DIAS BARBOSA</contato>
+<fone>(33) 3321-8400</fone>
+<faxFone> </faxFone>
+<endereco>AV. OLEGARIO MACIEL</endereco>
+<bairro>CENTRO</bairro>
+<municipio>CARATINGA</municipio>
+<uf>MG</uf>
+<cep>35300035</cep>
+<cnpjCpf>02779145000168</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>1349883260042</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>14/03/2014</dataNascimento>
+<ultimoMovimento>07/12/2011</ultimoMovimento>
+<cadastro>04/10/2008</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>ORNATO</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>101</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado>KL</codigoMercado>
+<codigoUsuarioModificacao>A37</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>JUL 17</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>000282</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>131</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete>1</tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>141344</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A06</codigoUsuarioCriacao>
+<dataModificacao>26/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>14/03/2014</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1>768</Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+<reg>
+<codigoEmpresa>000419</codigoEmpresa>
+<nomeCompleto>CLAIRTES MULLER BUSATTO - ME</nomeCompleto>
+<contato>NFE - CLAIRTES MULLER BUSATTO</contato>
+<fone>(67) 3454-3222</fone>
+<faxFone> </faxFone>
+<endereco>RUA MELANIO GARCIA BARBOSA</endereco>
+<bairro>CENTRO</bairro>
+<municipio>MARACAJU</municipio>
+<uf>MS</uf>
+<cep>79150000</cep>
+<cnpjCpf>00472090000113</cnpjCpf>
+<inscrito>True</inscrito>
+<inscricao>282889086</inscricao>
+<conceito> </conceito>
+<codigoDivisao>1D</codigoDivisao>
+<dataNascimento>11/03/2013</dataNascimento>
+<ultimoMovimento>11/03/2013</ultimoMovimento>
+<cadastro>04/10/2008</cadastro>
+<codigoIndicacao> </codigoIndicacao>
+<codigoRepresentante>022221</codigoRepresentante>
+<percentualComissaoBaixa>10</percentualComissaoBaixa>
+<contabilCliente>8</contabilCliente>
+<codigoResponsavel> </codigoResponsavel>
+<fantasia>CLAIRTES MULLER BUSA</fantasia>
+<pessoa>False</pessoa>
+<codigoContabilFornecedor> </codigoContabilFornecedor>
+<codigoCondicaoPagamento> </codigoCondicaoPagamento>
+<codigoTipoPagamento> </codigoTipoPagamento>
+<codigoTipoOperacao> </codigoTipoOperacao>
+<irrfAcumulado>0</irrfAcumulado>
+<tipoEmpresa> </tipoEmpresa>
+<atividade>101</atividade>
+<funcionarios>0</funcionarios>
+<faturamento>0</faturamento>
+<limiteCredito>0</limiteCredito>
+<codigoMercado>LC</codigoMercado>
+<codigoUsuarioModificacao>A37</codigoUsuarioModificacao>
+<enviarCarta>S</enviarCarta>
+<tabelaPrecos> </tabelaPrecos>
+<agendaInterna>MAR 13</agendaInterna>
+<codigoPais>311</codigoPais>
+<codigoCentralizadora>000419</codigoCentralizadora>
+<atrasoMedio>0</atrasoMedio>
+<numero>661</numero>
+<complemento> </complemento>
+<inscricaoMunicipal> </inscricaoMunicipal>
+<suframa> </suframa>
+<tipoFrete>1</tipoFrete>
+<percentualIndenizacao>0</percentualIndenizacao>
+<percDescontoSugestaoItens>0</percDescontoSugestaoItens>
+<percentualDesconto2>0</percentualDesconto2>
+<jurosPadrao>0</jurosPadrao>
+<ultimaAtualizacao>null</ultimaAtualizacao>
+<codigoUnidadeNegocio>1</codigoUnidadeNegocio>
+<portadorPadrao> </portadorPadrao>
+<ativo>True</ativo>
+<sessao>161543</sessao>
+<codigoContabilAdiantamentoCli>2001</codigoContabilAdiantamentoCli>
+<codigoContabilAdiantamentoForn> </codigoContabilAdiantamentoForn>
+<codigoCentroArmazenagem> </codigoCentroArmazenagem>
+<codigoIndiceCredito> </codigoIndiceCredito>
+<codigoUsuarioCriacao>A05</codigoUsuarioCriacao>
+<dataModificacao>26/07/2017</dataModificacao>
+<codigoRegiaoEntrega> </codigoRegiaoEntrega>
+<dataValidadeCredito>null</dataValidadeCredito>
+<Cd_setor> </Cd_setor>
+<codigoRegimeTriburario> </codigoRegimeTriburario>
+<ultimaConsultaCredito>null</ultimaConsultaCredito>
+<validadeCobrancaAdmin>null</validadeCobrancaAdmin>
+<ultimaVenda>11/03/2013</ultimaVenda>
+<prefixoCnae> </prefixoCnae>
+<basePrazoDiferenciado>V</basePrazoDiferenciado>
+<possuiRetencaoIss>N</possuiRetencaoIss>
+<codigoCentroArmazenagemMatAlte> </codigoCentroArmazenagemMatAlte>
+<filtroDataDirf> </filtroDataDirf>
+<tipoImovel> </tipoImovel>
+<listarIss> </listarIss>
+<diaVencimento>00</diaVencimento>
+<limiteFaturamento>00</limiteFaturamento>
+<grauRelacionamento> </grauRelacionamento>
+<sufixoCnae> </sufixoCnae>
+<toleranciaVencimento> </toleranciaVencimento>
+<nivelCredito> </nivelCredito>
+<listarDirf>False</listarDirf>
+<conveniada>False</conveniada>
+<creditoLiberado>False</creditoLiberado>
+<percentualFrete>0</percentualFrete>
+<codigoEan>0</codigoEan>
+<percentualAcrescimoLimite>0</percentualAcrescimoLimite>
+<percentualAcrescimoPreco>0</percentualAcrescimoPreco>
+<utilizaPrazoDiferenciado>0</utilizaPrazoDiferenciado>
+<tgPadraoNfs>0</tgPadraoNfs>
+<limiteCreditoMensal>0</limiteCreditoMensal>
+<optanteSimples>0</optanteSimples>
+<Usrempr1>5233</Usrempr1>
+<Usrempr2> </Usrempr2>
+<cnaeServico> </cnaeServico>
+<Usrempr4>null</Usrempr4>
+<valorFrete>0</valorFrete>
+</reg>
+</geempres>
