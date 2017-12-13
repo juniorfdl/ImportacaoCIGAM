@@ -1851,11 +1851,11 @@ object frm_ImportaClientesCIGAM: Tfrm_ImportaClientesCIGAM
     TabOrder = 5
   end
   object conexaoSGR: TADOConnection
-    Connected = True
     ConnectionString = 
       'Provider=MSDASQL.1;Persist Security Info=False;Data Source=crm_s' +
-      'gr'
+      'gr;'
     LoginPrompt = False
+    Provider = 'MSDASQL.1'
     Left = 170
     Top = 374
   end

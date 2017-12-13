@@ -1,0 +1,101 @@
+<esmateri>
+<reg>
+<codigoMaterial>606600010</codigoMaterial>
+<codigoGrupo>60</codigoGrupo>
+<codigoSubGrupo>66</codigoSubGrupo>
+<centroControle> </centroControle>
+<descricao>DENTAL UP</descricao>
+<codigoUnidadeMedida>PC</codigoUnidadeMedida>
+<quantidadeRelacaoPaiFilho>1</quantidadeRelacaoPaiFilho>
+<percentualPis>0</percentualPis>
+<percentualCofins>0</percentualCofins>
+<percentualPisRetencao>0</percentualPisRetencao>
+<percentualCofinsRetencao>0</percentualCofinsRetencao>
+<quantidadeRefComposicaoGeral>0</quantidadeRefComposicaoGeral>
+<precoCusto>0</precoCusto>
+<revisaoEngenharia>372</revisaoEngenharia>
+<percentualCsll>0</percentualCsll>
+<percentualIcmsSinief>0</percentualIcmsSinief>
+<codigoContaGerencial> </codigoContaGerencial>
+<peso>0.07</peso>
+<percentualMedioIcms>0</percentualMedioIcms>
+<percentualIrrf>0</percentualIrrf>
+<percentualIpi>10</percentualIpi>
+<percentualFrete>0</percentualFrete>
+<percentualEmbalagem>0</percentualEmbalagem>
+<percentualComissao>0</percentualComissao>
+<percentualReajuste>0</percentualReajuste>
+<codigoFiscal>39249000</codigoFiscal>
+<dataUltimaRevisao>26/06/2017</dataUltimaRevisao>
+<dataReajuste>05/12/2011</dataReajuste>
+<codigoFabricante> </codigoFabricante>
+<codigoFabrica>UP 2000</codigoFabrica>
+<referencia>UP 2000</referencia>
+<codigoReduzido>3586</codigoReduzido>
+<precoStPisCofins>0</precoStPisCofins>
+<conversorCompra>0</conversorCompra>
+<encargosFinanceiros>0</encargosFinanceiros>
+<valorFrete>0</valorFrete>
+<aplicacao> </aplicacao>
+<codigoEspecif1> </codigoEspecif1>
+<codigoEspecif2> </codigoEspecif2>
+<codigoEspecif3> </codigoEspecif3>
+<codigoEspecif4> </codigoEspecif4>
+<codigoEspecif5> </codigoEspecif5>
+<codigoEspecif6> </codigoEspecif6>
+<percentualRoyaltie>0</percentualRoyaltie>
+<percentualImpostoImportacao>0</percentualImpostoImportacao>
+<dataCadastro>05/12/2011</dataCadastro>
+<garantiaCompra>0</garantiaCompra>
+<garantiaVenda>0</garantiaVenda>
+<regraCusteio> </regraCusteio>
+<regraIpi> </regraIpi>
+<sufixoContabil> </sufixoContabil>
+<codigoContabil> </codigoContabil>
+<localizacao> </localizacao>
+<tipo>A</tipo>
+<volume>0.001</volume>
+<origemMercadoria>0</origemMercadoria>
+<contabilPrincipalInvSped>1034</contabilPrincipalInvSped>
+<precoPauta>0</precoPauta>
+<percIcmsPisCofisImportacao>0</percIcmsPisCofisImportacao>
+<conversorVenda>0</conversorVenda>
+<codigoUnidadeCompra> </codigoUnidadeCompra>
+<codigoUnidadeVenda> </codigoUnidadeVenda>
+<pesoEmbalagem>0.01883</pesoEmbalagem>
+<percentualInss>0</percentualInss>
+<valorIpi>0</valorIpi>
+<codigoUnidadeNegocio> </codigoUnidadeNegocio>
+<sessao>000000</sessao>
+<codigoUsuarioModificacao>A58</codigoUsuarioModificacao>
+<codigoUsuarioCriacao>A02</codigoUsuarioCriacao>
+<dataModificacao>02/06/2017</dataModificacao>
+<dataLiberaColecao>null</dataLiberaColecao>
+<dataLiberaEsqueleto>null</dataLiberaEsqueleto>
+<configuracaoReposicao> </configuracaoReposicao>
+<configuracao>000983</configuracao>
+<codigoCentroArmazenagemPadrao>400</codigoCentroArmazenagemPadrao>
+<tabPrecosEstruturaComercial> </tabPrecosEstruturaComercial>
+<utilizaGrade> </utilizaGrade>
+<tipoFormacaoPrecos> </tipoFormacaoPrecos>
+<classificacaoAbc> </classificacaoAbc>
+<qualidadeProduto> </qualidadeProduto>
+<manterPedidoNf>01</manterPedidoNf>
+<zerarSaldo> </zerarSaldo>
+<codigoTributario> </codigoTributario>
+<usuarioUltRevisaoEngenharia>DES</usuarioUltRevisaoEngenharia>
+<tipoBaixaOp> </tipoBaixaOp>
+<estruturaComercial>False</estruturaComercial>
+<controlaNumeroSerie>False</controlaNumeroSerie>
+<criarProdutoClienteNaVenda>False</criarProdutoClienteNaVenda>
+<ordemExibicao>0</ordemExibicao>
+<questionarioAfericaoGa> </questionarioAfericaoGa>
+<usrmate1> </usrmate1>
+<usrmate2> </usrmate2>
+<usrmate3> </usrmate3>
+<usrmate4>null</usrmate4>
+<usrmate5>0</usrmate5>
+<existeImagem>False</existeImagem>
+<existeDocumento>False</existeDocumento>
+</reg>
+</esmateri>

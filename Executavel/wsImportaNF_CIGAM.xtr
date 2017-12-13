@@ -1,0 +1,1006 @@
+<XmlTransformation Version="1.0"><Transform Direction="ToCds"><SelectEach dest="DATAPACKET\ROWDATA\ROW" from="\cadastroNotaFiscal\notasFiscais\notaFiscal"><SelectEach dest="itemNf\ROWitemNf" from="\itensNf\itemNf"><Select dest="@movimento" from="\movimento"/><Select dest="@tipoOperacao1" from="\tipoOperacao"/><Select dest="@dataMovimento" from="\dataMovimento"/><Select dest="@codigoMaterial" from="\codigoMaterial"/><Select dest="@especif1" from="\especif1"/><Select dest="@especif2" from="\especif2"/><Select dest="@centroArmazenagem" from="\centroArmazenagem"/><Select dest="@grade1" from="\grade"/><Select dest="@quantidade1" from="\quantidade"/><Select dest="@precoUnitario" from="\precoUnitario"/><Select dest="@descricao" from="\descricao"/><Select dest="@documento" from="\documento"/><Select dest="@empresa" from="\empresa"/><Select dest="@contaGerencial" from="\contaGerencial"/><Select dest="@tipoDocumento" from="\tipoDocumento"/><Select dest="@tabelaPreco" from="\tabelaPreco"/><Select dest="@incidenciaISS1" from="\incidenciaISS"/><Select dest="@tipoNota1" from="\tipoNota"/><Select dest="@baseICMS1" from="\baseICMS"/><Select dest="@baseIPI1" from="\baseIPI"/><Select dest="@serie1" from="\serie"/><Select dest="@unidadeNegocio" from="\notaFiscal\unidadeNegocio"/><Select dest="@nf" from="\notaFiscal\nf"/><Select dest="@serie2" from="\notaFiscal\serie"/><Select dest="@tipoOperacao2" from="\notaFiscal\tipoOperacao"/><Select dest="@CFOP1" from="\notaFiscal\CFOP"/><Select dest="@dataEmissao" from="\notaFiscal\dataEmissao"/><Select dest="@viaTransporte" from="\notaFiscal\viaTransporte"/><Select dest="@documentoFiscal" from="\notaFiscal\documentoFiscal"/><Select dest="@cliente" from="\notaFiscal\cliente"/><Select dest="@cobranca" from="\notaFiscal\cobranca"/><Select dest="@representante1" from="\notaFiscal\representante"/><Select dest="@baseICMS2" from="\notaFiscal\baseICMS"/><Select dest="@valorICMS1" from="\notaFiscal\valorICMS"/><Select dest="@baseIPI2" from="\notaFiscal\baseIPI"/><Select dest="@valorIPI1" from="\notaFiscal\valorIPI"/><Select dest="@incidenciaPIS1" from="\notaFiscal\incidenciaPIS"/><Select dest="@incidenciaCOFINS1" from="\notaFiscal\incidenciaCOFINS"/><Select dest="@totalMercadorias" from="\notaFiscal\totalMercadorias"/><Select dest="@totalNF" from="\notaFiscal\totalNF"/><Select dest="@transportadora" from="\notaFiscal\transportadora"/><Select dest="@consignatario" from="\notaFiscal\consignatario"/><Select dest="@marca" from="\notaFiscal\marca"/><Select dest="@volume" from="\notaFiscal\volume"/><Select dest="@quantidade2" from="\notaFiscal\quantidade"/><Select dest="@especie" from="\notaFiscal\especie"/><Select dest="@pesoLiquido" from="\notaFiscal\pesoLiquido"/><Select dest="@pesoBruto" from="\notaFiscal\pesoBruto"/><Select dest="@conta" from="\notaFiscal\conta"/><Select dest="@portador" from="\notaFiscal\portador"/><Select dest="@fatura" from="\notaFiscal\fatura"/><Select dest="@cobrarPauta" from="\notaFiscal\cobrarPauta"/><Select dest="@remessa" from="\notaFiscal\remessa"/><Select dest="@pedido" from="\notaFiscal\pedido"/><Select dest="@dataSaida" from="\notaFiscal\dataSaida"/><Select dest="@horaSaida" from="\notaFiscal\horaSaida"/><Select dest="@gerouLancamentos" from="\notaFiscal\gerouLancamentos"/><Select dest="@itemsNaNota" from="\notaFiscal\itemsNaNota"/><Select dest="@tipoFrete" from="\notaFiscal\tipoFrete"/><Select dest="@uf" from="\notaFiscal\uf"/><Select dest="@percentualComissao1" from="\notaFiscal\percentualComissao"/><Select dest="@placa" from="\notaFiscal\placa"/><Select dest="@especieNota" from="\notaFiscal\especieNota"/><Select dest="@incidenciaISS2" from="\notaFiscal\incidenciaISS"/><Select dest="@ateNota" from="\notaFiscal\ateNota"/><Select dest="@totalFaturado" from="\notaFiscal\totalFaturado"/><Select dest="@substitutoTributario" from="\notaFiscal\substitutoTributario"/><Select dest="@notaReferencia" from="\notaFiscal\notaReferencia"/><Select dest="@baseSubstituicaoTributaria" from="\notaFiscal\baseSubstituicaoTributaria"/><Select dest="@valorSubstituicaoTributaria" from="\notaFiscal\valorSubstituicaoTributaria"/><Select dest="@condicaoPagamento" from="\notaFiscal\condicaoPagamento"/><Select dest="@complementoFatura" from="\notaFiscal\complementoFatura"/><Select dest="@contabilizado" from="\notaFiscal\contabilizado"/><Select dest="@faturaAglutinada" from="\notaFiscal\faturaAglutinada"/><Select dest="@gerouINSS" from="\notaFiscal\gerouINSS"/><Select dest="@serieReferencia" from="\notaFiscal\serieReferencia"/><Select dest="@codigoMunicipio" from="\notaFiscal\codigoMunicipio"/><Select dest="@quantidadeTotal" from="\notaFiscal\quantidadeTotal"/><Select dest="@impressa" from="\notaFiscal\impressa"/><Select dest="@declaracaoImportacao" from="\notaFiscal\declaracaoImportacao"/><Select dest="@indiceIndexador" from="\notaFiscal\indiceIndexador"/><Select dest="@baseIRRF1" from="\notaFiscal\baseIRRF"/><Select dest="@modeloCupom" from="\notaFiscal\modeloCupom"/><Select dest="@numeroControleFormulario" from="\notaFiscal\numeroControleFormulario"/><Select dest="@romaneio" from="\notaFiscal\romaneio"/><Select dest="@ufPlacaTransportador" from="\notaFiscal\ufPlacaTransportador"/><Select dest="@codigoCancelamento" from="\notaFiscal\codigoCancelamento"/><Select dest="@codigoDevolucao" from="\notaFiscal\codigoDevolucao"/><Select dest="@ordemCompra" from="\notaFiscal\ordemCompra"/><Select dest="@projeto" from="\notaFiscal\projeto"/><Select dest="@modeloFormulario" from="\notaFiscal\modeloFormulario"/><Select dest="@ordemDeCompraGerada" from="\notaFiscal\ordemDeCompraGerada"/><Select dest="@totalItensServico" from="\notaFiscal\totalItensServico"/><Select dest="@usrnota1" from="\notaFiscal\usrnota1"/><Select dest="@chaveNFe" from="\notaFiscal\chaveNFe"/><Select dest="@numeroProtocolo" from="\notaFiscal\numeroProtocolo"/><Select dest="@numeroLote" from="\notaFiscal\numeroLote"/><Select dest="@gerouPedidoConsignacao" from="\notaFiscal\gerouPedidoConsignacao"/><Select dest="@incluiSubstituicaoTributaria" from="\notaFiscal\incluiSubstituicaoTributaria"/><Select dest="@listarLivros" from="\notaFiscal\listarLivros"/><Select dest="@tipoNota2" from="\notaFiscal\tipoNota"/><Select dest="@classificacaoDocumento" from="\notaFiscal\classificacaoDocumento"/><Select dest="@mercado" from="\notaFiscal\mercado"/><Select dest="@grade2" from="\notaFiscal\grade"/><Select dest="@incidenciaContribSocial1" from="\notaFiscal\incidenciaContribSocial"/><Select dest="@folhaLivroSaida" from="\notaFiscal\folhaLivroSaida"/><Select dest="@tgConversaoUnidades" from="\notaFiscal\tgConversaoUnidades"/><Select dest="@fornecedor" from="\notaFiscal\fornecedor"/><Select dest="@volumeAtualizado" from="\notaFiscal\volumeAtualizado"/><Select dest="@ordemEnderecoCobranca" from="\notaFiscal\ordemEnderecoCobranca"/><Select dest="@ordemEnderecoEntrega" from="\notaFiscal\ordemEnderecoEntrega"/><Select dest="@forma" from="\notaFiscal\forma"/><Select dest="@tipoFreteConsignatario" from="\notaFiscal\tipoFreteConsignatario"/><Select dest="@conferido" from="\notaFiscal\conferido"/><Select dest="@numeroLivroSaida" from="\notaFiscal\numeroLivroSaida"/><Select dest="@usuarioAutorizado" from="\notaFiscal\usuarioAutorizado"/><Select dest="@entregMercAposFatur" from="\notaFiscal\entregMercAposFatur"/><Select dest="@status" from="\notaFiscal\status"/><Select dest="@CFOP2" from="\CFOP"/><Select dest="@percentualICMS" from="\percentualICMS"/><Select dest="@basePIS" from="\basePIS"/><Select dest="@valorPIS" from="\valorPIS"/><Select dest="@baseCOFINS" from="\baseCOFINS"/><Select dest="@valorCOFINS" from="\valorCOFINS"/><Select dest="@codigoTipoDocumento" from="\codigoTipoDocumento"/><Select dest="@retencaoInformada" from="\retencaoInformada"/><Select dest="@complementoIncidIPI" from="\complementoIncidIPI"/><Select dest="@ICMSPresumido" from="\ICMSPresumido"/><Select dest="@CSTPIS" from="\CSTPIS"/><Select dest="@CSTCOFINS" from="\CSTCOFINS"/><Select dest="@codBaseCreditoPisCofinsEntrad" from="\codBaseCreditoPisCofinsEntrad"/><Select dest="@sequenciaNota" from="\sequenciaNota"/><Select dest="@valorContabil" from="\valorContabil"/><Select dest="@incidenciaIPI" from="\incidenciaIPI"/><Select dest="@incidenciaICMS" from="\incidenciaICMS"/><Select dest="@incidenciaPIS2" from="\incidenciaPIS"/><Select dest="@incidenciaCOFINS2" from="\incidenciaCOFINS"/><Select dest="@incidenciaICMSEntrada" from="\incidenciaICMSEntrada"/><Select dest="@complementoIncidenciaICMS" from="\complementoIncidenciaICMS"/><Select dest="@incidenciaContribSocial2" from="\incidenciaContribSocial"/><Select dest="@percentualIPI" from="\percentualIPI"/><Select dest="@percentualDesconto" from="\percentualDesconto"/><Select dest="@valorICMS2" from="\valorICMS"/><Select dest="@valorIPI2" from="\valorIPI"/><Select dest="@percentualComissao2" from="\percentualComissao"/><Select dest="@baseSubstituicao" from="\baseSubstituicao"/><Select dest="@percentualSubstituicao" from="\percentualSubstituicao"/><Select dest="@percentualPIS" from="\percentualPIS"/><Select dest="@percentualICMSSubstituicao" from="\percentualICMSSubstituicao"/><Select dest="@percentualCOFINS" from="\percentualCOFINS"/><Select dest="@transfCentroArmaz" from="\transfCentroArmaz"/><Select dest="@estorno" from="\estorno"/><Select dest="@pedidoOc" from="\pedidoOc"/><Select dest="@indice" from="\indice"/><Select dest="@ordenacao" from="\ordenacao"/><Select dest="@transfUnNegocio" from="\transfUnNegocio"/><Select dest="@contrato" from="\contrato"/><Select dest="@contabil" from="\contabil"/><Select dest="@codigoRetorno" from="\codigoRetorno"/><Select dest="@contabilidade" from="\contabilidade"/><Select dest="@excecaoNCM" from="\excecaoNCM"/><Select dest="@etiquetaHex" from="\etiquetaHex"/><Select dest="@inspecao" from="\inspecao"/><Select dest="@classePedidoExclusivo4" from="\classePedidoExclusivo4"/><Select dest="@saidaSemSaldo" from="\saidaSemSaldo"/><Select dest="@usrmovi2" from="\usrmovi2"/><Select dest="@valorSubstituicao" from="\valorSubstituicao"/><Select dest="@precoTotalCusto" from="\precoTotalCusto"/><Select dest="@sequenciaDia" from="\sequenciaDia"/><Select dest="@sequenciaPedidoOC" from="\sequenciaPedidoOC"/><Select dest="@sequenciaDiaPedidoOC" from="\sequenciaDiaPedidoOC"/><Select dest="@baseICMSComIPI" from="\baseICMSComIPI"/><Select dest="@clienteFornecedor" from="\comissoesItem\comissaoNf\clienteFornecedor"/><Select dest="@especieNF" from="\comissoesItem\comissaoNf\especieNF"/><Select dest="@sequenciaNF" from="\comissoesItem\comissaoNf\sequenciaNF"/><Select dest="@representante2" from="\comissoesItem\comissaoNf\representante"/><Select dest="@valorBaseComissao" from="\comissoesItem\comissaoNf\valorBaseComissao"/><Select dest="@percentualComissao3" from="\comissoesItem\comissaoNf\percentualComissao"/><Select dest="@tipoBaseComissao" from="\comissoesItem\comissaoNf\tipoBaseComissao"/><Select dest="@percComissaoOrigRepresentante" from="\comissoesItem\comissaoNf\percComissaoOrigRepresentante"/><Select dest="@origem" from="\comissoesItem\comissaoNf\origem"/><Select dest="@baseIRRF2" from="\baseIRRF"/><Select dest="@baseINSS" from="\baseINSS"/><SelectEach dest="parcelaNf\ROWparcelaNf" from="\notaFiscal\parcelasNf\parcelaNf"><Select dest="@vencimento" from="\vencimento"/><Select dest="@valorParcela" from="\valorParcela"/><Select dest="@nossoNumero" from="\nossoNumero"/><Select dest="@codigoCaixa" from="\codigoCaixa"/><Select dest="@turnoSequencial" from="\turnoSequencial"/><Select dest="@sessaoCaixa" from="\sessaoCaixa"/></SelectEach></SelectEach><Select dest="@unidadeNegocio" from="\unidadeNegocio"/><Select dest="@nf" from="\nf"/><Select dest="@serie" from="\serie"/><Select dest="@tipoOperacao" from="\tipoOperacao"/><Select dest="@CFOP" from="\CFOP"/><Select dest="@dataEmissao" from="\dataEmissao"/><Select dest="@viaTransporte" from="\viaTransporte"/><Select dest="@documentoFiscal" from="\documentoFiscal"/><Select dest="@cliente" from="\cliente"/><Select dest="@cobranca" from="\cobranca"/><Select dest="@representante" from="\representante"/><Select dest="@baseICMS" from="\baseICMS"/><Select dest="@valorICMS" from="\valorICMS"/><Select dest="@baseIPI" from="\baseIPI"/><Select dest="@valorIPI" from="\valorIPI"/><Select dest="@incidenciaPIS" from="\incidenciaPIS"/><Select dest="@incidenciaCOFINS" from="\incidenciaCOFINS"/><Select dest="@totalMercadorias" from="\totalMercadorias"/><Select dest="@totalNF" from="\totalNF"/><Select dest="@transportadora" from="\transportadora"/><Select dest="@consignatario" from="\consignatario"/><Select dest="@marca" from="\marca"/><Select dest="@volume" from="\volume"/><Select dest="@quantidade" from="\quantidade"/><Select dest="@especie" from="\especie"/><Select dest="@pesoLiquido" from="\pesoLiquido"/><Select dest="@pesoBruto" from="\pesoBruto"/><Select dest="@conta" from="\conta"/><Select dest="@portador" from="\portador"/><Select dest="@fatura" from="\fatura"/><Select dest="@cobrarPauta" from="\cobrarPauta"/><Select dest="@remessa" from="\remessa"/><Select dest="@pedido" from="\pedido"/><Select dest="@dataSaida" from="\dataSaida"/><Select dest="@horaSaida" from="\horaSaida"/><Select dest="@gerouLancamentos" from="\gerouLancamentos"/><Select dest="@itemsNaNota" from="\itemsNaNota"/><Select dest="@tipoFrete" from="\tipoFrete"/><Select dest="@uf" from="\uf"/><Select dest="@percentualComissao" from="\percentualComissao"/><Select dest="@placa" from="\placa"/><Select dest="@especieNota" from="\especieNota"/><Select dest="@incidenciaISS" from="\incidenciaISS"/><Select dest="@ateNota" from="\ateNota"/><Select dest="@totalFaturado" from="\totalFaturado"/><Select dest="@substitutoTributario" from="\substitutoTributario"/><Select dest="@notaReferencia" from="\notaReferencia"/><Select dest="@baseSubstituicaoTributaria" from="\baseSubstituicaoTributaria"/><Select dest="@valorSubstituicaoTributaria" from="\valorSubstituicaoTributaria"/><Select dest="@condicaoPagamento" from="\condicaoPagamento"/><Select dest="@complementoFatura" from="\complementoFatura"/><Select dest="@contabilizado" from="\contabilizado"/><Select dest="@faturaAglutinada" from="\faturaAglutinada"/><Select dest="@gerouINSS" from="\gerouINSS"/><Select dest="@serieReferencia" from="\serieReferencia"/><Select dest="@codigoMunicipio" from="\codigoMunicipio"/><Select dest="@quantidadeTotal" from="\quantidadeTotal"/><Select dest="@impressa" from="\impressa"/><Select dest="@declaracaoImportacao" from="\declaracaoImportacao"/><Select dest="@indiceIndexador" from="\indiceIndexador"/><Select dest="@baseIRRF" from="\baseIRRF"/><Select dest="@modeloCupom" from="\modeloCupom"/><Select dest="@numeroControleFormulario" from="\numeroControleFormulario"/><Select dest="@romaneio" from="\romaneio"/><Select dest="@ufPlacaTransportador" from="\ufPlacaTransportador"/><Select dest="@codigoCancelamento" from="\codigoCancelamento"/><Select dest="@codigoDevolucao" from="\codigoDevolucao"/><Select dest="@ordemCompra" from="\ordemCompra"/><Select dest="@projeto" from="\projeto"/><Select dest="@modeloFormulario" from="\modeloFormulario"/><Select dest="@ordemDeCompraGerada" from="\ordemDeCompraGerada"/><Select dest="@totalItensServico" from="\totalItensServico"/><Select dest="@usrnota1" from="\usrnota1"/><Select dest="@chaveNFe" from="\chaveNFe"/><Select dest="@numeroProtocolo" from="\numeroProtocolo"/><Select dest="@numeroLote" from="\numeroLote"/><Select dest="@gerouPedidoConsignacao" from="\gerouPedidoConsignacao"/><Select dest="@incluiSubstituicaoTributaria" from="\incluiSubstituicaoTributaria"/><Select dest="@listarLivros" from="\listarLivros"/><Select dest="@tipoNota" from="\tipoNota"/><Select dest="@classificacaoDocumento" from="\classificacaoDocumento"/><Select dest="@mercado" from="\mercado"/><Select dest="@grade" from="\grade"/><Select dest="@incidenciaContribSocial" from="\incidenciaContribSocial"/><Select dest="@folhaLivroSaida" from="\folhaLivroSaida"/><Select dest="@tgConversaoUnidades" from="\tgConversaoUnidades"/><Select dest="@fornecedor" from="\fornecedor"/><Select dest="@volumeAtualizado" from="\volumeAtualizado"/><Select dest="@ordemEnderecoCobranca" from="\ordemEnderecoCobranca"/><Select dest="@ordemEnderecoEntrega" from="\ordemEnderecoEntrega"/><Select dest="@forma" from="\forma"/><Select dest="@tipoFreteConsignatario" from="\tipoFreteConsignatario"/><Select dest="@conferido" from="\conferido"/><Select dest="@numeroLivroSaida" from="\numeroLivroSaida"/><Select dest="@usuarioAutorizado" from="\usuarioAutorizado"/><Select dest="@entregMercAposFatur" from="\entregMercAposFatur"/><Select dest="@status" from="\status"/><SelectEach dest="parcelaNf\ROWparcelaNf" from="\parcelasNf\parcelaNf"><Select dest="@vencimento" from="\vencimento"/><Select dest="@valorParcela" from="\valorParcela"/><Select dest="@nossoNumero" from="\nossoNumero"/><Select dest="@codigoCaixa" from="\codigoCaixa"/><Select dest="@turnoSequencial" from="\turnoSequencial"/><Select dest="@sessaoCaixa" from="\sessaoCaixa"/></SelectEach></SelectEach></Transform><XmlSchema RootName="cadastroNotaFiscal"><![CDATA[<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="cadastroNotaFiscal" type="cadastroNotaFiscalType"/>
+  <xs:complexType name="cadastroNotaFiscalType">
+    <xs:sequence>
+      <xs:element name="notasFiscais" type="notasFiscaisType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="notasFiscais" type="notasFiscaisType"/>
+  <xs:complexType name="notasFiscaisType">
+    <xs:sequence>
+      <xs:element name="notaFiscal" type="notaFiscalType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="notaFiscal" type="notaFiscalType"/>
+  <xs:complexType name="notaFiscalType">
+    <xs:sequence>
+      <xs:element name="unidadeNegocio" type="unidadeNegocioType"/>
+      <xs:element name="nf" type="nfType"/>
+      <xs:element name="serie" type="serieType"/>
+      <xs:element name="tipoOperacao" type="tipoOperacaoType"/>
+      <xs:element name="CFOP" type="CFOPType"/>
+      <xs:element name="dataEmissao" type="dataEmissaoType"/>
+      <xs:element name="viaTransporte" type="viaTransporteType"/>
+      <xs:element name="documentoFiscal" type="documentoFiscalType"/>
+      <xs:element name="cliente" type="clienteType"/>
+      <xs:element name="cobranca" type="cobrancaType"/>
+      <xs:element name="representante" type="representanteType"/>
+      <xs:element name="baseICMS" type="baseICMSType"/>
+      <xs:element name="valorICMS" type="valorICMSType"/>
+      <xs:element name="baseIPI" type="baseIPIType"/>
+      <xs:element name="valorIPI" type="valorIPIType"/>
+      <xs:element name="incidenciaPIS" type="incidenciaPISType"/>
+      <xs:element name="incidenciaCOFINS" type="incidenciaCOFINSType"/>
+      <xs:element name="totalMercadorias" type="totalMercadoriasType"/>
+      <xs:element name="totalNF" type="totalNFType"/>
+      <xs:element name="transportadora" type="transportadoraType"/>
+      <xs:element name="consignatario" type="consignatarioType"/>
+      <xs:element name="marca" type="marcaType"/>
+      <xs:element name="volume" type="volumeType"/>
+      <xs:element name="quantidade" type="quantidadeType"/>
+      <xs:element name="especie" type="especieType"/>
+      <xs:element name="pesoLiquido" type="pesoLiquidoType"/>
+      <xs:element name="pesoBruto" type="pesoBrutoType"/>
+      <xs:element name="conta" type="contaType"/>
+      <xs:element name="portador" type="portadorType"/>
+      <xs:element name="fatura" type="faturaType"/>
+      <xs:element name="cobrarPauta" type="cobrarPautaType"/>
+      <xs:element name="remessa" type="remessaType"/>
+      <xs:element name="pedido" type="pedidoType"/>
+      <xs:element name="dataSaida" type="dataSaidaType"/>
+      <xs:element name="horaSaida" type="horaSaidaType"/>
+      <xs:element name="gerouLancamentos" type="gerouLancamentosType"/>
+      <xs:element name="itemsNaNota" type="itemsNaNotaType"/>
+      <xs:element name="tipoFrete" type="tipoFreteType"/>
+      <xs:element name="uf" type="ufType"/>
+      <xs:element name="percentualComissao" type="percentualComissaoType"/>
+      <xs:element name="placa" type="placaType"/>
+      <xs:element name="especieNota" type="especieNotaType"/>
+      <xs:element name="incidenciaISS" type="incidenciaISSType"/>
+      <xs:element name="ateNota" type="ateNotaType"/>
+      <xs:element name="totalFaturado" type="totalFaturadoType"/>
+      <xs:element name="substitutoTributario" type="substitutoTributarioType"/>
+      <xs:element name="notaReferencia" type="notaReferenciaType"/>
+      <xs:element name="baseSubstituicaoTributaria" type="baseSubstituicaoTributariaType"/>
+      <xs:element name="valorSubstituicaoTributaria" type="valorSubstituicaoTributariaType"/>
+      <xs:element name="condicaoPagamento" type="condicaoPagamentoType"/>
+      <xs:element name="complementoFatura" type="complementoFaturaType"/>
+      <xs:element name="contabilizado" type="contabilizadoType"/>
+      <xs:element name="faturaAglutinada" type="faturaAglutinadaType"/>
+      <xs:element name="gerouINSS" type="gerouINSSType"/>
+      <xs:element name="serieReferencia" type="serieReferenciaType"/>
+      <xs:element name="codigoMunicipio" type="codigoMunicipioType"/>
+      <xs:element name="quantidadeTotal" type="quantidadeTotalType"/>
+      <xs:element name="impressa" type="impressaType"/>
+      <xs:element name="declaracaoImportacao" type="declaracaoImportacaoType"/>
+      <xs:element name="indiceIndexador" type="indiceIndexadorType"/>
+      <xs:element name="baseIRRF" type="baseIRRFType"/>
+      <xs:element name="modeloCupom" type="modeloCupomType"/>
+      <xs:element name="numeroControleFormulario" type="numeroControleFormularioType"/>
+      <xs:element name="romaneio" type="romaneioType"/>
+      <xs:element name="ufPlacaTransportador" type="ufPlacaTransportadorType"/>
+      <xs:element name="codigoCancelamento" type="codigoCancelamentoType"/>
+      <xs:element name="codigoDevolucao" type="codigoDevolucaoType"/>
+      <xs:element name="ordemCompra" type="ordemCompraType"/>
+      <xs:element name="projeto" type="projetoType"/>
+      <xs:element name="modeloFormulario" type="modeloFormularioType"/>
+      <xs:element name="ordemDeCompraGerada" type="ordemDeCompraGeradaType"/>
+      <xs:element name="totalItensServico" type="totalItensServicoType"/>
+      <xs:element name="usrnota1" type="usrnota1Type"/>
+      <xs:element name="chaveNFe" type="chaveNFeType"/>
+      <xs:element name="numeroProtocolo" type="numeroProtocoloType"/>
+      <xs:element name="numeroLote" type="numeroLoteType"/>
+      <xs:element name="gerouPedidoConsignacao" type="gerouPedidoConsignacaoType"/>
+      <xs:element name="incluiSubstituicaoTributaria" type="incluiSubstituicaoTributariaType"/>
+      <xs:element name="listarLivros" type="listarLivrosType"/>
+      <xs:element name="tipoNota" type="tipoNotaType"/>
+      <xs:element name="classificacaoDocumento" type="classificacaoDocumentoType"/>
+      <xs:element name="mercado" type="mercadoType"/>
+      <xs:element name="grade" type="gradeType"/>
+      <xs:element name="incidenciaContribSocial" type="incidenciaContribSocialType"/>
+      <xs:element name="folhaLivroSaida" type="folhaLivroSaidaType"/>
+      <xs:element name="tgConversaoUnidades" type="tgConversaoUnidadesType"/>
+      <xs:element name="fornecedor" type="fornecedorType"/>
+      <xs:element name="volumeAtualizado" type="volumeAtualizadoType"/>
+      <xs:element name="ordemEnderecoCobranca" type="ordemEnderecoCobrancaType"/>
+      <xs:element name="ordemEnderecoEntrega" type="ordemEnderecoEntregaType"/>
+      <xs:element name="forma" type="formaType"/>
+      <xs:element name="tipoFreteConsignatario" type="tipoFreteConsignatarioType"/>
+      <xs:element name="conferido" type="conferidoType"/>
+      <xs:element name="numeroLivroSaida" type="numeroLivroSaidaType"/>
+      <xs:element name="usuarioAutorizado" type="usuarioAutorizadoType"/>
+      <xs:element name="entregMercAposFatur" type="entregMercAposFaturType"/>
+      <xs:element name="status" type="statusType"/>
+      <xs:element name="itensNf" type="itensNfType"/>
+      <xs:element name="parcelasNf" type="parcelasNfType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="unidadeNegocio" type="unidadeNegocioType"/>
+  <xs:simpleType name="unidadeNegocioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="nf" type="nfType"/>
+  <xs:simpleType name="nfType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="serie" type="serieType"/>
+  <xs:simpleType name="serieType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tipoOperacao" type="tipoOperacaoType"/>
+  <xs:simpleType name="tipoOperacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="CFOP" type="CFOPType"/>
+  <xs:simpleType name="CFOPType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="dataEmissao" type="dataEmissaoType"/>
+  <xs:simpleType name="dataEmissaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="viaTransporte" type="viaTransporteType"/>
+  <xs:simpleType name="viaTransporteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="documentoFiscal" type="documentoFiscalType"/>
+  <xs:simpleType name="documentoFiscalType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="cliente" type="clienteType"/>
+  <xs:simpleType name="clienteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="cobranca" type="cobrancaType"/>
+  <xs:simpleType name="cobrancaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="representante" type="representanteType"/>
+  <xs:simpleType name="representanteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="baseICMS" type="baseICMSType"/>
+  <xs:simpleType name="baseICMSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorICMS" type="valorICMSType"/>
+  <xs:simpleType name="valorICMSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="baseIPI" type="baseIPIType"/>
+  <xs:simpleType name="baseIPIType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorIPI" type="valorIPIType"/>
+  <xs:simpleType name="valorIPIType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="incidenciaPIS" type="incidenciaPISType"/>
+  <xs:simpleType name="incidenciaPISType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="incidenciaCOFINS" type="incidenciaCOFINSType"/>
+  <xs:simpleType name="incidenciaCOFINSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="totalMercadorias" type="totalMercadoriasType"/>
+  <xs:simpleType name="totalMercadoriasType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="totalNF" type="totalNFType"/>
+  <xs:simpleType name="totalNFType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="transportadora" type="transportadoraType"/>
+  <xs:simpleType name="transportadoraType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="consignatario" type="consignatarioType"/>
+  <xs:simpleType name="consignatarioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="marca" type="marcaType"/>
+  <xs:simpleType name="marcaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="volume" type="volumeType"/>
+  <xs:simpleType name="volumeType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="quantidade" type="quantidadeType"/>
+  <xs:simpleType name="quantidadeType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="especie" type="especieType"/>
+  <xs:simpleType name="especieType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="pesoLiquido" type="pesoLiquidoType"/>
+  <xs:simpleType name="pesoLiquidoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="pesoBruto" type="pesoBrutoType"/>
+  <xs:simpleType name="pesoBrutoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="conta" type="contaType"/>
+  <xs:simpleType name="contaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="portador" type="portadorType"/>
+  <xs:simpleType name="portadorType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="fatura" type="faturaType"/>
+  <xs:simpleType name="faturaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="cobrarPauta" type="cobrarPautaType"/>
+  <xs:simpleType name="cobrarPautaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="remessa" type="remessaType"/>
+  <xs:simpleType name="remessaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="pedido" type="pedidoType"/>
+  <xs:simpleType name="pedidoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="dataSaida" type="dataSaidaType"/>
+  <xs:simpleType name="dataSaidaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="horaSaida" type="horaSaidaType"/>
+  <xs:simpleType name="horaSaidaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="gerouLancamentos" type="gerouLancamentosType"/>
+  <xs:simpleType name="gerouLancamentosType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="itemsNaNota" type="itemsNaNotaType"/>
+  <xs:simpleType name="itemsNaNotaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tipoFrete" type="tipoFreteType"/>
+  <xs:simpleType name="tipoFreteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="uf" type="ufType"/>
+  <xs:simpleType name="ufType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualComissao" type="percentualComissaoType"/>
+  <xs:simpleType name="percentualComissaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="placa" type="placaType"/>
+  <xs:simpleType name="placaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="especieNota" type="especieNotaType"/>
+  <xs:simpleType name="especieNotaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="incidenciaISS" type="incidenciaISSType"/>
+  <xs:simpleType name="incidenciaISSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="ateNota" type="ateNotaType"/>
+  <xs:simpleType name="ateNotaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="totalFaturado" type="totalFaturadoType"/>
+  <xs:simpleType name="totalFaturadoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="substitutoTributario" type="substitutoTributarioType"/>
+  <xs:simpleType name="substitutoTributarioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="notaReferencia" type="notaReferenciaType"/>
+  <xs:simpleType name="notaReferenciaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="baseSubstituicaoTributaria" type="baseSubstituicaoTributariaType"/>
+  <xs:simpleType name="baseSubstituicaoTributariaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorSubstituicaoTributaria" type="valorSubstituicaoTributariaType"/>
+  <xs:simpleType name="valorSubstituicaoTributariaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="condicaoPagamento" type="condicaoPagamentoType"/>
+  <xs:simpleType name="condicaoPagamentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="complementoFatura" type="complementoFaturaType"/>
+  <xs:simpleType name="complementoFaturaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="contabilizado" type="contabilizadoType"/>
+  <xs:simpleType name="contabilizadoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="faturaAglutinada" type="faturaAglutinadaType"/>
+  <xs:simpleType name="faturaAglutinadaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="gerouINSS" type="gerouINSSType"/>
+  <xs:simpleType name="gerouINSSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="serieReferencia" type="serieReferenciaType"/>
+  <xs:simpleType name="serieReferenciaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoMunicipio" type="codigoMunicipioType"/>
+  <xs:simpleType name="codigoMunicipioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="quantidadeTotal" type="quantidadeTotalType"/>
+  <xs:simpleType name="quantidadeTotalType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="impressa" type="impressaType"/>
+  <xs:simpleType name="impressaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="declaracaoImportacao" type="declaracaoImportacaoType"/>
+  <xs:simpleType name="declaracaoImportacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="indiceIndexador" type="indiceIndexadorType"/>
+  <xs:simpleType name="indiceIndexadorType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="baseIRRF" type="baseIRRFType"/>
+  <xs:simpleType name="baseIRRFType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="modeloCupom" type="modeloCupomType"/>
+  <xs:simpleType name="modeloCupomType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="numeroControleFormulario" type="numeroControleFormularioType"/>
+  <xs:simpleType name="numeroControleFormularioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="romaneio" type="romaneioType"/>
+  <xs:simpleType name="romaneioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="ufPlacaTransportador" type="ufPlacaTransportadorType"/>
+  <xs:simpleType name="ufPlacaTransportadorType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoCancelamento" type="codigoCancelamentoType"/>
+  <xs:simpleType name="codigoCancelamentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoDevolucao" type="codigoDevolucaoType"/>
+  <xs:simpleType name="codigoDevolucaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="ordemCompra" type="ordemCompraType"/>
+  <xs:simpleType name="ordemCompraType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="projeto" type="projetoType"/>
+  <xs:simpleType name="projetoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="modeloFormulario" type="modeloFormularioType"/>
+  <xs:simpleType name="modeloFormularioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="ordemDeCompraGerada" type="ordemDeCompraGeradaType"/>
+  <xs:simpleType name="ordemDeCompraGeradaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="totalItensServico" type="totalItensServicoType"/>
+  <xs:simpleType name="totalItensServicoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="usrnota1" type="usrnota1Type"/>
+  <xs:simpleType name="usrnota1Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="chaveNFe" type="chaveNFeType"/>
+  <xs:simpleType name="chaveNFeType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="numeroProtocolo" type="numeroProtocoloType"/>
+  <xs:simpleType name="numeroProtocoloType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="numeroLote" type="numeroLoteType"/>
+  <xs:simpleType name="numeroLoteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="gerouPedidoConsignacao" type="gerouPedidoConsignacaoType"/>
+  <xs:simpleType name="gerouPedidoConsignacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="incluiSubstituicaoTributaria" type="incluiSubstituicaoTributariaType"/>
+  <xs:simpleType name="incluiSubstituicaoTributariaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="listarLivros" type="listarLivrosType"/>
+  <xs:simpleType name="listarLivrosType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tipoNota" type="tipoNotaType"/>
+  <xs:simpleType name="tipoNotaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="classificacaoDocumento" type="classificacaoDocumentoType"/>
+  <xs:simpleType name="classificacaoDocumentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="mercado" type="mercadoType"/>
+  <xs:simpleType name="mercadoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="grade" type="gradeType"/>
+  <xs:simpleType name="gradeType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="incidenciaContribSocial" type="incidenciaContribSocialType"/>
+  <xs:simpleType name="incidenciaContribSocialType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="folhaLivroSaida" type="folhaLivroSaidaType"/>
+  <xs:simpleType name="folhaLivroSaidaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tgConversaoUnidades" type="tgConversaoUnidadesType"/>
+  <xs:simpleType name="tgConversaoUnidadesType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="fornecedor" type="fornecedorType"/>
+  <xs:simpleType name="fornecedorType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="volumeAtualizado" type="volumeAtualizadoType"/>
+  <xs:simpleType name="volumeAtualizadoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="ordemEnderecoCobranca" type="ordemEnderecoCobrancaType"/>
+  <xs:simpleType name="ordemEnderecoCobrancaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="ordemEnderecoEntrega" type="ordemEnderecoEntregaType"/>
+  <xs:simpleType name="ordemEnderecoEntregaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="forma" type="formaType"/>
+  <xs:simpleType name="formaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tipoFreteConsignatario" type="tipoFreteConsignatarioType"/>
+  <xs:simpleType name="tipoFreteConsignatarioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="conferido" type="conferidoType"/>
+  <xs:simpleType name="conferidoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="numeroLivroSaida" type="numeroLivroSaidaType"/>
+  <xs:simpleType name="numeroLivroSaidaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="usuarioAutorizado" type="usuarioAutorizadoType"/>
+  <xs:simpleType name="usuarioAutorizadoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="entregMercAposFatur" type="entregMercAposFaturType"/>
+  <xs:simpleType name="entregMercAposFaturType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="status" type="statusType"/>
+  <xs:simpleType name="statusType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="itensNf" type="itensNfType"/>
+  <xs:complexType name="itensNfType">
+    <xs:sequence>
+      <xs:element name="itemNf" type="itemNfType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="itemNf" type="itemNfType"/>
+  <xs:complexType name="itemNfType">
+    <xs:sequence>
+      <xs:element name="movimento" type="movimentoType"/>
+      <xs:element name="tipoOperacao" type="tipoOperacaoType"/>
+      <xs:element name="dataMovimento" type="dataMovimentoType"/>
+      <xs:element name="codigoMaterial" type="codigoMaterialType"/>
+      <xs:element name="especif1" type="especif1Type"/>
+      <xs:element name="especif2" type="especif2Type"/>
+      <xs:element name="centroArmazenagem" type="centroArmazenagemType"/>
+      <xs:element name="grade" type="gradeType"/>
+      <xs:element name="quantidade" type="quantidadeType"/>
+      <xs:element name="precoUnitario" type="precoUnitarioType"/>
+      <xs:element name="descricao" type="descricaoType"/>
+      <xs:element name="documento" type="documentoType"/>
+      <xs:element name="empresa" type="empresaType"/>
+      <xs:element name="contaGerencial" type="contaGerencialType"/>
+      <xs:element name="tipoDocumento" type="tipoDocumentoType"/>
+      <xs:element name="tabelaPreco" type="tabelaPrecoType"/>
+      <xs:element name="incidenciaISS" type="incidenciaISSType"/>
+      <xs:element name="tipoNota" type="tipoNotaType"/>
+      <xs:element name="baseICMS" type="baseICMSType"/>
+      <xs:element name="baseIPI" type="baseIPIType"/>
+      <xs:element name="serie" type="serieType"/>
+      <xs:element name="notaFiscal" type="notaFiscalType"/>
+      <xs:element name="CFOP" type="CFOPType"/>
+      <xs:element name="percentualICMS" type="percentualICMSType"/>
+      <xs:element name="basePIS" type="basePISType"/>
+      <xs:element name="valorPIS" type="valorPISType"/>
+      <xs:element name="baseCOFINS" type="baseCOFINSType"/>
+      <xs:element name="valorCOFINS" type="valorCOFINSType"/>
+      <xs:element name="codigoTipoDocumento" type="codigoTipoDocumentoType"/>
+      <xs:element name="retencaoInformada" type="retencaoInformadaType"/>
+      <xs:element name="complementoIncidIPI" type="complementoIncidIPIType"/>
+      <xs:element name="ICMSPresumido" type="ICMSPresumidoType"/>
+      <xs:element name="CSTPIS" type="CSTPISType"/>
+      <xs:element name="CSTCOFINS" type="CSTCOFINSType"/>
+      <xs:element name="codBaseCreditoPisCofinsEntrad" type="codBaseCreditoPisCofinsEntradType"/>
+      <xs:element name="sequenciaNota" type="sequenciaNotaType"/>
+      <xs:element name="valorContabil" type="valorContabilType"/>
+      <xs:element name="incidenciaIPI" type="incidenciaIPIType"/>
+      <xs:element name="incidenciaICMS" type="incidenciaICMSType"/>
+      <xs:element name="incidenciaPIS" type="incidenciaPISType"/>
+      <xs:element name="incidenciaCOFINS" type="incidenciaCOFINSType"/>
+      <xs:element name="incidenciaICMSEntrada" type="incidenciaICMSEntradaType"/>
+      <xs:element name="complementoIncidenciaICMS" type="complementoIncidenciaICMSType"/>
+      <xs:element name="incidenciaContribSocial" type="incidenciaContribSocialType"/>
+      <xs:element name="percentualIPI" type="percentualIPIType"/>
+      <xs:element name="percentualDesconto" type="percentualDescontoType"/>
+      <xs:element name="valorICMS" type="valorICMSType"/>
+      <xs:element name="valorIPI" type="valorIPIType"/>
+      <xs:element name="percentualComissao" type="percentualComissaoType"/>
+      <xs:element name="baseSubstituicao" type="baseSubstituicaoType"/>
+      <xs:element name="percentualSubstituicao" type="percentualSubstituicaoType"/>
+      <xs:element name="percentualPIS" type="percentualPISType"/>
+      <xs:element name="percentualICMSSubstituicao" type="percentualICMSSubstituicaoType"/>
+      <xs:element name="percentualCOFINS" type="percentualCOFINSType"/>
+      <xs:element name="transfCentroArmaz" type="transfCentroArmazType"/>
+      <xs:element name="estorno" type="estornoType"/>
+      <xs:element name="pedidoOc" type="pedidoOcType"/>
+      <xs:element name="indice" type="indiceType"/>
+      <xs:element name="ordenacao" type="ordenacaoType"/>
+      <xs:element name="transfUnNegocio" type="transfUnNegocioType"/>
+      <xs:element name="contrato" type="contratoType"/>
+      <xs:element name="contabil" type="contabilType"/>
+      <xs:element name="codigoRetorno" type="codigoRetornoType"/>
+      <xs:element name="contabilidade" type="contabilidadeType"/>
+      <xs:element name="excecaoNCM" type="excecaoNCMType"/>
+      <xs:element name="etiquetaHex" type="etiquetaHexType"/>
+      <xs:element name="inspecao" type="inspecaoType"/>
+      <xs:element name="classePedidoExclusivo4" type="classePedidoExclusivo4Type"/>
+      <xs:element name="saidaSemSaldo" type="saidaSemSaldoType"/>
+      <xs:element name="usrmovi2" type="usrmovi2Type"/>
+      <xs:element name="valorSubstituicao" type="valorSubstituicaoType"/>
+      <xs:element name="precoTotalCusto" type="precoTotalCustoType"/>
+      <xs:element name="sequenciaDia" type="sequenciaDiaType"/>
+      <xs:element name="sequenciaPedidoOC" type="sequenciaPedidoOCType"/>
+      <xs:element name="sequenciaDiaPedidoOC" type="sequenciaDiaPedidoOCType"/>
+      <xs:element name="baseICMSComIPI" type="baseICMSComIPIType"/>
+      <xs:element name="comissoesItem" type="comissoesItemType"/>
+      <xs:element name="baseIRRF" type="baseIRRFType"/>
+      <xs:element name="baseINSS" type="baseINSSType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="movimento" type="movimentoType"/>
+  <xs:simpleType name="movimentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tipoOperacao" type="tipoOperacaoType"/>
+  <xs:simpleType name="tipoOperacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="dataMovimento" type="dataMovimentoType"/>
+  <xs:simpleType name="dataMovimentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoMaterial" type="codigoMaterialType"/>
+  <xs:simpleType name="codigoMaterialType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="especif1" type="especif1Type"/>
+  <xs:simpleType name="especif1Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="especif2" type="especif2Type"/>
+  <xs:simpleType name="especif2Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="centroArmazenagem" type="centroArmazenagemType"/>
+  <xs:simpleType name="centroArmazenagemType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="grade" type="gradeType"/>
+  <xs:simpleType name="gradeType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="quantidade" type="quantidadeType"/>
+  <xs:simpleType name="quantidadeType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="precoUnitario" type="precoUnitarioType"/>
+  <xs:simpleType name="precoUnitarioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="descricao" type="descricaoType"/>
+  <xs:simpleType name="descricaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="documento" type="documentoType"/>
+  <xs:simpleType name="documentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="empresa" type="empresaType"/>
+  <xs:simpleType name="empresaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="contaGerencial" type="contaGerencialType"/>
+  <xs:simpleType name="contaGerencialType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tipoDocumento" type="tipoDocumentoType"/>
+  <xs:simpleType name="tipoDocumentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tabelaPreco" type="tabelaPrecoType"/>
+  <xs:simpleType name="tabelaPrecoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="incidenciaISS" type="incidenciaISSType"/>
+  <xs:simpleType name="incidenciaISSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tipoNota" type="tipoNotaType"/>
+  <xs:simpleType name="tipoNotaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="baseICMS" type="baseICMSType"/>
+  <xs:simpleType name="baseICMSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="baseIPI" type="baseIPIType"/>
+  <xs:simpleType name="baseIPIType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="serie" type="serieType"/>
+  <xs:simpleType name="serieType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="notaFiscal" type="notaFiscalType"/>
+  <xs:simpleType name="notaFiscalType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="CFOP" type="CFOPType"/>
+  <xs:simpleType name="CFOPType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualICMS" type="percentualICMSType"/>
+  <xs:simpleType name="percentualICMSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="basePIS" type="basePISType"/>
+  <xs:simpleType name="basePISType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorPIS" type="valorPISType"/>
+  <xs:simpleType name="valorPISType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="baseCOFINS" type="baseCOFINSType"/>
+  <xs:simpleType name="baseCOFINSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorCOFINS" type="valorCOFINSType"/>
+  <xs:simpleType name="valorCOFINSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoTipoDocumento" type="codigoTipoDocumentoType"/>
+  <xs:simpleType name="codigoTipoDocumentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="retencaoInformada" type="retencaoInformadaType"/>
+  <xs:simpleType name="retencaoInformadaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="complementoIncidIPI" type="complementoIncidIPIType"/>
+  <xs:simpleType name="complementoIncidIPIType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="ICMSPresumido" type="ICMSPresumidoType"/>
+  <xs:simpleType name="ICMSPresumidoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="CSTPIS" type="CSTPISType"/>
+  <xs:simpleType name="CSTPISType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="CSTCOFINS" type="CSTCOFINSType"/>
+  <xs:simpleType name="CSTCOFINSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codBaseCreditoPisCofinsEntrad" type="codBaseCreditoPisCofinsEntradType"/>
+  <xs:simpleType name="codBaseCreditoPisCofinsEntradType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="sequenciaNota" type="sequenciaNotaType"/>
+  <xs:simpleType name="sequenciaNotaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorContabil" type="valorContabilType"/>
+  <xs:simpleType name="valorContabilType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="incidenciaIPI" type="incidenciaIPIType"/>
+  <xs:simpleType name="incidenciaIPIType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="incidenciaICMS" type="incidenciaICMSType"/>
+  <xs:simpleType name="incidenciaICMSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="incidenciaPIS" type="incidenciaPISType"/>
+  <xs:simpleType name="incidenciaPISType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="incidenciaCOFINS" type="incidenciaCOFINSType"/>
+  <xs:simpleType name="incidenciaCOFINSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="incidenciaICMSEntrada" type="incidenciaICMSEntradaType"/>
+  <xs:simpleType name="incidenciaICMSEntradaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="complementoIncidenciaICMS" type="complementoIncidenciaICMSType"/>
+  <xs:simpleType name="complementoIncidenciaICMSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="incidenciaContribSocial" type="incidenciaContribSocialType"/>
+  <xs:simpleType name="incidenciaContribSocialType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualIPI" type="percentualIPIType"/>
+  <xs:simpleType name="percentualIPIType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualDesconto" type="percentualDescontoType"/>
+  <xs:simpleType name="percentualDescontoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorICMS" type="valorICMSType"/>
+  <xs:simpleType name="valorICMSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorIPI" type="valorIPIType"/>
+  <xs:simpleType name="valorIPIType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualComissao" type="percentualComissaoType"/>
+  <xs:simpleType name="percentualComissaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="baseSubstituicao" type="baseSubstituicaoType"/>
+  <xs:simpleType name="baseSubstituicaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualSubstituicao" type="percentualSubstituicaoType"/>
+  <xs:simpleType name="percentualSubstituicaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualPIS" type="percentualPISType"/>
+  <xs:simpleType name="percentualPISType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualICMSSubstituicao" type="percentualICMSSubstituicaoType"/>
+  <xs:simpleType name="percentualICMSSubstituicaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualCOFINS" type="percentualCOFINSType"/>
+  <xs:simpleType name="percentualCOFINSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="transfCentroArmaz" type="transfCentroArmazType"/>
+  <xs:simpleType name="transfCentroArmazType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="estorno" type="estornoType"/>
+  <xs:simpleType name="estornoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="pedidoOc" type="pedidoOcType"/>
+  <xs:simpleType name="pedidoOcType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="indice" type="indiceType"/>
+  <xs:simpleType name="indiceType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="ordenacao" type="ordenacaoType"/>
+  <xs:simpleType name="ordenacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="transfUnNegocio" type="transfUnNegocioType"/>
+  <xs:simpleType name="transfUnNegocioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="contrato" type="contratoType"/>
+  <xs:simpleType name="contratoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="contabil" type="contabilType"/>
+  <xs:simpleType name="contabilType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoRetorno" type="codigoRetornoType"/>
+  <xs:simpleType name="codigoRetornoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="contabilidade" type="contabilidadeType"/>
+  <xs:simpleType name="contabilidadeType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="excecaoNCM" type="excecaoNCMType"/>
+  <xs:simpleType name="excecaoNCMType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="etiquetaHex" type="etiquetaHexType"/>
+  <xs:simpleType name="etiquetaHexType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="inspecao" type="inspecaoType"/>
+  <xs:simpleType name="inspecaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="classePedidoExclusivo4" type="classePedidoExclusivo4Type"/>
+  <xs:simpleType name="classePedidoExclusivo4Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="saidaSemSaldo" type="saidaSemSaldoType"/>
+  <xs:simpleType name="saidaSemSaldoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="usrmovi2" type="usrmovi2Type"/>
+  <xs:simpleType name="usrmovi2Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorSubstituicao" type="valorSubstituicaoType"/>
+  <xs:simpleType name="valorSubstituicaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="precoTotalCusto" type="precoTotalCustoType"/>
+  <xs:simpleType name="precoTotalCustoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="sequenciaDia" type="sequenciaDiaType"/>
+  <xs:simpleType name="sequenciaDiaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="sequenciaPedidoOC" type="sequenciaPedidoOCType"/>
+  <xs:simpleType name="sequenciaPedidoOCType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="sequenciaDiaPedidoOC" type="sequenciaDiaPedidoOCType"/>
+  <xs:simpleType name="sequenciaDiaPedidoOCType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="baseICMSComIPI" type="baseICMSComIPIType"/>
+  <xs:simpleType name="baseICMSComIPIType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="comissoesItem" type="comissoesItemType"/>
+  <xs:complexType name="comissoesItemType">
+    <xs:sequence>
+      <xs:element name="comissaoNf" type="comissaoNfType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="comissaoNf" type="comissaoNfType"/>
+  <xs:complexType name="comissaoNfType">
+    <xs:sequence>
+      <xs:element name="clienteFornecedor" type="clienteFornecedorType"/>
+      <xs:element name="especieNF" type="especieNFType"/>
+      <xs:element name="sequenciaNF" type="sequenciaNFType"/>
+      <xs:element name="representante" type="representanteType"/>
+      <xs:element name="valorBaseComissao" type="valorBaseComissaoType"/>
+      <xs:element name="percentualComissao" type="percentualComissaoType"/>
+      <xs:element name="tipoBaseComissao" type="tipoBaseComissaoType"/>
+      <xs:element name="percComissaoOrigRepresentante" type="percComissaoOrigRepresentanteType"/>
+      <xs:element name="origem" type="origemType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="clienteFornecedor" type="clienteFornecedorType"/>
+  <xs:simpleType name="clienteFornecedorType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="especieNF" type="especieNFType"/>
+  <xs:simpleType name="especieNFType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="sequenciaNF" type="sequenciaNFType"/>
+  <xs:simpleType name="sequenciaNFType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="representante" type="representanteType"/>
+  <xs:simpleType name="representanteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorBaseComissao" type="valorBaseComissaoType"/>
+  <xs:simpleType name="valorBaseComissaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualComissao" type="percentualComissaoType"/>
+  <xs:simpleType name="percentualComissaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tipoBaseComissao" type="tipoBaseComissaoType"/>
+  <xs:simpleType name="tipoBaseComissaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percComissaoOrigRepresentante" type="percComissaoOrigRepresentanteType"/>
+  <xs:simpleType name="percComissaoOrigRepresentanteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="origem" type="origemType"/>
+  <xs:simpleType name="origemType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="baseIRRF" type="baseIRRFType"/>
+  <xs:simpleType name="baseIRRFType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="baseINSS" type="baseINSSType"/>
+  <xs:simpleType name="baseINSSType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="parcelasNf" type="parcelasNfType"/>
+  <xs:complexType name="parcelasNfType">
+    <xs:sequence>
+      <xs:element name="parcelaNf" type="parcelaNfType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="parcelaNf" type="parcelaNfType"/>
+  <xs:complexType name="parcelaNfType">
+    <xs:sequence>
+      <xs:element name="vencimento" type="vencimentoType"/>
+      <xs:element name="valorParcela" type="valorParcelaType"/>
+      <xs:element name="nossoNumero" type="nossoNumeroType"/>
+      <xs:element name="codigoCaixa" type="codigoCaixaType"/>
+      <xs:element name="turnoSequencial" type="turnoSequencialType"/>
+      <xs:element name="sessaoCaixa" type="sessaoCaixaType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="vencimento" type="vencimentoType"/>
+  <xs:simpleType name="vencimentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorParcela" type="valorParcelaType"/>
+  <xs:simpleType name="valorParcelaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="nossoNumero" type="nossoNumeroType"/>
+  <xs:simpleType name="nossoNumeroType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoCaixa" type="codigoCaixaType"/>
+  <xs:simpleType name="codigoCaixaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="turnoSequencial" type="turnoSequencialType"/>
+  <xs:simpleType name="turnoSequencialType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="sessaoCaixa" type="sessaoCaixaType"/>
+  <xs:simpleType name="sessaoCaixaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+</xs:schema>]]></XmlSchema><CdsSkeleton/><XslTransform/><Skeleton><![CDATA[<?xml version="1.0"?><DATAPACKET Version="2.0"><METADATA><FIELDS><FIELD attrname="unidadeNegocio" fieldtype="string" WIDTH="3"/><FIELD attrname="nf" fieldtype="string" WIDTH="6"/><FIELD attrname="serie" fieldtype="string" WIDTH="5"/><FIELD attrname="tipoOperacao" fieldtype="string" WIDTH="5"/><FIELD attrname="CFOP" fieldtype="string" WIDTH="6"/><FIELD attrname="dataEmissao" fieldtype="string" WIDTH="10"/><FIELD attrname="viaTransporte" fieldtype="string" WIDTH="1"/><FIELD attrname="documentoFiscal" fieldtype="string" WIDTH="5"/><FIELD attrname="cliente" fieldtype="string" WIDTH="6"/><FIELD attrname="cobranca" fieldtype="string" WIDTH="6"/><FIELD attrname="representante" fieldtype="string" WIDTH="6"/><FIELD attrname="baseICMS" fieldtype="string" WIDTH="7"/><FIELD attrname="valorICMS" fieldtype="string" WIDTH="6"/><FIELD attrname="baseIPI" fieldtype="string" WIDTH="7"/><FIELD attrname="valorIPI" fieldtype="string" WIDTH="6"/><FIELD attrname="incidenciaPIS" fieldtype="string" WIDTH="32"/><FIELD attrname="incidenciaCOFINS" fieldtype="string" WIDTH="32"/><FIELD attrname="totalMercadorias" fieldtype="string" WIDTH="7"/><FIELD attrname="totalNF" fieldtype="string" WIDTH="7"/><FIELD attrname="transportadora" fieldtype="string" WIDTH="6"/><FIELD attrname="consignatario" fieldtype="string" WIDTH="32"/><FIELD attrname="marca" fieldtype="string" WIDTH="32"/><FIELD attrname="volume" fieldtype="string" WIDTH="15"/><FIELD attrname="quantidade" fieldtype="string" WIDTH="6"/><FIELD attrname="especie" fieldtype="string" WIDTH="16"/><FIELD attrname="pesoLiquido" fieldtype="string" WIDTH="6"/><FIELD attrname="pesoBruto" fieldtype="string" WIDTH="8"/><FIELD attrname="conta" fieldtype="string" WIDTH="6"/><FIELD attrname="portador" fieldtype="string" WIDTH="3"/><FIELD attrname="fatura" fieldtype="string" WIDTH="6"/><FIELD attrname="cobrarPauta" fieldtype="string" WIDTH="32"/><FIELD attrname="remessa" fieldtype="string" WIDTH="32"/><FIELD attrname="pedido" fieldtype="string" WIDTH="12"/><FIELD attrname="dataSaida" fieldtype="string" WIDTH="10"/><FIELD attrname="horaSaida" fieldtype="string" WIDTH="8"/><FIELD attrname="gerouLancamentos" fieldtype="string" WIDTH="4"/><FIELD attrname="itemsNaNota" fieldtype="string" WIDTH="2"/><FIELD attrname="tipoFrete" fieldtype="string" WIDTH="1"/><FIELD attrname="uf" fieldtype="string" WIDTH="2"/><FIELD attrname="percentualComissao" fieldtype="string" WIDTH="2"/><FIELD attrname="placa" fieldtype="string" WIDTH="32"/><FIELD attrname="especieNota" fieldtype="string" WIDTH="1"/><FIELD attrname="incidenciaISS" fieldtype="string" WIDTH="1"/><FIELD attrname="ateNota" fieldtype="string" WIDTH="1"/><FIELD attrname="totalFaturado" fieldtype="string" WIDTH="7"/><FIELD attrname="substitutoTributario" fieldtype="string" WIDTH="32"/><FIELD attrname="notaReferencia" fieldtype="string" WIDTH="1"/><FIELD attrname="baseSubstituicaoTributaria" fieldtype="string" WIDTH="6"/><FIELD attrname="valorSubstituicaoTributaria" fieldtype="string" WIDTH="5"/><FIELD attrname="condicaoPagamento" fieldtype="string" WIDTH="3"/><FIELD attrname="complementoFatura" fieldtype="string" WIDTH="32"/><FIELD attrname="contabilizado" fieldtype="string" WIDTH="32"/><FIELD attrname="faturaAglutinada" fieldtype="string" WIDTH="32"/><FIELD attrname="gerouINSS" fieldtype="string" WIDTH="32"/><FIELD attrname="serieReferencia" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoMunicipio" fieldtype="string" WIDTH="32"/><FIELD attrname="quantidadeTotal" fieldtype="string" WIDTH="2"/><FIELD attrname="impressa" fieldtype="string" WIDTH="4"/><FIELD attrname="declaracaoImportacao" fieldtype="string" WIDTH="32"/><FIELD attrname="indiceIndexador" fieldtype="string" WIDTH="32"/><FIELD attrname="baseIRRF" fieldtype="string" WIDTH="7"/><FIELD attrname="modeloCupom" fieldtype="string" WIDTH="32"/><FIELD attrname="numeroControleFormulario" fieldtype="string" WIDTH="32"/><FIELD attrname="romaneio" fieldtype="string" WIDTH="1"/><FIELD attrname="ufPlacaTransportador" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoCancelamento" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoDevolucao" fieldtype="string" WIDTH="32"/><FIELD attrname="ordemCompra" fieldtype="string" WIDTH="32"/><FIELD attrname="projeto" fieldtype="string" WIDTH="32"/><FIELD attrname="modeloFormulario" fieldtype="string" WIDTH="2"/><FIELD attrname="ordemDeCompraGerada" fieldtype="string" WIDTH="32"/><FIELD attrname="totalItensServico" fieldtype="string" WIDTH="1"/><FIELD attrname="usrnota1" fieldtype="string" WIDTH="32"/><FIELD attrname="chaveNFe" fieldtype="string" WIDTH="9"/><FIELD attrname="numeroProtocolo" fieldtype="string" WIDTH="15"/><FIELD attrname="numeroLote" fieldtype="string" WIDTH="15"/><FIELD attrname="gerouPedidoConsignacao" fieldtype="string" WIDTH="32"/><FIELD attrname="incluiSubstituicaoTributaria" fieldtype="string" WIDTH="32"/><FIELD attrname="listarLivros" fieldtype="string" WIDTH="1"/><FIELD attrname="tipoNota" fieldtype="string" WIDTH="1"/><FIELD attrname="classificacaoDocumento" fieldtype="string" WIDTH="32"/><FIELD attrname="mercado" fieldtype="string" WIDTH="32"/><FIELD attrname="grade" fieldtype="string" WIDTH="32"/><FIELD attrname="incidenciaContribSocial" fieldtype="string" WIDTH="32"/><FIELD attrname="folhaLivroSaida" fieldtype="string" WIDTH="32"/><FIELD attrname="tgConversaoUnidades" fieldtype="string" WIDTH="6"/><FIELD attrname="fornecedor" fieldtype="string" WIDTH="32"/><FIELD attrname="volumeAtualizado" fieldtype="string" WIDTH="6"/><FIELD attrname="ordemEnderecoCobranca" fieldtype="string" WIDTH="32"/><FIELD attrname="ordemEnderecoEntrega" fieldtype="string" WIDTH="32"/><FIELD attrname="forma" fieldtype="string" WIDTH="1"/><FIELD attrname="tipoFreteConsignatario" fieldtype="string" WIDTH="32"/><FIELD attrname="conferido" fieldtype="string" WIDTH="32"/><FIELD attrname="numeroLivroSaida" fieldtype="string" WIDTH="32"/><FIELD attrname="usuarioAutorizado" fieldtype="string" WIDTH="3"/><FIELD attrname="entregMercAposFatur" fieldtype="string" WIDTH="32"/><FIELD attrname="status" fieldtype="string" WIDTH="1"/><FIELD attrname="itemNf" fieldtype="nested"><FIELDS><FIELD attrname="movimento" fieldtype="string" WIDTH="8"/><FIELD attrname="tipoOperacao1" fieldtype="string" WIDTH="5"/><FIELD attrname="dataMovimento" fieldtype="string" WIDTH="10"/><FIELD attrname="codigoMaterial" fieldtype="string" WIDTH="20"/><FIELD attrname="especif1" fieldtype="string" WIDTH="6"/><FIELD attrname="especif2" fieldtype="string" WIDTH="32"/><FIELD attrname="centroArmazenagem" fieldtype="string" WIDTH="4"/><FIELD attrname="grade1" fieldtype="string" WIDTH="32"/><FIELD attrname="quantidade1" fieldtype="string" WIDTH="6"/><FIELD attrname="precoUnitario" fieldtype="string" WIDTH="5"/><FIELD attrname="descricao" fieldtype="string" WIDTH="32"/><FIELD attrname="documento" fieldtype="string" WIDTH="32"/><FIELD attrname="empresa" fieldtype="string" WIDTH="6"/><FIELD attrname="contaGerencial" fieldtype="string" WIDTH="32"/><FIELD attrname="tipoDocumento" fieldtype="string" WIDTH="5"/><FIELD attrname="tabelaPreco" fieldtype="string" WIDTH="6"/><FIELD attrname="incidenciaISS1" fieldtype="string" WIDTH="1"/><FIELD attrname="tipoNota1" fieldtype="string" WIDTH="1"/><FIELD attrname="baseICMS1" fieldtype="string" WIDTH="7"/><FIELD attrname="baseIPI1" fieldtype="string" WIDTH="7"/><FIELD attrname="serie1" fieldtype="string" WIDTH="5"/><FIELD attrname="unidadeNegocio" fieldtype="string" WIDTH="3"/><FIELD attrname="nf" fieldtype="string" WIDTH="6"/><FIELD attrname="serie2" fieldtype="string" WIDTH="5"/><FIELD attrname="tipoOperacao2" fieldtype="string" WIDTH="5"/><FIELD attrname="CFOP1" fieldtype="string" WIDTH="6"/><FIELD attrname="dataEmissao" fieldtype="string" WIDTH="10"/><FIELD attrname="viaTransporte" fieldtype="string" WIDTH="1"/><FIELD attrname="documentoFiscal" fieldtype="string" WIDTH="5"/><FIELD attrname="cliente" fieldtype="string" WIDTH="6"/><FIELD attrname="cobranca" fieldtype="string" WIDTH="6"/><FIELD attrname="representante1" fieldtype="string" WIDTH="6"/><FIELD attrname="baseICMS2" fieldtype="string" WIDTH="7"/><FIELD attrname="valorICMS1" fieldtype="string" WIDTH="6"/><FIELD attrname="baseIPI2" fieldtype="string" WIDTH="7"/><FIELD attrname="valorIPI1" fieldtype="string" WIDTH="6"/><FIELD attrname="incidenciaPIS1" fieldtype="string" WIDTH="32"/><FIELD attrname="incidenciaCOFINS1" fieldtype="string" WIDTH="32"/><FIELD attrname="totalMercadorias" fieldtype="string" WIDTH="7"/><FIELD attrname="totalNF" fieldtype="string" WIDTH="7"/><FIELD attrname="transportadora" fieldtype="string" WIDTH="6"/><FIELD attrname="consignatario" fieldtype="string" WIDTH="32"/><FIELD attrname="marca" fieldtype="string" WIDTH="32"/><FIELD attrname="volume" fieldtype="string" WIDTH="15"/><FIELD attrname="quantidade2" fieldtype="string" WIDTH="6"/><FIELD attrname="especie" fieldtype="string" WIDTH="16"/><FIELD attrname="pesoLiquido" fieldtype="string" WIDTH="6"/><FIELD attrname="pesoBruto" fieldtype="string" WIDTH="8"/><FIELD attrname="conta" fieldtype="string" WIDTH="6"/><FIELD attrname="portador" fieldtype="string" WIDTH="3"/><FIELD attrname="fatura" fieldtype="string" WIDTH="6"/><FIELD attrname="cobrarPauta" fieldtype="string" WIDTH="32"/><FIELD attrname="remessa" fieldtype="string" WIDTH="32"/><FIELD attrname="pedido" fieldtype="string" WIDTH="12"/><FIELD attrname="dataSaida" fieldtype="string" WIDTH="10"/><FIELD attrname="horaSaida" fieldtype="string" WIDTH="8"/><FIELD attrname="gerouLancamentos" fieldtype="string" WIDTH="4"/><FIELD attrname="itemsNaNota" fieldtype="string" WIDTH="2"/><FIELD attrname="tipoFrete" fieldtype="string" WIDTH="1"/><FIELD attrname="uf" fieldtype="string" WIDTH="2"/><FIELD attrname="percentualComissao1" fieldtype="string" WIDTH="2"/><FIELD attrname="placa" fieldtype="string" WIDTH="32"/><FIELD attrname="especieNota" fieldtype="string" WIDTH="1"/><FIELD attrname="incidenciaISS2" fieldtype="string" WIDTH="1"/><FIELD attrname="ateNota" fieldtype="string" WIDTH="1"/><FIELD attrname="totalFaturado" fieldtype="string" WIDTH="7"/><FIELD attrname="substitutoTributario" fieldtype="string" WIDTH="32"/><FIELD attrname="notaReferencia" fieldtype="string" WIDTH="1"/><FIELD attrname="baseSubstituicaoTributaria" fieldtype="string" WIDTH="6"/><FIELD attrname="valorSubstituicaoTributaria" fieldtype="string" WIDTH="5"/><FIELD attrname="condicaoPagamento" fieldtype="string" WIDTH="3"/><FIELD attrname="complementoFatura" fieldtype="string" WIDTH="32"/><FIELD attrname="contabilizado" fieldtype="string" WIDTH="32"/><FIELD attrname="faturaAglutinada" fieldtype="string" WIDTH="32"/><FIELD attrname="gerouINSS" fieldtype="string" WIDTH="32"/><FIELD attrname="serieReferencia" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoMunicipio" fieldtype="string" WIDTH="32"/><FIELD attrname="quantidadeTotal" fieldtype="string" WIDTH="2"/><FIELD attrname="impressa" fieldtype="string" WIDTH="4"/><FIELD attrname="declaracaoImportacao" fieldtype="string" WIDTH="32"/><FIELD attrname="indiceIndexador" fieldtype="string" WIDTH="32"/><FIELD attrname="baseIRRF1" fieldtype="string" WIDTH="7"/><FIELD attrname="modeloCupom" fieldtype="string" WIDTH="32"/><FIELD attrname="numeroControleFormulario" fieldtype="string" WIDTH="32"/><FIELD attrname="romaneio" fieldtype="string" WIDTH="1"/><FIELD attrname="ufPlacaTransportador" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoCancelamento" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoDevolucao" fieldtype="string" WIDTH="32"/><FIELD attrname="ordemCompra" fieldtype="string" WIDTH="32"/><FIELD attrname="projeto" fieldtype="string" WIDTH="32"/><FIELD attrname="modeloFormulario" fieldtype="string" WIDTH="2"/><FIELD attrname="ordemDeCompraGerada" fieldtype="string" WIDTH="32"/><FIELD attrname="totalItensServico" fieldtype="string" WIDTH="1"/><FIELD attrname="usrnota1" fieldtype="string" WIDTH="32"/><FIELD attrname="chaveNFe" fieldtype="string" WIDTH="9"/><FIELD attrname="numeroProtocolo" fieldtype="string" WIDTH="15"/><FIELD attrname="numeroLote" fieldtype="string" WIDTH="15"/><FIELD attrname="gerouPedidoConsignacao" fieldtype="string" WIDTH="32"/><FIELD attrname="incluiSubstituicaoTributaria" fieldtype="string" WIDTH="32"/><FIELD attrname="listarLivros" fieldtype="string" WIDTH="1"/><FIELD attrname="tipoNota2" fieldtype="string" WIDTH="1"/><FIELD attrname="classificacaoDocumento" fieldtype="string" WIDTH="32"/><FIELD attrname="mercado" fieldtype="string" WIDTH="32"/><FIELD attrname="grade2" fieldtype="string" WIDTH="32"/><FIELD attrname="incidenciaContribSocial1" fieldtype="string" WIDTH="32"/><FIELD attrname="folhaLivroSaida" fieldtype="string" WIDTH="32"/><FIELD attrname="tgConversaoUnidades" fieldtype="string" WIDTH="6"/><FIELD attrname="fornecedor" fieldtype="string" WIDTH="32"/><FIELD attrname="volumeAtualizado" fieldtype="string" WIDTH="6"/><FIELD attrname="ordemEnderecoCobranca" fieldtype="string" WIDTH="32"/><FIELD attrname="ordemEnderecoEntrega" fieldtype="string" WIDTH="32"/><FIELD attrname="forma" fieldtype="string" WIDTH="1"/><FIELD attrname="tipoFreteConsignatario" fieldtype="string" WIDTH="32"/><FIELD attrname="conferido" fieldtype="string" WIDTH="32"/><FIELD attrname="numeroLivroSaida" fieldtype="string" WIDTH="32"/><FIELD attrname="usuarioAutorizado" fieldtype="string" WIDTH="3"/><FIELD attrname="entregMercAposFatur" fieldtype="string" WIDTH="32"/><FIELD attrname="status" fieldtype="string" WIDTH="1"/><FIELD attrname="CFOP2" fieldtype="string" WIDTH="6"/><FIELD attrname="percentualICMS" fieldtype="string" WIDTH="2"/><FIELD attrname="basePIS" fieldtype="string" WIDTH="6"/><FIELD attrname="valorPIS" fieldtype="string" WIDTH="4"/><FIELD attrname="baseCOFINS" fieldtype="string" WIDTH="6"/><FIELD attrname="valorCOFINS" fieldtype="string" WIDTH="4"/><FIELD attrname="codigoTipoDocumento" fieldtype="string" WIDTH="32"/><FIELD attrname="retencaoInformada" fieldtype="string" WIDTH="32"/><FIELD attrname="complementoIncidIPI" fieldtype="string" WIDTH="1"/><FIELD attrname="ICMSPresumido" fieldtype="string" WIDTH="1"/><FIELD attrname="CSTPIS" fieldtype="string" WIDTH="2"/><FIELD attrname="CSTCOFINS" fieldtype="string" WIDTH="2"/><FIELD attrname="codBaseCreditoPisCofinsEntrad" fieldtype="string" WIDTH="32"/><FIELD attrname="sequenciaNota" fieldtype="string" WIDTH="2"/><FIELD attrname="valorContabil" fieldtype="string" WIDTH="6"/><FIELD attrname="incidenciaIPI" fieldtype="string" WIDTH="1"/><FIELD attrname="incidenciaICMS" fieldtype="string" WIDTH="1"/><FIELD attrname="incidenciaPIS2" fieldtype="string" WIDTH="32"/><FIELD attrname="incidenciaCOFINS2" fieldtype="string" WIDTH="32"/><FIELD attrname="incidenciaICMSEntrada" fieldtype="string" WIDTH="32"/><FIELD attrname="complementoIncidenciaICMS" fieldtype="string" WIDTH="1"/><FIELD attrname="incidenciaContribSocial2" fieldtype="string" WIDTH="32"/><FIELD attrname="percentualIPI" fieldtype="string" WIDTH="2"/><FIELD attrname="percentualDesconto" fieldtype="string" WIDTH="7"/><FIELD attrname="valorICMS2" fieldtype="string" WIDTH="6"/><FIELD attrname="valorIPI2" fieldtype="string" WIDTH="6"/><FIELD attrname="percentualComissao2" fieldtype="string" WIDTH="2"/><FIELD attrname="baseSubstituicao" fieldtype="string" WIDTH="6"/><FIELD attrname="percentualSubstituicao" fieldtype="string" WIDTH="5"/><FIELD attrname="percentualPIS" fieldtype="string" WIDTH="4"/><FIELD attrname="percentualICMSSubstituicao" fieldtype="string" WIDTH="2"/><FIELD attrname="percentualCOFINS" fieldtype="string" WIDTH="1"/><FIELD attrname="transfCentroArmaz" fieldtype="string" WIDTH="32"/><FIELD attrname="estorno" fieldtype="string" WIDTH="32"/><FIELD attrname="pedidoOc" fieldtype="string" WIDTH="12"/><FIELD attrname="indice" fieldtype="string" WIDTH="32"/><FIELD attrname="ordenacao" fieldtype="string" WIDTH="6"/><FIELD attrname="transfUnNegocio" fieldtype="string" WIDTH="32"/><FIELD attrname="contrato" fieldtype="string" WIDTH="32"/><FIELD attrname="contabil" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoRetorno" fieldtype="string" WIDTH="32"/><FIELD attrname="contabilidade" fieldtype="string" WIDTH="32"/><FIELD attrname="excecaoNCM" fieldtype="string" WIDTH="32"/><FIELD attrname="etiquetaHex" fieldtype="string" WIDTH="32"/><FIELD attrname="inspecao" fieldtype="string" WIDTH="32"/><FIELD attrname="classePedidoExclusivo4" fieldtype="string" WIDTH="32"/><FIELD attrname="saidaSemSaldo" fieldtype="string" WIDTH="32"/><FIELD attrname="usrmovi2" fieldtype="string" WIDTH="32"/><FIELD attrname="valorSubstituicao" fieldtype="string" WIDTH="5"/><FIELD attrname="precoTotalCusto" fieldtype="string" WIDTH="10"/><FIELD attrname="sequenciaDia" fieldtype="string" WIDTH="8"/><FIELD attrname="sequenciaPedidoOC" fieldtype="string" WIDTH="2"/><FIELD attrname="sequenciaDiaPedidoOC" fieldtype="string" WIDTH="1"/><FIELD attrname="baseICMSComIPI" fieldtype="string" WIDTH="4"/><FIELD attrname="clienteFornecedor" fieldtype="string" WIDTH="6"/><FIELD attrname="especieNF" fieldtype="string" WIDTH="1"/><FIELD attrname="sequenciaNF" fieldtype="string" WIDTH="2"/><FIELD attrname="representante2" fieldtype="string" WIDTH="6"/><FIELD attrname="valorBaseComissao" fieldtype="string" WIDTH="6"/><FIELD attrname="percentualComissao3" fieldtype="string" WIDTH="2"/><FIELD attrname="tipoBaseComissao" fieldtype="string" WIDTH="32"/><FIELD attrname="percComissaoOrigRepresentante" fieldtype="string" WIDTH="2"/><FIELD attrname="origem" fieldtype="string" WIDTH="1"/><FIELD attrname="baseIRRF2" fieldtype="string" WIDTH="7"/><FIELD attrname="baseINSS" fieldtype="string" WIDTH="6"/><FIELD attrname="parcelaNf" fieldtype="nested"><FIELDS><FIELD attrname="vencimento" fieldtype="string" WIDTH="10"/><FIELD attrname="valorParcela" fieldtype="string" WIDTH="6"/><FIELD attrname="nossoNumero" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoCaixa" fieldtype="string" WIDTH="32"/><FIELD attrname="turnoSequencial" fieldtype="string" WIDTH="32"/><FIELD attrname="sessaoCaixa" fieldtype="string" WIDTH="32"/></FIELDS><PARAMS/></FIELD></FIELDS><PARAMS/></FIELD><FIELD attrname="parcelaNf" fieldtype="nested"><FIELDS><FIELD attrname="vencimento" fieldtype="string" WIDTH="10"/><FIELD attrname="valorParcela" fieldtype="string" WIDTH="6"/><FIELD attrname="nossoNumero" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoCaixa" fieldtype="string" WIDTH="32"/><FIELD attrname="turnoSequencial" fieldtype="string" WIDTH="32"/><FIELD attrname="sessaoCaixa" fieldtype="string" WIDTH="32"/></FIELDS><PARAMS/></FIELD></FIELDS><PARAMS/></METADATA><ROWDATA/><METADATA><FIELDS><FIELD attrname="unidadeNegocio" fieldtype="string" WIDTH="3"/><FIELD attrname="nf" fieldtype="string" WIDTH="6"/><FIELD attrname="serie" fieldtype="string" WIDTH="5"/><FIELD attrname="tipoOperacao" fieldtype="string" WIDTH="5"/><FIELD attrname="CFOP" fieldtype="string" WIDTH="6"/><FIELD attrname="dataEmissao" fieldtype="string" WIDTH="10"/><FIELD attrname="viaTransporte" fieldtype="string" WIDTH="1"/><FIELD attrname="documentoFiscal" fieldtype="string" WIDTH="5"/><FIELD attrname="cliente" fieldtype="string" WIDTH="6"/><FIELD attrname="cobranca" fieldtype="string" WIDTH="6"/><FIELD attrname="representante" fieldtype="string" WIDTH="6"/><FIELD attrname="baseICMS" fieldtype="string" WIDTH="7"/><FIELD attrname="valorICMS" fieldtype="string" WIDTH="6"/><FIELD attrname="baseIPI" fieldtype="string" WIDTH="7"/><FIELD attrname="valorIPI" fieldtype="string" WIDTH="6"/><FIELD attrname="incidenciaPIS" fieldtype="string" WIDTH="32"/><FIELD attrname="incidenciaCOFINS" fieldtype="string" WIDTH="32"/><FIELD attrname="totalMercadorias" fieldtype="string" WIDTH="7"/><FIELD attrname="totalNF" fieldtype="string" WIDTH="7"/><FIELD attrname="transportadora" fieldtype="string" WIDTH="6"/><FIELD attrname="consignatario" fieldtype="string" WIDTH="32"/><FIELD attrname="marca" fieldtype="string" WIDTH="32"/><FIELD attrname="volume" fieldtype="string" WIDTH="15"/><FIELD attrname="quantidade" fieldtype="string" WIDTH="6"/><FIELD attrname="especie" fieldtype="string" WIDTH="16"/><FIELD attrname="pesoLiquido" fieldtype="string" WIDTH="6"/><FIELD attrname="pesoBruto" fieldtype="string" WIDTH="8"/><FIELD attrname="conta" fieldtype="string" WIDTH="6"/><FIELD attrname="portador" fieldtype="string" WIDTH="3"/><FIELD attrname="fatura" fieldtype="string" WIDTH="6"/><FIELD attrname="cobrarPauta" fieldtype="string" WIDTH="32"/><FIELD attrname="remessa" fieldtype="string" WIDTH="32"/><FIELD attrname="pedido" fieldtype="string" WIDTH="12"/><FIELD attrname="dataSaida" fieldtype="string" WIDTH="10"/><FIELD attrname="horaSaida" fieldtype="string" WIDTH="8"/><FIELD attrname="gerouLancamentos" fieldtype="string" WIDTH="4"/><FIELD attrname="itemsNaNota" fieldtype="string" WIDTH="2"/><FIELD attrname="tipoFrete" fieldtype="string" WIDTH="1"/><FIELD attrname="uf" fieldtype="string" WIDTH="2"/><FIELD attrname="percentualComissao" fieldtype="string" WIDTH="2"/><FIELD attrname="placa" fieldtype="string" WIDTH="32"/><FIELD attrname="especieNota" fieldtype="string" WIDTH="1"/><FIELD attrname="incidenciaISS" fieldtype="string" WIDTH="1"/><FIELD attrname="ateNota" fieldtype="string" WIDTH="1"/><FIELD attrname="totalFaturado" fieldtype="string" WIDTH="7"/><FIELD attrname="substitutoTributario" fieldtype="string" WIDTH="32"/><FIELD attrname="notaReferencia" fieldtype="string" WIDTH="1"/><FIELD attrname="baseSubstituicaoTributaria" fieldtype="string" WIDTH="6"/><FIELD attrname="valorSubstituicaoTributaria" fieldtype="string" WIDTH="5"/><FIELD attrname="condicaoPagamento" fieldtype="string" WIDTH="3"/><FIELD attrname="complementoFatura" fieldtype="string" WIDTH="32"/><FIELD attrname="contabilizado" fieldtype="string" WIDTH="32"/><FIELD attrname="faturaAglutinada" fieldtype="string" WIDTH="32"/><FIELD attrname="gerouINSS" fieldtype="string" WIDTH="32"/><FIELD attrname="serieReferencia" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoMunicipio" fieldtype="string" WIDTH="32"/><FIELD attrname="quantidadeTotal" fieldtype="string" WIDTH="2"/><FIELD attrname="impressa" fieldtype="string" WIDTH="4"/><FIELD attrname="declaracaoImportacao" fieldtype="string" WIDTH="32"/><FIELD attrname="indiceIndexador" fieldtype="string" WIDTH="32"/><FIELD attrname="baseIRRF" fieldtype="string" WIDTH="7"/><FIELD attrname="modeloCupom" fieldtype="string" WIDTH="32"/><FIELD attrname="numeroControleFormulario" fieldtype="string" WIDTH="32"/><FIELD attrname="romaneio" fieldtype="string" WIDTH="1"/><FIELD attrname="ufPlacaTransportador" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoCancelamento" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoDevolucao" fieldtype="string" WIDTH="32"/><FIELD attrname="ordemCompra" fieldtype="string" WIDTH="32"/><FIELD attrname="projeto" fieldtype="string" WIDTH="32"/><FIELD attrname="modeloFormulario" fieldtype="string" WIDTH="2"/><FIELD attrname="ordemDeCompraGerada" fieldtype="string" WIDTH="32"/><FIELD attrname="totalItensServico" fieldtype="string" WIDTH="1"/><FIELD attrname="usrnota1" fieldtype="string" WIDTH="32"/><FIELD attrname="chaveNFe" fieldtype="string" WIDTH="9"/><FIELD attrname="numeroProtocolo" fieldtype="string" WIDTH="15"/><FIELD attrname="numeroLote" fieldtype="string" WIDTH="15"/><FIELD attrname="gerouPedidoConsignacao" fieldtype="string" WIDTH="32"/><FIELD attrname="incluiSubstituicaoTributaria" fieldtype="string" WIDTH="32"/><FIELD attrname="listarLivros" fieldtype="string" WIDTH="1"/><FIELD attrname="tipoNota" fieldtype="string" WIDTH="1"/><FIELD attrname="classificacaoDocumento" fieldtype="string" WIDTH="32"/><FIELD attrname="mercado" fieldtype="string" WIDTH="32"/><FIELD attrname="grade" fieldtype="string" WIDTH="32"/><FIELD attrname="incidenciaContribSocial" fieldtype="string" WIDTH="32"/><FIELD attrname="folhaLivroSaida" fieldtype="string" WIDTH="32"/><FIELD attrname="tgConversaoUnidades" fieldtype="string" WIDTH="6"/><FIELD attrname="fornecedor" fieldtype="string" WIDTH="32"/><FIELD attrname="volumeAtualizado" fieldtype="string" WIDTH="6"/><FIELD attrname="ordemEnderecoCobranca" fieldtype="string" WIDTH="32"/><FIELD attrname="ordemEnderecoEntrega" fieldtype="string" WIDTH="32"/><FIELD attrname="forma" fieldtype="string" WIDTH="1"/><FIELD attrname="tipoFreteConsignatario" fieldtype="string" WIDTH="32"/><FIELD attrname="conferido" fieldtype="string" WIDTH="32"/><FIELD attrname="numeroLivroSaida" fieldtype="string" WIDTH="32"/><FIELD attrname="usuarioAutorizado" fieldtype="string" WIDTH="3"/><FIELD attrname="entregMercAposFatur" fieldtype="string" WIDTH="32"/><FIELD attrname="status" fieldtype="string" WIDTH="1"/><FIELD attrname="itemNf" fieldtype="nested"><FIELDS><FIELD attrname="movimento" fieldtype="string" WIDTH="8"/><FIELD attrname="tipoOperacao1" fieldtype="string" WIDTH="5"/><FIELD attrname="dataMovimento" fieldtype="string" WIDTH="10"/><FIELD attrname="codigoMaterial" fieldtype="string" WIDTH="20"/><FIELD attrname="especif1" fieldtype="string" WIDTH="6"/><FIELD attrname="especif2" fieldtype="string" WIDTH="32"/><FIELD attrname="centroArmazenagem" fieldtype="string" WIDTH="4"/><FIELD attrname="grade1" fieldtype="string" WIDTH="32"/><FIELD attrname="quantidade1" fieldtype="string" WIDTH="6"/><FIELD attrname="precoUnitario" fieldtype="string" WIDTH="5"/><FIELD attrname="descricao" fieldtype="string" WIDTH="32"/><FIELD attrname="documento" fieldtype="string" WIDTH="32"/><FIELD attrname="empresa" fieldtype="string" WIDTH="6"/><FIELD attrname="contaGerencial" fieldtype="string" WIDTH="32"/><FIELD attrname="tipoDocumento" fieldtype="string" WIDTH="5"/><FIELD attrname="tabelaPreco" fieldtype="string" WIDTH="6"/><FIELD attrname="incidenciaISS1" fieldtype="string" WIDTH="1"/><FIELD attrname="tipoNota1" fieldtype="string" WIDTH="1"/><FIELD attrname="baseICMS1" fieldtype="string" WIDTH="7"/><FIELD attrname="baseIPI1" fieldtype="string" WIDTH="7"/><FIELD attrname="serie1" fieldtype="string" WIDTH="5"/><FIELD attrname="unidadeNegocio" fieldtype="string" WIDTH="3"/><FIELD attrname="nf" fieldtype="string" WIDTH="6"/><FIELD attrname="serie2" fieldtype="string" WIDTH="5"/><FIELD attrname="tipoOperacao2" fieldtype="string" WIDTH="5"/><FIELD attrname="CFOP1" fieldtype="string" WIDTH="6"/><FIELD attrname="dataEmissao" fieldtype="string" WIDTH="10"/><FIELD attrname="viaTransporte" fieldtype="string" WIDTH="1"/><FIELD attrname="documentoFiscal" fieldtype="string" WIDTH="5"/><FIELD attrname="cliente" fieldtype="string" WIDTH="6"/><FIELD attrname="cobranca" fieldtype="string" WIDTH="6"/><FIELD attrname="representante1" fieldtype="string" WIDTH="6"/><FIELD attrname="baseICMS2" fieldtype="string" WIDTH="7"/><FIELD attrname="valorICMS1" fieldtype="string" WIDTH="6"/><FIELD attrname="baseIPI2" fieldtype="string" WIDTH="7"/><FIELD attrname="valorIPI1" fieldtype="string" WIDTH="6"/><FIELD attrname="incidenciaPIS1" fieldtype="string" WIDTH="32"/><FIELD attrname="incidenciaCOFINS1" fieldtype="string" WIDTH="32"/><FIELD attrname="totalMercadorias" fieldtype="string" WIDTH="7"/><FIELD attrname="totalNF" fieldtype="string" WIDTH="7"/><FIELD attrname="transportadora" fieldtype="string" WIDTH="6"/><FIELD attrname="consignatario" fieldtype="string" WIDTH="32"/><FIELD attrname="marca" fieldtype="string" WIDTH="32"/><FIELD attrname="volume" fieldtype="string" WIDTH="15"/><FIELD attrname="quantidade2" fieldtype="string" WIDTH="6"/><FIELD attrname="especie" fieldtype="string" WIDTH="16"/><FIELD attrname="pesoLiquido" fieldtype="string" WIDTH="6"/><FIELD attrname="pesoBruto" fieldtype="string" WIDTH="8"/><FIELD attrname="conta" fieldtype="string" WIDTH="6"/><FIELD attrname="portador" fieldtype="string" WIDTH="3"/><FIELD attrname="fatura" fieldtype="string" WIDTH="6"/><FIELD attrname="cobrarPauta" fieldtype="string" WIDTH="32"/><FIELD attrname="remessa" fieldtype="string" WIDTH="32"/><FIELD attrname="pedido" fieldtype="string" WIDTH="12"/><FIELD attrname="dataSaida" fieldtype="string" WIDTH="10"/><FIELD attrname="horaSaida" fieldtype="string" WIDTH="8"/><FIELD attrname="gerouLancamentos" fieldtype="string" WIDTH="4"/><FIELD attrname="itemsNaNota" fieldtype="string" WIDTH="2"/><FIELD attrname="tipoFrete" fieldtype="string" WIDTH="1"/><FIELD attrname="uf" fieldtype="string" WIDTH="2"/><FIELD attrname="percentualComissao1" fieldtype="string" WIDTH="2"/><FIELD attrname="placa" fieldtype="string" WIDTH="32"/><FIELD attrname="especieNota" fieldtype="string" WIDTH="1"/><FIELD attrname="incidenciaISS2" fieldtype="string" WIDTH="1"/><FIELD attrname="ateNota" fieldtype="string" WIDTH="1"/><FIELD attrname="totalFaturado" fieldtype="string" WIDTH="7"/><FIELD attrname="substitutoTributario" fieldtype="string" WIDTH="32"/><FIELD attrname="notaReferencia" fieldtype="string" WIDTH="1"/><FIELD attrname="baseSubstituicaoTributaria" fieldtype="string" WIDTH="6"/><FIELD attrname="valorSubstituicaoTributaria" fieldtype="string" WIDTH="5"/><FIELD attrname="condicaoPagamento" fieldtype="string" WIDTH="3"/><FIELD attrname="complementoFatura" fieldtype="string" WIDTH="32"/><FIELD attrname="contabilizado" fieldtype="string" WIDTH="32"/><FIELD attrname="faturaAglutinada" fieldtype="string" WIDTH="32"/><FIELD attrname="gerouINSS" fieldtype="string" WIDTH="32"/><FIELD attrname="serieReferencia" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoMunicipio" fieldtype="string" WIDTH="32"/><FIELD attrname="quantidadeTotal" fieldtype="string" WIDTH="2"/><FIELD attrname="impressa" fieldtype="string" WIDTH="4"/><FIELD attrname="declaracaoImportacao" fieldtype="string" WIDTH="32"/><FIELD attrname="indiceIndexador" fieldtype="string" WIDTH="32"/><FIELD attrname="baseIRRF1" fieldtype="string" WIDTH="7"/><FIELD attrname="modeloCupom" fieldtype="string" WIDTH="32"/><FIELD attrname="numeroControleFormulario" fieldtype="string" WIDTH="32"/><FIELD attrname="romaneio" fieldtype="string" WIDTH="1"/><FIELD attrname="ufPlacaTransportador" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoCancelamento" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoDevolucao" fieldtype="string" WIDTH="32"/><FIELD attrname="ordemCompra" fieldtype="string" WIDTH="32"/><FIELD attrname="projeto" fieldtype="string" WIDTH="32"/><FIELD attrname="modeloFormulario" fieldtype="string" WIDTH="2"/><FIELD attrname="ordemDeCompraGerada" fieldtype="string" WIDTH="32"/><FIELD attrname="totalItensServico" fieldtype="string" WIDTH="1"/><FIELD attrname="usrnota1" fieldtype="string" WIDTH="32"/><FIELD attrname="chaveNFe" fieldtype="string" WIDTH="9"/><FIELD attrname="numeroProtocolo" fieldtype="string" WIDTH="15"/><FIELD attrname="numeroLote" fieldtype="string" WIDTH="15"/><FIELD attrname="gerouPedidoConsignacao" fieldtype="string" WIDTH="32"/><FIELD attrname="incluiSubstituicaoTributaria" fieldtype="string" WIDTH="32"/><FIELD attrname="listarLivros" fieldtype="string" WIDTH="1"/><FIELD attrname="tipoNota2" fieldtype="string" WIDTH="1"/><FIELD attrname="classificacaoDocumento" fieldtype="string" WIDTH="32"/><FIELD attrname="mercado" fieldtype="string" WIDTH="32"/><FIELD attrname="grade2" fieldtype="string" WIDTH="32"/><FIELD attrname="incidenciaContribSocial1" fieldtype="string" WIDTH="32"/><FIELD attrname="folhaLivroSaida" fieldtype="string" WIDTH="32"/><FIELD attrname="tgConversaoUnidades" fieldtype="string" WIDTH="6"/><FIELD attrname="fornecedor" fieldtype="string" WIDTH="32"/><FIELD attrname="volumeAtualizado" fieldtype="string" WIDTH="6"/><FIELD attrname="ordemEnderecoCobranca" fieldtype="string" WIDTH="32"/><FIELD attrname="ordemEnderecoEntrega" fieldtype="string" WIDTH="32"/><FIELD attrname="forma" fieldtype="string" WIDTH="1"/><FIELD attrname="tipoFreteConsignatario" fieldtype="string" WIDTH="32"/><FIELD attrname="conferido" fieldtype="string" WIDTH="32"/><FIELD attrname="numeroLivroSaida" fieldtype="string" WIDTH="32"/><FIELD attrname="usuarioAutorizado" fieldtype="string" WIDTH="3"/><FIELD attrname="entregMercAposFatur" fieldtype="string" WIDTH="32"/><FIELD attrname="status" fieldtype="string" WIDTH="1"/><FIELD attrname="CFOP2" fieldtype="string" WIDTH="6"/><FIELD attrname="percentualICMS" fieldtype="string" WIDTH="2"/><FIELD attrname="basePIS" fieldtype="string" WIDTH="6"/><FIELD attrname="valorPIS" fieldtype="string" WIDTH="4"/><FIELD attrname="baseCOFINS" fieldtype="string" WIDTH="6"/><FIELD attrname="valorCOFINS" fieldtype="string" WIDTH="4"/><FIELD attrname="codigoTipoDocumento" fieldtype="string" WIDTH="32"/><FIELD attrname="retencaoInformada" fieldtype="string" WIDTH="32"/><FIELD attrname="complementoIncidIPI" fieldtype="string" WIDTH="1"/><FIELD attrname="ICMSPresumido" fieldtype="string" WIDTH="1"/><FIELD attrname="CSTPIS" fieldtype="string" WIDTH="2"/><FIELD attrname="CSTCOFINS" fieldtype="string" WIDTH="2"/><FIELD attrname="codBaseCreditoPisCofinsEntrad" fieldtype="string" WIDTH="32"/><FIELD attrname="sequenciaNota" fieldtype="string" WIDTH="2"/><FIELD attrname="valorContabil" fieldtype="string" WIDTH="6"/><FIELD attrname="incidenciaIPI" fieldtype="string" WIDTH="1"/><FIELD attrname="incidenciaICMS" fieldtype="string" WIDTH="1"/><FIELD attrname="incidenciaPIS2" fieldtype="string" WIDTH="32"/><FIELD attrname="incidenciaCOFINS2" fieldtype="string" WIDTH="32"/><FIELD attrname="incidenciaICMSEntrada" fieldtype="string" WIDTH="32"/><FIELD attrname="complementoIncidenciaICMS" fieldtype="string" WIDTH="1"/><FIELD attrname="incidenciaContribSocial2" fieldtype="string" WIDTH="32"/><FIELD attrname="percentualIPI" fieldtype="string" WIDTH="2"/><FIELD attrname="percentualDesconto" fieldtype="string" WIDTH="7"/><FIELD attrname="valorICMS2" fieldtype="string" WIDTH="6"/><FIELD attrname="valorIPI2" fieldtype="string" WIDTH="6"/><FIELD attrname="percentualComissao2" fieldtype="string" WIDTH="2"/><FIELD attrname="baseSubstituicao" fieldtype="string" WIDTH="6"/><FIELD attrname="percentualSubstituicao" fieldtype="string" WIDTH="5"/><FIELD attrname="percentualPIS" fieldtype="string" WIDTH="4"/><FIELD attrname="percentualICMSSubstituicao" fieldtype="string" WIDTH="2"/><FIELD attrname="percentualCOFINS" fieldtype="string" WIDTH="1"/><FIELD attrname="transfCentroArmaz" fieldtype="string" WIDTH="32"/><FIELD attrname="estorno" fieldtype="string" WIDTH="32"/><FIELD attrname="pedidoOc" fieldtype="string" WIDTH="12"/><FIELD attrname="indice" fieldtype="string" WIDTH="32"/><FIELD attrname="ordenacao" fieldtype="string" WIDTH="6"/><FIELD attrname="transfUnNegocio" fieldtype="string" WIDTH="32"/><FIELD attrname="contrato" fieldtype="string" WIDTH="32"/><FIELD attrname="contabil" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoRetorno" fieldtype="string" WIDTH="32"/><FIELD attrname="contabilidade" fieldtype="string" WIDTH="32"/><FIELD attrname="excecaoNCM" fieldtype="string" WIDTH="32"/><FIELD attrname="etiquetaHex" fieldtype="string" WIDTH="32"/><FIELD attrname="inspecao" fieldtype="string" WIDTH="32"/><FIELD attrname="classePedidoExclusivo4" fieldtype="string" WIDTH="32"/><FIELD attrname="saidaSemSaldo" fieldtype="string" WIDTH="32"/><FIELD attrname="usrmovi2" fieldtype="string" WIDTH="32"/><FIELD attrname="valorSubstituicao" fieldtype="string" WIDTH="5"/><FIELD attrname="precoTotalCusto" fieldtype="string" WIDTH="10"/><FIELD attrname="sequenciaDia" fieldtype="string" WIDTH="8"/><FIELD attrname="sequenciaPedidoOC" fieldtype="string" WIDTH="2"/><FIELD attrname="sequenciaDiaPedidoOC" fieldtype="string" WIDTH="1"/><FIELD attrname="baseICMSComIPI" fieldtype="string" WIDTH="4"/><FIELD attrname="clienteFornecedor" fieldtype="string" WIDTH="6"/><FIELD attrname="especieNF" fieldtype="string" WIDTH="1"/><FIELD attrname="sequenciaNF" fieldtype="string" WIDTH="2"/><FIELD attrname="representante2" fieldtype="string" WIDTH="6"/><FIELD attrname="valorBaseComissao" fieldtype="string" WIDTH="6"/><FIELD attrname="percentualComissao3" fieldtype="string" WIDTH="2"/><FIELD attrname="tipoBaseComissao" fieldtype="string" WIDTH="32"/><FIELD attrname="percComissaoOrigRepresentante" fieldtype="string" WIDTH="2"/><FIELD attrname="origem" fieldtype="string" WIDTH="1"/><FIELD attrname="baseIRRF2" fieldtype="string" WIDTH="7"/><FIELD attrname="baseINSS" fieldtype="string" WIDTH="6"/><FIELD attrname="parcelaNf" fieldtype="nested"><FIELDS><FIELD attrname="vencimento" fieldtype="string" WIDTH="10"/><FIELD attrname="valorParcela" fieldtype="string" WIDTH="6"/><FIELD attrname="nossoNumero" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoCaixa" fieldtype="string" WIDTH="32"/><FIELD attrname="turnoSequencial" fieldtype="string" WIDTH="32"/><FIELD attrname="sessaoCaixa" fieldtype="string" WIDTH="32"/></FIELDS><PARAMS/></FIELD></FIELDS><PARAMS/></FIELD><FIELD attrname="parcelaNf" fieldtype="nested"><FIELDS><FIELD attrname="vencimento" fieldtype="string" WIDTH="10"/><FIELD attrname="valorParcela" fieldtype="string" WIDTH="6"/><FIELD attrname="nossoNumero" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoCaixa" fieldtype="string" WIDTH="32"/><FIELD attrname="turnoSequencial" fieldtype="string" WIDTH="32"/><FIELD attrname="sessaoCaixa" fieldtype="string" WIDTH="32"/></FIELDS><PARAMS/></FIELD></FIELDS><PARAMS/></METADATA><ROWDATA/></DATAPACKET>
+]]></Skeleton></XmlTransformation>

@@ -1,0 +1,1075 @@
+Atualização iniciada em: 18/09/2017 23:59:07
+INÍCIO IMPORTAÇÃO CLIENTES... 
+004001, NOVA CASA RIO PRETO PISOS E REVESTIMENTOS LTDA, NFE - NOVA CASA RIO PRETO, (17) 3214-4900, , AV. SAO JUDAS TADEU, VILA SAO JUDAS TADEU, SAO JOSE DO RIO PRETO, SP, 15075290, 08890747000174, True, 647504845119, , 1D, 12/06/2009, 12/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'647504845119'
+WHERE   CODIGO = _latin1'10308'' at line 20
+004001, NOVA CASA RIO PRETO PISOS E REVESTIMENTOS LTDA, NFE - NOVA CASA RIO PRETO, (17) 3214-4900, , AV. SAO JUDAS TADEU, VILA SAO JUDAS TADEU, SAO JOSE DO RIO PRETO, SP, 15075290, 08890747000174, True, 647504845119, , 1D, 12/06/2009, 12/06/2009
+004002, FUNDACAO DO AMPARO A CIENCIA E TECNOLOGIA- FACEPE, , (81) 2101-2540, , RUA BENFICA, MADALENA, RECIFE, PE, 50720001, 24566440000179, False, , , 1D, 08/07/2009, 08/07/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1''
+WHERE   CODIGO = _latin1'10309'' at line 20
+004002, FUNDACAO DO AMPARO A CIENCIA E TECNOLOGIA- FACEPE, , (81) 2101-2540, , RUA BENFICA, MADALENA, RECIFE, PE, 50720001, 24566440000179, False, , , 1D, 08/07/2009, 08/07/2009
+004005, STOCK SHOP PRESENTES LTDA, NFE: STOCK SHOP PRESENTES LTDA, (51) 3715-2089, , RUA MARECHAL FLORIANO, CENTRO, SANTA CRUZ DO SUL, RS, 96810000, 00541087000104, True, 1080096563, , 1D, 20/06/2016, 09/07/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'1080096563'
+WHERE   CODIGO = _latin1'10310'' at line 20
+004005, STOCK SHOP PRESENTES LTDA, NFE: STOCK SHOP PRESENTES LTDA, (51) 3715-2089, , RUA MARECHAL FLORIANO, CENTRO, SANTA CRUZ DO SUL, RS, 96810000, 00541087000104, True, 1080096563, , 1D, 20/06/2016, 09/07/2010
+004006, COMERCIO E INDUSTRIA BREITHAUPT SA - JOINVILE, NFE - COMERCIO E INDUSTRIA BRE, (47) 3481-9999, , RUA DR JOAO COLIN, CENTRO, JOINVILLE, SC, 89200000, 84429810001391, True, 251260798, , 1D, 27/03/2014, 27/03/2014
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'250156180'
+WHERE   CODIGO = _latin1'9828'' at line 20
+004006, COMERCIO E INDUSTRIA BREITHAUPT SA - JOINVILE, NFE - COMERCIO E INDUSTRIA BRE, (47) 3481-9999, , RUA DR JOAO COLIN, CENTRO, JOINVILLE, SC, 89200000, 84429810001391, True, 251260798, , 1D, 27/03/2014, 27/03/2014
+004007, COMERCIO E INDUSTRIA BREITHAUPT SA - CANOINHAS, NFE - COMERCIO E INDUSTRIA BRE, (47) 3621-9999, , AV. RUBENS RIBEIRO DA SILVA, CAMPO AGUA VERDE, CANOINHAS, SC, 89460000, 84429810002010, True, 254913504, , 1D, 27/03/2014, 22/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'250156180'
+WHERE   CODIGO = _latin1'9828'' at line 20
+004007, COMERCIO E INDUSTRIA BREITHAUPT SA - CANOINHAS, NFE - COMERCIO E INDUSTRIA BRE, (47) 3621-9999, , AV. RUBENS RIBEIRO DA SILVA, CAMPO AGUA VERDE, CANOINHAS, SC, 89460000, 84429810002010, True, 254913504, , 1D, 27/03/2014, 22/04/2009
+004008, COMERCIO E INDUSTRIA BREITHAUPT SA - SAO BENTO DO SUL, NFE- COMERCIO E INDUSTRIA BREI, (47) 3626-9999, , AV. ARGOLO, CENTRO, SAO BENTO DO SUL, SC, 89290000, 84429810000905, True, 250741130, , 1D, 27/03/2014, 22/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'250156180'
+WHERE   CODIGO = _latin1'9828'' at line 20
+004008, COMERCIO E INDUSTRIA BREITHAUPT SA - SAO BENTO DO SUL, NFE- COMERCIO E INDUSTRIA BREI, (47) 3626-9999, , AV. ARGOLO, CENTRO, SAO BENTO DO SUL, SC, 89290000, 84429810000905, True, 250741130, , 1D, 27/03/2014, 22/04/2009
+004009, COMERCIO E INDUSTRIA BREITHAUPT SA - BRUSQUE, NFE - COMERCIO E INDUSTRIA BRE, (47) 3255-9999, , RUA MATHILDE HOFFMANN, CENTRO, BRUSQUE, SC, 88350000, 84429810001715, True, 253595819, , 1D, 27/03/2014, 22/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'250156180'
+WHERE   CODIGO = _latin1'9828'' at line 20
+004009, COMERCIO E INDUSTRIA BREITHAUPT SA - BRUSQUE, NFE - COMERCIO E INDUSTRIA BRE, (47) 3255-9999, , RUA MATHILDE HOFFMANN, CENTRO, BRUSQUE, SC, 88350000, 84429810001715, True, 253595819, , 1D, 27/03/2014, 22/04/2009
+004010, COMERCIO E INDUSTRIA BREITHAUPT SA - JARAGUA DO SUL, NFE - COMERCIO E INDUSTRIA BRE, (47) 3372-9910, , AV. GETULIO VARGAS, CENTRO, JARAGUA DO SUL, SC, 89251970, 84429810000158, True, 250156164, , 1D, 27/03/2014, 11/12/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'250156180'
+WHERE   CODIGO = _latin1'9828'' at line 20
+004010, COMERCIO E INDUSTRIA BREITHAUPT SA - JARAGUA DO SUL, NFE - COMERCIO E INDUSTRIA BRE, (47) 3372-9910, , AV. GETULIO VARGAS, CENTRO, JARAGUA DO SUL, SC, 89251970, 84429810000158, True, 250156164, , 1D, 27/03/2014, 11/12/2009
+004013, S. C. ARAUJO LTDA ME, , (86) 3231-1768, , AV. ININGA, JOCKEY CLUB, TERESINA, PI, 64048110, 07872040000172, True, 194597997, , 1D, 17/04/2009, 17/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'194597997'
+WHERE   CODIGO = _latin1'10311'' at line 20
+004013, S. C. ARAUJO LTDA ME, , (86) 3231-1768, , AV. ININGA, JOCKEY CLUB, TERESINA, PI, 64048110, 07872040000172, True, 194597997, , 1D, 17/04/2009, 17/04/2009
+004014, IRMANDADE DE NOSSA SENHORA DAS GRACAS, NFE IRMANDADE DE NOSSA SENHORA, (31) 2107-6000, , RUA TEOFILO OTONI, CENTRO, SETE LAGOAS, MG, 35700007, 24993560000152, False, , , 1D, 22/04/2010, 22/04/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1''
+WHERE   CODIGO = _latin1'10312'' at line 20
+004014, IRMANDADE DE NOSSA SENHORA DAS GRACAS, NFE IRMANDADE DE NOSSA SENHORA, (31) 2107-6000, , RUA TEOFILO OTONI, CENTRO, SETE LAGOAS, MG, 35700007, 24993560000152, False, , , 1D, 22/04/2010, 22/04/2010
+004015, NOSS LTDA, NFE - NOSS LTDA, (31) 3309-6800, (31) 8634-5864, RUA PLEIADES, SANTA LUCIA, BELO HORIZONTE, MG, 30360190, 04949885000120, False, , , 1D, 07/07/2009, 07/07/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1''
+WHERE   CODIGO = _latin1'10313'' at line 20
+004015, NOSS LTDA, NFE - NOSS LTDA, (31) 3309-6800, (31) 8634-5864, RUA PLEIADES, SANTA LUCIA, BELO HORIZONTE, MG, 30360190, 04949885000120, False, , , 1D, 07/07/2009, 07/07/2009
+004018, OLIVEIRA E SARETO CHURRASCARIA LTDA EPP, SR. GIGIO, (11) 4341-7688, , RUA FRANCISCO ONGARO, CENTRO, SAO BERNARDO DO CAMPO, SP, 9720160, 03520540000194, True, 635345659116, , 1D, 14/04/2009, 14/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'635345659116'
+WHERE   CODIGO = _latin1'10314'' at line 20
+004018, OLIVEIRA E SARETO CHURRASCARIA LTDA EPP, SR. GIGIO, (11) 4341-7688, , RUA FRANCISCO ONGARO, CENTRO, SAO BERNARDO DO CAMPO, SP, 9720160, 03520540000194, True, 635345659116, , 1D, 14/04/2009, 14/04/2009
+004021, ISAN PRESENTES LTDA - ME, SRA KATIA, (62) 3251-7672, , AVENIDA T-0007, QD L12 LT 08, SETOR OESTE, GOIANIA, GO, 74140110, 08861158000168, True, 104126930, , 1D, 16/04/2009, 16/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'104126930'
+WHERE   CODIGO = _latin1'10315'' at line 20
+004021, ISAN PRESENTES LTDA - ME, SRA KATIA, (62) 3251-7672, , AVENIDA T-0007, QD L12 LT 08, SETOR OESTE, GOIANIA, GO, 74140110, 08861158000168, True, 104126930, , 1D, 16/04/2009, 16/04/2009
+004023, CLOS E GUIDI LTDA - ME, NFE - CLOS E GUIDI LTDA - ME, (49) 3241-0502, , RUA CEL. VIDAL RAMOS, CENTRO, CURITIBANOS, SC, 89520000, 86715661000119, True, 252753224, , 1D, 29/03/2011, 29/03/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'252753224'
+WHERE   CODIGO = _latin1'10316'' at line 20
+004023, CLOS E GUIDI LTDA - ME, NFE - CLOS E GUIDI LTDA - ME, (49) 3241-0502, , RUA CEL. VIDAL RAMOS, CENTRO, CURITIBANOS, SC, 89520000, 86715661000119, True, 252753224, , 1D, 29/03/2011, 29/03/2011
+004024, RESTAURANTE E CHURRASCARIA GUAIBA LTDA, , (19) 3702-6683, , RUA SANTA CRUZ, CENTRO, LIMEIRA, SP, 13480042, 52694163000115, True, 417055377113, , 1D, 17/02/2015, 17/02/2015
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'417055377113'
+WHERE   CODIGO = _latin1'10317'' at line 20
+004024, RESTAURANTE E CHURRASCARIA GUAIBA LTDA, , (19) 3702-6683, , RUA SANTA CRUZ, CENTRO, LIMEIRA, SP, 13480042, 52694163000115, True, 417055377113, , 1D, 17/02/2015, 17/02/2015
+004025, IRMAOS RUSSI LTDA -  LJ. 04, NFE - IRMAOS RUSSI LTDA - LJ.0, (11) 4606-8088, , AV.FERNAO DIAS PAES LEME, CENTRO, VARZEA PAULISTA, SP, 13220000, 50947761000557, True, 712005816116, , 1D, 08/12/2009, 08/12/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'712005816116'
+WHERE   CODIGO = _latin1'10318'' at line 20
+004025, IRMAOS RUSSI LTDA -  LJ. 04, NFE - IRMAOS RUSSI LTDA - LJ.0, (11) 4606-8088, , AV.FERNAO DIAS PAES LEME, CENTRO, VARZEA PAULISTA, SP, 13220000, 50947761000557, True, 712005816116, , 1D, 08/12/2009, 08/12/2009
+004026, SABA TRANSPORTES LTDA, , (34)3255-7819, , RUA CLAUDIO SILVEIRA, ROOSEVELT, UBERLANDIA, MG, 38401084, 25148545000251, True, 7026283320008, , 1D, 14/04/2009, 27/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'7026283320008'
+WHERE   CODIGO = _latin1'10319'' at line 20
+004026, SABA TRANSPORTES LTDA, , (34)3255-7819, , RUA CLAUDIO SILVEIRA, ROOSEVELT, UBERLANDIA, MG, 38401084, 25148545000251, True, 7026283320008, , 1D, 14/04/2009, 27/05/2009
+004027, COMERCIO BONECAS PORCELANA LTDA, , (87) 3831-1433, , RUA ENOCK IGNACIO DE OLIVEIRA, CENTRO, SERRA TALHADA, PE, 56903400, 70056049000141, True, 18221001989011, , 1D, 20/04/2009, 20/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'18221001989011'
+WHERE   CODIGO = _latin1'10320'' at line 20
+004027, COMERCIO BONECAS PORCELANA LTDA, , (87) 3831-1433, , RUA ENOCK IGNACIO DE OLIVEIRA, CENTRO, SERRA TALHADA, PE, 56903400, 70056049000141, True, 18221001989011, , 1D, 20/04/2009, 20/04/2009
+004028, JVB COMERCIO DE UTILIDADES DOMESTICAS LTDA, NFE - JVB COMERCIO, (46) 3524-1225, (46) 3524-1022, RUA FLORIANOPOLIS, ALVORADA, FRANCISCO BELTRAO, PR, 85601560, 08418164000145, True, 9038897990, , 1D, 15/03/2013, 15/03/2013
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'9038897990'
+WHERE   CODIGO = _latin1'10321'' at line 20
+004028, JVB COMERCIO DE UTILIDADES DOMESTICAS LTDA, NFE - JVB COMERCIO, (46) 3524-1225, (46) 3524-1022, RUA FLORIANOPOLIS, ALVORADA, FRANCISCO BELTRAO, PR, 85601560, 08418164000145, True, 9038897990, , 1D, 15/03/2013, 15/03/2013
+004041, LEOLAR MOVEIS E ELETRODOMESTICOS LTDA- 1297, , (94) 2101-3244, , AV. ARAGUAIA, ADEMAR GUIMARAES, REDENCAO, PA, 68552000, 05014824001297, True, 151870438, , 1D, 30/04/2013, null
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'151870438'
+WHERE   CODIGO = _latin1'10322'' at line 20
+004041, LEOLAR MOVEIS E ELETRODOMESTICOS LTDA- 1297, , (94) 2101-3244, , AV. ARAGUAIA, ADEMAR GUIMARAES, REDENCAO, PA, 68552000, 05014824001297, True, 151870438, , 1D, 30/04/2013, null
+004043, DI SOLLE CUTELARIA LTDA, SIMONE LOPES, (54) 3288-1918, , EST JOSE BERGAMO FILHO, VARZEA GRANDE, GRAMADO, RS, 95670000, 01256141000132, True, 0560045999, , 1D, 25/11/2009, 25/11/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0560045999'
+WHERE   CODIGO = _latin1'10323'' at line 20
+004043, DI SOLLE CUTELARIA LTDA, SIMONE LOPES, (54) 3288-1918, , EST JOSE BERGAMO FILHO, VARZEA GRANDE, GRAMADO, RS, 95670000, 01256141000132, True, 0560045999, , 1D, 25/11/2009, 25/11/2009
+004050, PREF MUN DE MONTE BELO DO SUL, , (54) 3457-1300, (54) 3457-1240, RUA SAGRADA FAMILIA, CENTRO, MONTE BELO DO SUL, RS, 95718000, 91987669000174, True, 3740002966, , 1D, 06/04/2009, 06/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'3740002966'
+WHERE   CODIGO = _latin1'10324'' at line 20
+004050, PREF MUN DE MONTE BELO DO SUL, , (54) 3457-1300, (54) 3457-1240, RUA SAGRADA FAMILIA, CENTRO, MONTE BELO DO SUL, RS, 95718000, 91987669000174, True, 3740002966, , 1D, 06/04/2009, 06/04/2009
+004052, FUNDO DE PROM. COLET. DO SHOPPING CENTER IGUATEMI CAXIAS, MARCELE, (54) 3289-9292, , ROD. RST 453, DISTRITO INDUSTRIAL, CAXIAS DO SUL, RS, 95110690, 02049033000151, False, ISENTO, , 1D, 31/03/2009, 31/03/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'ISENTO'
+WHERE   CODIGO = _latin1'10325'' at line 20
+004052, FUNDO DE PROM. COLET. DO SHOPPING CENTER IGUATEMI CAXIAS, MARCELE, (54) 3289-9292, , ROD. RST 453, DISTRITO INDUSTRIAL, CAXIAS DO SUL, RS, 95110690, 02049033000151, False, ISENTO, , 1D, 31/03/2009, 31/03/2009
+004053, ZAHRA HEDJAZI RIBEIRO ME, VANIA, (71) 3353-3097, , RUA DIOGO CAO, PITUBA, SALVADOR, BA, 41810290, 00640778000165, True, 42214250, , 1D, 06/04/2009, 01/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'42214250'
+WHERE   CODIGO = _latin1'10326'' at line 20
+004053, ZAHRA HEDJAZI RIBEIRO ME, VANIA, (71) 3353-3097, , RUA DIOGO CAO, PITUBA, SALVADOR, BA, 41810290, 00640778000165, True, 42214250, , 1D, 06/04/2009, 01/04/2009
+004056, A GOMES E IRMAO LTDA, NFE:, (71) 3183-5511, , LADEIRA AGUA BRUSCA, DA, SANTO ANTONIO, SALVADOR, BA, 40301296, 15112196000183, True, 00070120, , 1D, 21/06/2016, 26/11/2015
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'00070120'
+WHERE   CODIGO = _latin1'10327'' at line 20
+004056, A GOMES E IRMAO LTDA, NFE:, (71) 3183-5511, , LADEIRA AGUA BRUSCA, DA, SANTO ANTONIO, SALVADOR, BA, 40301296, 15112196000183, True, 00070120, , 1D, 21/06/2016, 26/11/2015
+004057, FLOR DA LUA COM. DE ARTIGOS DE PRESENTES LTDA, NFE - FLOR DA LUA COM. DE ARTI, (24) 2249-8906, , RUA DR. PAULO HERVE, BINGEN, PETROPOLIS, RJ, 25665132, 10495313000111, True, 78643277, , 1D, 26/06/2013, 26/06/2013
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'78643277'
+WHERE   CODIGO = _latin1'10328'' at line 20
+004057, FLOR DA LUA COM. DE ARTIGOS DE PRESENTES LTDA, NFE - FLOR DA LUA COM. DE ARTI, (24) 2249-8906, , RUA DR. PAULO HERVE, BINGEN, PETROPOLIS, RJ, 25665132, 10495313000111, True, 78643277, , 1D, 26/06/2013, 26/06/2013
+004058, LEOLAR MOVEIS E ELETRODOMESTICOS LTDA- 2692, , (94) 2101-3244, , AV. ANTONIO MAIA, CENTRO, MARABA, PA, 68500005, 05014824002692, True, 152611550, , 1D, 30/04/2013, 15/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'151870438'
+WHERE   CODIGO = _latin1'10322'' at line 20
+004058, LEOLAR MOVEIS E ELETRODOMESTICOS LTDA- 2692, , (94) 2101-3244, , AV. ANTONIO MAIA, CENTRO, MARABA, PA, 68500005, 05014824002692, True, 152611550, , 1D, 30/04/2013, 15/05/2009
+004059, LEOLAR MOVEIS E ELETRODOMESTICOS LTDA- 0215, , (94)2101-3244, , AV. NAGIB MUTRAN, CIDADE NOVA, MARABA, PA, 68501570, 05014824000215, True, 151302537, , 1D, 30/04/2013, 15/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'151870438'
+WHERE   CODIGO = _latin1'10322'' at line 20
+004059, LEOLAR MOVEIS E ELETRODOMESTICOS LTDA- 0215, , (94)2101-3244, , AV. NAGIB MUTRAN, CIDADE NOVA, MARABA, PA, 68501570, 05014824000215, True, 151302537, , 1D, 30/04/2013, 15/05/2009
+004060, LEOROCHA MOVEIS E ELETRODOMESTICOS LTDA - 0528, , (94) 2101-3244, , RUA E, CIDADE NOVA, PARAUAPEBAS, PA, 68515000, 22972129000528, True, 152002200, , 1D, 30/04/2013, 15/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'151870438'
+WHERE   CODIGO = _latin1'10322'' at line 20
+004060, LEOROCHA MOVEIS E ELETRODOMESTICOS LTDA - 0528, , (94) 2101-3244, , RUA E, CIDADE NOVA, PARAUAPEBAS, PA, 68515000, 22972129000528, True, 152002200, , 1D, 30/04/2013, 15/05/2009
+004061, ROCHA MAGAZINE LOJA DE DEPARTAMENTOS LTDA - 0190, NFE - ROCHA MAGAZINE LOJA DE D, (94) 2101-3244, , RUA SENADOR MANOEL BARATA, CAMPINA, BELEM, PA, 66010145, 06336668000190, True, 152397620, , 1D, 30/04/2013, 18/10/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'151870438'
+WHERE   CODIGO = _latin1'10322'' at line 20
+004061, ROCHA MAGAZINE LOJA DE DEPARTAMENTOS LTDA - 0190, NFE - ROCHA MAGAZINE LOJA DE D, (94) 2101-3244, , RUA SENADOR MANOEL BARATA, CAMPINA, BELEM, PA, 66010145, 06336668000190, True, 152397620, , 1D, 30/04/2013, 18/10/2010
+004063, PROMNI COM.IND.IMP.EXP.APAR.CORRECAO DIAG.DEF. FISICAS LTDA, NFE - PROMNI COM.IND.IMP.EXP.A, (21) 2719-3420, , RUA FAGUNDES VARELA, INGA, NITEROI, RJ, 24210000, 28219442000142, True, 82650040, , 1D, 24/04/2009, 24/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'82650040'
+WHERE   CODIGO = _latin1'10329'' at line 20
+004063, PROMNI COM.IND.IMP.EXP.APAR.CORRECAO DIAG.DEF. FISICAS LTDA, NFE - PROMNI COM.IND.IMP.EXP.A, (21) 2719-3420, , RUA FAGUNDES VARELA, INGA, NITEROI, RJ, 24210000, 28219442000142, True, 82650040, , 1D, 24/04/2009, 24/04/2009
+004071, FURLAN DISTRIBUIDORA DE COPOS LTDA, , (45) 3322-0007, , RUA ERECHIM, CENTRO, CASCAVEL, PR, 85812260, 10682754000122, True, 9047257309, , 1D, 20/04/2009, 20/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'9047257309'
+WHERE   CODIGO = _latin1'10330'' at line 20
+004071, FURLAN DISTRIBUIDORA DE COPOS LTDA, , (45) 3322-0007, , RUA ERECHIM, CENTRO, CASCAVEL, PR, 85812260, 10682754000122, True, 9047257309, , 1D, 20/04/2009, 20/04/2009
+004072, MARIA JOSE BELARMINO DE MEDEIROS, NFE MARIA JOSE BELARMINO DE ME, (42) 3635-5913, , RUA VEREADOR ARLINDO JOSE BAVARE, CENTRO, LARANJEIRAS DO SUL, PR, 85301250, 02331605000190, True, 9015252771, , 1D, 12/12/2014, 12/12/2014
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'9015252771'
+WHERE   CODIGO = _latin1'10331'' at line 20
+004072, MARIA JOSE BELARMINO DE MEDEIROS, NFE MARIA JOSE BELARMINO DE ME, (42) 3635-5913, , RUA VEREADOR ARLINDO JOSE BAVARE, CENTRO, LARANJEIRAS DO SUL, PR, 85301250, 02331605000190, True, 9015252771, , 1D, 12/12/2014, 12/12/2014
+004080, MARILDA BOFF SCHWALB, NFE - MARILDA BOFF SCHWALB, (48) 3522-1870, , RUA DR. VIGULINO QUEIROZ, CENTRO, ARARANGUA, SC, 88900000, 79480356000120, True, 251362574, , 1D, 21/08/2013, 21/08/2013
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'251362574'
+WHERE   CODIGO = _latin1'10332'' at line 20
+004080, MARILDA BOFF SCHWALB, NFE - MARILDA BOFF SCHWALB, (48) 3522-1870, , RUA DR. VIGULINO QUEIROZ, CENTRO, ARARANGUA, SC, 88900000, 79480356000120, True, 251362574, , 1D, 21/08/2013, 21/08/2013
+004084, SAN RAPHAEL DE TERESOPOLIS COM. DE EMB. LTDA, , (21) 3461-4700, , AV. MELVYN JONES, MEUDON, TERESOPOLIS, RJ, 25954220, 03006782000164, True, 75693745, , 1D, 09/04/2009, 09/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'75693745'
+WHERE   CODIGO = _latin1'10333'' at line 20
+004084, SAN RAPHAEL DE TERESOPOLIS COM. DE EMB. LTDA, , (21) 3461-4700, , AV. MELVYN JONES, MEUDON, TERESOPOLIS, RJ, 25954220, 03006782000164, True, 75693745, , 1D, 09/04/2009, 09/04/2009
+004088, V.M. BOTELHO VERDELONE ME, NFE - V.M. BOTELHO VERDELONE M, (14) 3344-1080, , PRACA DR. RAFAEL DE SOUZA, CENTRO, IPAUSSU, SP, 18950000, 67567206000179, True, 357004267115, , 1D, 23/04/2009, 23/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'357004267115'
+WHERE   CODIGO = _latin1'10334'' at line 20
+004088, V.M. BOTELHO VERDELONE ME, NFE - V.M. BOTELHO VERDELONE M, (14) 3344-1080, , PRACA DR. RAFAEL DE SOUZA, CENTRO, IPAUSSU, SP, 18950000, 67567206000179, True, 357004267115, , 1D, 23/04/2009, 23/04/2009
+004089, J.F. CASA DO MARCENEIRO LTDA EPP, NFE - J.F. CASA DO MARCENEIRO, (14) 3732-2942, , AV. MADRE PAULINA, PAINEIRAS, AVARE, SP, 18705771, 04790232000141, True, 194021382111, , 1D, 02/03/2010, 02/03/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'194021382111'
+WHERE   CODIGO = _latin1'10335'' at line 20
+004089, J.F. CASA DO MARCENEIRO LTDA EPP, NFE - J.F. CASA DO MARCENEIRO, (14) 3732-2942, , AV. MADRE PAULINA, PAINEIRAS, AVARE, SP, 18705771, 04790232000141, True, 194021382111, , 1D, 02/03/2010, 02/03/2010
+004091, AIELO E AIELO LTDA, NFE - AIELO E AIELO LTDA, (14) 3641-1923, , RUA CEL. VIRGILIO, CENTRO, BARRA BONITA, SP, 17340000, 54114343000106, True, 202018939112, , 1D, 06/04/2009, 06/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'202018939112'
+WHERE   CODIGO = _latin1'10336'' at line 20
+004091, AIELO E AIELO LTDA, NFE - AIELO E AIELO LTDA, (14) 3641-1923, , RUA CEL. VIRGILIO, CENTRO, BARRA BONITA, SP, 17340000, 54114343000106, True, 202018939112, , 1D, 06/04/2009, 06/04/2009
+004095, PAULO AMILCAS C. SILVA, , (96) 3821-2216, , RUA COM. PEDRO SALVADOR DINIZ, NOVA BRASILIA, SANTANA, AP, 68925000, 84420835000190, True, 030157744, , 1D, 03/04/2009, 03/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'030157744'
+WHERE   CODIGO = _latin1'10337'' at line 20
+004095, PAULO AMILCAS C. SILVA, , (96) 3821-2216, , RUA COM. PEDRO SALVADOR DINIZ, NOVA BRASILIA, SANTANA, AP, 68925000, 84420835000190, True, 030157744, , 1D, 03/04/2009, 03/04/2009
+004097, GALERIA DOS PRESENTES LTDA, NFE - GALERIA DOS PRESENTES, (35) 3551-5474, , AV. CONDE RIBEIRO DO VALE, CENTRO, GUAXUPE, MG, 37800000, 20768560000289, True, 2870310330165, , 1D, 27/04/2009, 27/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'2870310330165'
+WHERE   CODIGO = _latin1'10338'' at line 20
+004097, GALERIA DOS PRESENTES LTDA, NFE - GALERIA DOS PRESENTES, (35) 3551-5474, , AV. CONDE RIBEIRO DO VALE, CENTRO, GUAXUPE, MG, 37800000, 20768560000289, True, 2870310330165, , 1D, 27/04/2009, 27/04/2009
+004098, TROPICAL PRESENTES LTDA, NFE - TROPICAL PRESENTES, (35) 3743-1009, (35) 3743-1009, RUA CORONEL JOSE CUSTODIO, CENTRO, CAMPESTRE, MG, 37730000, 71073548000100, True, 1108364830053, , 1D, 22/04/2009, 27/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'1108364830053'
+WHERE   CODIGO = _latin1'10339'' at line 20
+004098, TROPICAL PRESENTES LTDA, NFE - TROPICAL PRESENTES, (35) 3743-1009, (35) 3743-1009, RUA CORONEL JOSE CUSTODIO, CENTRO, CAMPESTRE, MG, 37730000, 71073548000100, True, 1108364830053, , 1D, 22/04/2009, 27/04/2009
+004099, NACLE E GADBEM LTDA, NFE - NACLE E GADBEM, (35) 3232-1158, , RUA DES. ALBERTO LUZ, CENTRO, TRES CORACOES, MG, 37410000, 07457410000105, True, 6933492140090, , 1D, 22/04/2009, 27/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'6933492140090'
+WHERE   CODIGO = _latin1'10340'' at line 20
+004099, NACLE E GADBEM LTDA, NFE - NACLE E GADBEM, (35) 3232-1158, , RUA DES. ALBERTO LUZ, CENTRO, TRES CORACOES, MG, 37410000, 07457410000105, True, 6933492140090, , 1D, 22/04/2009, 27/04/2009
+004102, TRAMONTINA S/A CUTELARIA, , (54) 3461-8000, (51) 3222-5866 - POA, AV 25 DE SETEMBRO, TRIANGULO, CARLOS BARBOSA, RS, 95185000, 90050238000114, True, 026/0000892, , 1D, 07/04/2015, 23/12/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'026/0000892'
+WHERE   CODIGO = _latin1'10341'' at line 20
+004102, TRAMONTINA S/A CUTELARIA, , (54) 3461-8000, (51) 3222-5866 - POA, AV 25 DE SETEMBRO, TRIANGULO, CARLOS BARBOSA, RS, 95185000, 90050238000114, True, 026/0000892, , 1D, 07/04/2015, 23/12/2010
+004105, LONDRIPLAST LTDA, NFE - LONDRIPLAST LTDA, (43) 3348-4400, , TRAVESSA TIRADENTES, JARDIM SHANGRILA, LONDRINA, PR, 86070550, 02516324000102, True, 9015841769, , 1D, 24/04/2009, 24/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'9015841769'
+WHERE   CODIGO = _latin1'10342'' at line 20
+004105, LONDRIPLAST LTDA, NFE - LONDRIPLAST LTDA, (43) 3348-4400, , TRAVESSA TIRADENTES, JARDIM SHANGRILA, LONDRINA, PR, 86070550, 02516324000102, True, 9015841769, , 1D, 24/04/2009, 24/04/2009
+004106, DECIO CHURRASCARIA BURITI LTDA, , (34) 3212-0002, , ROD. BR 050, ZONA RURAL, UBERLANDIA, MG, 38400760, 10465406000101, True, 0010987720066, , 1D, 22/04/2009, 22/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0010987720066'
+WHERE   CODIGO = _latin1'10343'' at line 20
+004106, DECIO CHURRASCARIA BURITI LTDA, , (34) 3212-0002, , ROD. BR 050, ZONA RURAL, UBERLANDIA, MG, 38400760, 10465406000101, True, 0010987720066, , 1D, 22/04/2009, 22/04/2009
+004107, G A BARRETTO E CIA LTDA - EPP, NFE G A BARRETO, (75) 3221-5614, , RUA MONSENHOR TERTULIANO CARNEIRO, CENTRO, FEIRA DE SANTANA, BA, 44002296, 02728911000165, True, 49243729, , 1D, 30/09/2015, 24/11/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'49243729'
+WHERE   CODIGO = _latin1'10344'' at line 20
+004107, G A BARRETTO E CIA LTDA - EPP, NFE G A BARRETO, (75) 3221-5614, , RUA MONSENHOR TERTULIANO CARNEIRO, CENTRO, FEIRA DE SANTANA, BA, 44002296, 02728911000165, True, 49243729, , 1D, 30/09/2015, 24/11/2010
+004109, A.R. MARSON MATERIAIS ME, FABIANA, (19) 3812-3043, , RUA OTTO HERBST, VILA JOSE KALIL AUN, COSMOPOLIS, SP, 13150000, 07333796000143, True, 276090633110, , 1D, 07/06/2011, 07/06/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'276090633110'
+WHERE   CODIGO = _latin1'10345'' at line 20
+004109, A.R. MARSON MATERIAIS ME, FABIANA, (19) 3812-3043, , RUA OTTO HERBST, VILA JOSE KALIL AUN, COSMOPOLIS, SP, 13150000, 07333796000143, True, 276090633110, , 1D, 07/06/2011, 07/06/2011
+004114, COMERCIAL CENTER VALLE LTDA, , (11) 4658-1800, , ROD. DOM PEDRO I, ALTO, IGARATA, SP, 12350000, 03563498000199, True, 350056651116, , 1D, 17/04/2009, 17/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'350056651116'
+WHERE   CODIGO = _latin1'10346'' at line 20
+004114, COMERCIAL CENTER VALLE LTDA, , (11) 4658-1800, , ROD. DOM PEDRO I, ALTO, IGARATA, SP, 12350000, 03563498000199, True, 350056651116, , 1D, 17/04/2009, 17/04/2009
+004115, SOUZA E PASTOR LTDA, NFE - SOUZA E PASTOR, (68) 3227-3499, , RUA SAO SEBASTIAO, VILA IVONETE, RIO BRANCO, AC, 69918340, 34710145000106, True, 0100222000186, , 1D, 17/04/2009, 17/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0100222000186'
+WHERE   CODIGO = _latin1'10347'' at line 20
+004115, SOUZA E PASTOR LTDA, NFE - SOUZA E PASTOR, (68) 3227-3499, , RUA SAO SEBASTIAO, VILA IVONETE, RIO BRANCO, AC, 69918340, 34710145000106, True, 0100222000186, , 1D, 17/04/2009, 17/04/2009
+004116, CHURRASCARIA GUAIBA DE BAURU LTDA, NFE - CHURRASCARIA GUAIBA DE B, (14) 3224-1425, , RUA LAERCIO BASTOS PEREIRA, VILA SAMARITANA, BAURU, SP, 17016220, 01520813000175, True, 209224074115, , 1D, 02/09/2010, 02/09/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'209224074115'
+WHERE   CODIGO = _latin1'10348'' at line 20
+004116, CHURRASCARIA GUAIBA DE BAURU LTDA, NFE - CHURRASCARIA GUAIBA DE B, (14) 3224-1425, , RUA LAERCIO BASTOS PEREIRA, VILA SAMARITANA, BAURU, SP, 17016220, 01520813000175, True, 209224074115, , 1D, 02/09/2010, 02/09/2010
+004117, TOMEACU MOVEIS E ELETRODOMESTICOS LTDA, , (91) 3734-1668, , AV. DIONISIO BENTES, CENTRO, TOME-ACU, PA, 68682000, 02280707000124, True, 151953147, , 1D, 20/05/2009, 20/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'151953147'
+WHERE   CODIGO = _latin1'10349'' at line 20
+004117, TOMEACU MOVEIS E ELETRODOMESTICOS LTDA, , (91) 3734-1668, , AV. DIONISIO BENTES, CENTRO, TOME-ACU, PA, 68682000, 02280707000124, True, 151953147, , 1D, 20/05/2009, 20/04/2009
+004118, BENEVIDES MOVEIS E ELETRODOMESTICOS LDA- 0190, , (91) 3724-1347, , RUA JOA BATISTA FIGUEIREDO, CENTRO, BENEVIDES, PA, 68795000, 02282194000190, True, 151971331, , 1D, 20/05/2009, 07/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'151953147'
+WHERE   CODIGO = _latin1'10349'' at line 20
+004118, BENEVIDES MOVEIS E ELETRODOMESTICOS LDA- 0190, , (91) 3724-1347, , RUA JOA BATISTA FIGUEIREDO, CENTRO, BENEVIDES, PA, 68795000, 02282194000190, True, 151971331, , 1D, 20/05/2009, 07/05/2009
+004119, SANTA IZABEL MOVEIS E ELETRODOMESTICOS LTDA, , (91) 3744-1941, , AV. ANTONIO LEMOS, CENTRO, SANTA ISABEL DO PARA, PA, 68790000, 02292663000152, True, 151970378, , 1D, 20/05/2009, 20/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'151953147'
+WHERE   CODIGO = _latin1'10349'' at line 20
+004119, SANTA IZABEL MOVEIS E ELETRODOMESTICOS LTDA, , (91) 3744-1941, , AV. ANTONIO LEMOS, CENTRO, SANTA ISABEL DO PARA, PA, 68790000, 02292663000152, True, 151970378, , 1D, 20/05/2009, 20/04/2009
+004120, BENEVIDES MOVEIS E ELETRODOMESTICOS LTDA, , (91) 3731-1020, , AV. GENERALISSIMO DEODORO, CENTRO, VIGIA, PA, 68780000, 02282194000352, True, 152062653, , 1D, 20/05/2009, 07/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'151953147'
+WHERE   CODIGO = _latin1'10349'' at line 20
+004120, BENEVIDES MOVEIS E ELETRODOMESTICOS LTDA, , (91) 3731-1020, , AV. GENERALISSIMO DEODORO, CENTRO, VIGIA, PA, 68780000, 02282194000352, True, 152062653, , 1D, 20/05/2009, 07/05/2009
+004121, CONCORDIA MOVEIS E ELETRODOMESTICOS LTDA, , (91) 3828-1204, , RUA  MARECHAL DEODORO, CENTRO, CONCORDIA DO PARA, PA, 68685000, 02282152000150, True, 151953155, , 1D, 20/05/2009, 07/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'151953147'
+WHERE   CODIGO = _latin1'10349'' at line 20
+004121, CONCORDIA MOVEIS E ELETRODOMESTICOS LTDA, , (91) 3828-1204, , RUA  MARECHAL DEODORO, CENTRO, CONCORDIA DO PARA, PA, 68685000, 02282152000150, True, 151953155, , 1D, 20/05/2009, 07/05/2009
+004123, ARCO IRIS MATERIAIS PEDAGOGICOS LTDA, , (63) 3217-2118, , QD 1106 SUL ALAMEDA 24 LT 29 SL 01, CENTRO, PALMAS, TO, 77024086, 04363658000119, True, 290684757, , 1D, 16/09/2009, 30/10/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'290684757'
+WHERE   CODIGO = _latin1'10350'' at line 20
+004123, ARCO IRIS MATERIAIS PEDAGOGICOS LTDA, , (63) 3217-2118, , QD 1106 SUL ALAMEDA 24 LT 29 SL 01, CENTRO, PALMAS, TO, 77024086, 04363658000119, True, 290684757, , 1D, 16/09/2009, 30/10/2009
+004126, TAPIRI INDUSTRIA E COMERCIO ALIMENTICIOS LTDA, NFE - TAPIRI INDUSTRIA, (68) 3221-1055, , VIA CHICO MENDES, TRIANGULO, RIO BRANCO, AC, 69901180, 04005997000123, True, 0100042700180, , 1D, 27/11/2009, 27/11/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0100042700180'
+WHERE   CODIGO = _latin1'10351'' at line 20
+004126, TAPIRI INDUSTRIA E COMERCIO ALIMENTICIOS LTDA, NFE - TAPIRI INDUSTRIA, (68) 3221-1055, , VIA CHICO MENDES, TRIANGULO, RIO BRANCO, AC, 69901180, 04005997000123, True, 0100042700180, , 1D, 27/11/2009, 27/11/2009
+004128, LOJA DE CONVENIENCIA BR MANIA REST LTDA, , (55) 3331-7500, , ESTRADA RS 522, TREVO IJUI, IJUI, RS, 98700000, 05412890000162, True, 0650111699, , 1D, 30/03/2016, 22/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0650111699'
+WHERE   CODIGO = _latin1'10352'' at line 20
+004128, LOJA DE CONVENIENCIA BR MANIA REST LTDA, , (55) 3331-7500, , ESTRADA RS 522, TREVO IJUI, IJUI, RS, 98700000, 05412890000162, True, 0650111699, , 1D, 30/03/2016, 22/04/2009
+004129, WELTER E PAZDZIORA LTDA, , (55) 3512-1222, , AV. RIO BRANCO, CENTRO, SANTA ROSA, RS, 98900000, 10260901000176, True, 1100105899, , 1D, 23/04/2009, 23/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'1100105899'
+WHERE   CODIGO = _latin1'10353'' at line 20
+004129, WELTER E PAZDZIORA LTDA, , (55) 3512-1222, , AV. RIO BRANCO, CENTRO, SANTA ROSA, RS, 98900000, 10260901000176, True, 1100105899, , 1D, 23/04/2009, 23/04/2009
+004131, MARIA CERLEI DE ALMEIDA FEITEIRO, NFE MARIA CERLEI DE ALMEIDA, (55) 3281-5112, , RUA JULIO DE CASTILHOS, CENTRO, CACAPAVA DO SUL, RS, 96570000, 94962867000171, True, 0130030066, , 1D, 06/03/2013, 10/09/2012
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0130030066'
+WHERE   CODIGO = _latin1'10354'' at line 20
+004131, MARIA CERLEI DE ALMEIDA FEITEIRO, NFE MARIA CERLEI DE ALMEIDA, (55) 3281-5112, , RUA JULIO DE CASTILHOS, CENTRO, CACAPAVA DO SUL, RS, 96570000, 94962867000171, True, 0130030066, , 1D, 06/03/2013, 10/09/2012
+004132, COMERCIAL DE ALIMENTOS DALLAZEN CASTILHOS LTDA, NFE COMERCIAL DE ALIMENTOS DAL, (55) 3232-3609, , AV. ANTONIO TRILHA, CENTRO, SAO GABRIEL, RS, 97300000, 10500253000188, True, 1200106730, , 1D, 31/07/2010, 31/07/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'1200106730'
+WHERE   CODIGO = _latin1'10355'' at line 20
+004132, COMERCIAL DE ALIMENTOS DALLAZEN CASTILHOS LTDA, NFE COMERCIAL DE ALIMENTOS DAL, (55) 3232-3609, , AV. ANTONIO TRILHA, CENTRO, SAO GABRIEL, RS, 97300000, 10500253000188, True, 1200106730, , 1D, 31/07/2010, 31/07/2010
+004139, LEOLAR MOVEIS E ELETRODOMESTICOS LTDA- 0800, , (94) 2101-3271, , LOT FOLHA 29 QD. 02 LOTE 01E 02, NOVA MARABA, MARABA, PA, 68506505, 05014824000800, True, 151303819, , 1D, 30/04/2013, 08/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'151870438'
+WHERE   CODIGO = _latin1'10322'' at line 20
+004139, LEOLAR MOVEIS E ELETRODOMESTICOS LTDA- 0800, , (94) 2101-3271, , LOT FOLHA 29 QD. 02 LOTE 01E 02, NOVA MARABA, MARABA, PA, 68506505, 05014824000800, True, 151303819, , 1D, 30/04/2013, 08/04/2009
+004140, LEOLAR MOVEIS E ELETRODOMESTICOS LTDA- 1378, , (94) 322-1435, , AV. ARAGUAIA, ADEMAR GUIMARAES, REDENCAO, PA, 68552000, 05014824001378, True, 151870446, , 1D, 30/04/2013, 08/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'151870438'
+WHERE   CODIGO = _latin1'10322'' at line 20
+004140, LEOLAR MOVEIS E ELETRODOMESTICOS LTDA- 1378, , (94) 322-1435, , AV. ARAGUAIA, ADEMAR GUIMARAES, REDENCAO, PA, 68552000, 05014824001378, True, 151870446, , 1D, 30/04/2013, 08/04/2009
+004141, ROCHA MAGAZINE LOJA DE DEPARTAMENTOS LTDA - 0352 (LJ.GERAL), NFE - ROCHA MAGAZINE LJ DEPART, (94) 2101-3200, , LOT FOLHA 29 QD. 2 LOTE 01 E 02, NOVA MARABA, MARABA, PA, 68506505, 06336668000352, True, 152516689, , 1D, 30/04/2013, 30/04/2013
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'151870438'
+WHERE   CODIGO = _latin1'10322'' at line 20
+004141, ROCHA MAGAZINE LOJA DE DEPARTAMENTOS LTDA - 0352 (LJ.GERAL), NFE - ROCHA MAGAZINE LJ DEPART, (94) 2101-3200, , LOT FOLHA 29 QD. 2 LOTE 01 E 02, NOVA MARABA, MARABA, PA, 68506505, 06336668000352, True, 152516689, , 1D, 30/04/2013, 30/04/2013
+004142, LEOROCHA MOVEIS ELETRODOMESTICOS LTDA - 0366, , (94) 2101-3271, , LOT FOLHA 29 QD. 02 LOTE 01 E 02, NOVA MARABA, MARABA, PA, 68506505, 22972129000366, True, 151763771, , 1D, 30/04/2013, 08/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'151870438'
+WHERE   CODIGO = _latin1'10322'' at line 20
+004142, LEOROCHA MOVEIS ELETRODOMESTICOS LTDA - 0366, , (94) 2101-3271, , LOT FOLHA 29 QD. 02 LOTE 01 E 02, NOVA MARABA, MARABA, PA, 68506505, 22972129000366, True, 151763771, , 1D, 30/04/2013, 08/04/2009
+004144, M. DO S. BRANDAO REGO ME, NFE - M. DOS S. BRANDAO REGE M, (86) 2106-7500, , AV. JOSE TAPETY, CENTRO, OEIRAS, PI, 64500000, 01239643000155, True, 194352307, , 1D, 24/11/2010, 24/11/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'194352307'
+WHERE   CODIGO = _latin1'10356'' at line 20
+004144, M. DO S. BRANDAO REGO ME, NFE - M. DOS S. BRANDAO REGE M, (86) 2106-7500, , AV. JOSE TAPETY, CENTRO, OEIRAS, PI, 64500000, 01239643000155, True, 194352307, , 1D, 24/11/2010, 24/11/2010
+004145, EVANDRO COMERCIAL LTDA, , (86) 3323-1916, , RUA CARAMURU, BOA ESPERANCA, PARNAIBA, PI, 64215400, 06983931000214, True, 194578810, , 1D, 08/10/2014, 08/10/2014
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'194578810'
+WHERE   CODIGO = _latin1'10357'' at line 20
+004145, EVANDRO COMERCIAL LTDA, , (86) 3323-1916, , RUA CARAMURU, BOA ESPERANCA, PARNAIBA, PI, 64215400, 06983931000214, True, 194578810, , 1D, 08/10/2014, 08/10/2014
+004149, TONET MATERIAIS DE CONSTRUCAO LTDA, NFE -  TONET MATERIAIS DE CONS, (47) 3521-4877, , RUA XV DE NOVEMBRO, CENTRO, RIO DO SUL, SC, 89160000, 80653918000330, True, 253767652, , 1D, 28/02/2012, 28/02/2012
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'253767652'
+WHERE   CODIGO = _latin1'10358'' at line 20
+004149, TONET MATERIAIS DE CONSTRUCAO LTDA, NFE -  TONET MATERIAIS DE CONS, (47) 3521-4877, , RUA XV DE NOVEMBRO, CENTRO, RIO DO SUL, SC, 89160000, 80653918000330, True, 253767652, , 1D, 28/02/2012, 28/02/2012
+004151, DOMESTIC PECAS E ACES. ELETRODOMESTICOS LTDA, , (16) 3722-4187, , AV. BRASIL, VILA APARECIDA, FRANCA, SP, 14401234, 05022609000185, True, 310196601113, , 1D, 27/04/2009, 27/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'310196601113'
+WHERE   CODIGO = _latin1'10359'' at line 20
+004151, DOMESTIC PECAS E ACES. ELETRODOMESTICOS LTDA, , (16) 3722-4187, , AV. BRASIL, VILA APARECIDA, FRANCA, SP, 14401234, 05022609000185, True, 310196601113, , 1D, 27/04/2009, 27/04/2009
+004157, M.C. DE BARROS E SILVA, NFE M.C. DE BARROS E SILVA, (81) 9607-1688, , ESTRADA DE ALDEIA, ALDEIA, CAMARAGIBE, PE, 54786000, 07847671000131, True, 033546100, , 1D, 28/10/2009, 28/10/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'033546100'
+WHERE   CODIGO = _latin1'10360'' at line 20
+004157, M.C. DE BARROS E SILVA, NFE M.C. DE BARROS E SILVA, (81) 9607-1688, , ESTRADA DE ALDEIA, ALDEIA, CAMARAGIBE, PE, 54786000, 07847671000131, True, 033546100, , 1D, 28/10/2009, 28/10/2009
+004160, COMERCIAL ASCENCAO E MELO LTDA, , (34) 3216-1439, , AV. INDAIA, PLANALTO, UBERLANDIA, MG, 38413111, 10590285000111, True, 0011064530036, , 1D, 28/04/2009, 28/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0011064530036'
+WHERE   CODIGO = _latin1'10361'' at line 20
+004160, COMERCIAL ASCENCAO E MELO LTDA, , (34) 3216-1439, , AV. INDAIA, PLANALTO, UBERLANDIA, MG, 38413111, 10590285000111, True, 0011064530036, , 1D, 28/04/2009, 28/04/2009
+004161, LEOLAR MOV E ELETR, , (94) 3322-1435, , AV.BRASIL, JARDIM CUMARU, REDENCAO, PA, 68550005, 05014824001610, True, 152212574, , 1D, 30/04/2013, 15/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'151870438'
+WHERE   CODIGO = _latin1'10322'' at line 20
+004161, LEOLAR MOV E ELETR, , (94) 3322-1435, , AV.BRASIL, JARDIM CUMARU, REDENCAO, PA, 68550005, 05014824001610, True, 152212574, , 1D, 30/04/2013, 15/05/2009
+004164, ALINE MELO ALVES, , (31) 3861-2257, (31) 3861-1135, RUA GOVERNADOR  VALADARES, CENTRO, NOVA ERA, MG, 35920000, 03070292000127, True, 4470152690052, , 1D, 28/04/2009, 28/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'4470152690052'
+WHERE   CODIGO = _latin1'10362'' at line 20
+004164, ALINE MELO ALVES, , (31) 3861-2257, (31) 3861-1135, RUA GOVERNADOR  VALADARES, CENTRO, NOVA ERA, MG, 35920000, 03070292000127, True, 4470152690052, , 1D, 28/04/2009, 28/04/2009
+004169, JOSE ANTONIO DALLAN E CIA LTDA, NFE - JOSE ANTONIO DALLAN E CI, (19) 3873-1466, , RUA CATARINA M. BELINTANI, CENTRO, SUMARE, SP, 13170740, 45644366000131, True, 671084596117, , 1D, 30/04/2009, 30/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'671084596117'
+WHERE   CODIGO = _latin1'10363'' at line 20
+004169, JOSE ANTONIO DALLAN E CIA LTDA, NFE - JOSE ANTONIO DALLAN E CI, (19) 3873-1466, , RUA CATARINA M. BELINTANI, CENTRO, SUMARE, SP, 13170740, 45644366000131, True, 671084596117, , 1D, 30/04/2009, 30/04/2009
+004172, VILA GALE - CINTRA(BRASIL) LTDA, , (85) 3486-4401, , AV.DIOGUINHO, PRAIA DO FUTURO, FORTALEZA, CE, 60181770, 04027102000151, True, 063040514, , 1D, 24/04/2009, 24/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'063040514'
+WHERE   CODIGO = _latin1'10364'' at line 20
+004172, VILA GALE - CINTRA(BRASIL) LTDA, , (85) 3486-4401, , AV.DIOGUINHO, PRAIA DO FUTURO, FORTALEZA, CE, 60181770, 04027102000151, True, 063040514, , 1D, 24/04/2009, 24/04/2009
+004173, MADEIRALIS LAMINADOS E ACESSORIOS LTDA, NFE - MADEIRALIS LAMINADOS E A, (19) 3462-6966, , RUA DOM PEDRO II, NOVA AMERICANA, AMERICANA, SP, 13466000, 64967482000136, True, 165107102110, , 1D, 17/05/2010, 17/05/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'165107102110'
+WHERE   CODIGO = _latin1'10365'' at line 20
+004173, MADEIRALIS LAMINADOS E ACESSORIOS LTDA, NFE - MADEIRALIS LAMINADOS E A, (19) 3462-6966, , RUA DOM PEDRO II, NOVA AMERICANA, AMERICANA, SP, 13466000, 64967482000136, True, 165107102110, , 1D, 17/05/2010, 17/05/2010
+004174, PISOLAR COMERCIO DE TINTAS LTDA - 0193, NFE - PISOLAR COMERCIO DE TINT, (79) 3324-6667, , RUA ZAQUEU BRANDAO, SAO JOSE, ARACAJU, SE, 49015330, 32868002000193, True, 270838716, , 1D, 31/05/2012, 08/12/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'270838716'
+WHERE   CODIGO = _latin1'10366'' at line 20
+004174, PISOLAR COMERCIO DE TINTAS LTDA - 0193, NFE - PISOLAR COMERCIO DE TINT, (79) 3324-6667, , RUA ZAQUEU BRANDAO, SAO JOSE, ARACAJU, SE, 49015330, 32868002000193, True, 270838716, , 1D, 31/05/2012, 08/12/2011
+004180, NATIELE REGINA LUCHINI, NFE - NATIELE REGINA LUCHINI, (54) 3395-1020, , RUA ANASTACIO RIBEIRO, CENTRO, VIADUTOS, RS, 99820000, 08624450000167, True, 1580006776, , 1D, 22/11/2010, 22/11/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'1580006776'
+WHERE   CODIGO = _latin1'10367'' at line 20
+004180, NATIELE REGINA LUCHINI, NFE - NATIELE REGINA LUCHINI, (54) 3395-1020, , RUA ANASTACIO RIBEIRO, CENTRO, VIADUTOS, RS, 99820000, 08624450000167, True, 1580006776, , 1D, 22/11/2010, 22/11/2010
+004184, GUILHERME DE SOUZA FANTINI, NFE - GUILHERME DE SOUZA FANTI, (22) 2623-4777, , AV. GERIBA, CENTRO, ARMACAO DOS BUZIOS, RJ, 28950000, 04225529000164, True, 77130268, , 1D, 23/07/2012, 23/07/2012
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'77130268'
+WHERE   CODIGO = _latin1'10368'' at line 20
+004184, GUILHERME DE SOUZA FANTINI, NFE - GUILHERME DE SOUZA FANTI, (22) 2623-4777, , AV. GERIBA, CENTRO, ARMACAO DOS BUZIOS, RJ, 28950000, 04225529000164, True, 77130268, , 1D, 23/07/2012, 23/07/2012
+004185, EDDIE LACERDA E FILHOS LTDA, NFE - EDDIE LACERDA E FILHOS L, (75) 3641-3423, , RUA GOVERNADOR GONCALVES, CENTRO, VALENCA, BA, 45400000, 16174021000163, True, 08061339, , 1D, 04/05/2009, 04/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'08061339'
+WHERE   CODIGO = _latin1'10369'' at line 20
+004185, EDDIE LACERDA E FILHOS LTDA, NFE - EDDIE LACERDA E FILHOS L, (75) 3641-3423, , RUA GOVERNADOR GONCALVES, CENTRO, VALENCA, BA, 45400000, 16174021000163, True, 08061339, , 1D, 04/05/2009, 04/05/2009
+004188, BAHIA DESIGN COMERCIO DE MOVEIS LTDA - ME, NFE XYZ COMERCIO, (71) 3288-8990, , AV. SANTOS DUMONT, ESTRADA DO COCO, LAURO DE FREITAS, BA, 42700000, 10622065000122, True, 79682291, , 1D, 24/04/2009, 24/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'79682291'
+WHERE   CODIGO = _latin1'10370'' at line 20
+004188, BAHIA DESIGN COMERCIO DE MOVEIS LTDA - ME, NFE XYZ COMERCIO, (71) 3288-8990, , AV. SANTOS DUMONT, ESTRADA DO COCO, LAURO DE FREITAS, BA, 42700000, 10622065000122, True, 79682291, , 1D, 24/04/2009, 24/04/2009
+004191, GEAP FUNDACAO DE SEGURIDADE SOCIAL, NFE - GEAP FUNDACAO DE SEGURID, (61) 2103-4752, (61) 2103-4760, SHC AOS 02/08 Q TERRACO SHOPPING, AREA OCTOGONAL, BRASILIA, DF, 70660900, 03658432000182, False, , , 1D, 13/11/2009, 13/11/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1''
+WHERE   CODIGO = _latin1'10371'' at line 20
+004191, GEAP FUNDACAO DE SEGURIDADE SOCIAL, NFE - GEAP FUNDACAO DE SEGURID, (61) 2103-4752, (61) 2103-4760, SHC AOS 02/08 Q TERRACO SHOPPING, AREA OCTOGONAL, BRASILIA, DF, 70660900, 03658432000182, False, , , 1D, 13/11/2009, 13/11/2009
+004193, JIBALLI COMERCIO DE BRINDES LTDA, NFE - JIBALLI COMERCIO, (11) 3801-9639, , RUA APINAGES, SUMARE, SAO PAULO, SP, 1258000, 05981233000136, True, 116721654112, , 1D, 24/04/2009, 24/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'116721654112'
+WHERE   CODIGO = _latin1'10372'' at line 20
+004193, JIBALLI COMERCIO DE BRINDES LTDA, NFE - JIBALLI COMERCIO, (11) 3801-9639, , RUA APINAGES, SUMARE, SAO PAULO, SP, 1258000, 05981233000136, True, 116721654112, , 1D, 24/04/2009, 24/04/2009
+004195, DEL MORO E DEL MORO LTDA - 1, NFE - DEL MORO E DEL MORO - 1, (66) 3545-5700, , RUA BELO HORIZONTE, CENTRO, SORRISO, MT, 78890000, 00877761000479, True, 132035758, , 1D, 30/10/2015, 16/12/2013
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'130157490'
+WHERE   CODIGO = _latin1'10005'' at line 20
+004195, DEL MORO E DEL MORO LTDA - 1, NFE - DEL MORO E DEL MORO - 1, (66) 3545-5700, , RUA BELO HORIZONTE, CENTRO, SORRISO, MT, 78890000, 00877761000479, True, 132035758, , 1D, 30/10/2015, 16/12/2013
+004196, FACA FESTA MAFC LTDA, , (21)2710-5080, , RUA PRESIDENTE BECKER, ICARAI, NITEROI, RJ, 24220040, 83422636000159, True, 83539380, , 1D, 28/04/2011, null
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'83539380'
+WHERE   CODIGO = _latin1'10373'' at line 20
+004196, FACA FESTA MAFC LTDA, , (21)2710-5080, , RUA PRESIDENTE BECKER, ICARAI, NITEROI, RJ, 24220040, 83422636000159, True, 83539380, , 1D, 28/04/2011, null
+004197, JOIA DA GALERIA ARTIGOS P/PRESENTES LTDA, , (21) 2767-3616, , AV. GOVERNADOR AMARAL PEIXOTO, CENTRO, NOVA IGUACU, RJ, 26210060, 10636566000168, True, 78730811, , 1D, 04/05/2009, 04/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'78730811'
+WHERE   CODIGO = _latin1'10374'' at line 20
+004197, JOIA DA GALERIA ARTIGOS P/PRESENTES LTDA, , (21) 2767-3616, , AV. GOVERNADOR AMARAL PEIXOTO, CENTRO, NOVA IGUACU, RJ, 26210060, 10636566000168, True, 78730811, , 1D, 04/05/2009, 04/05/2009
+004198, ASSOCIACAO OBJETO BRASIL, KARINA KOBASHI, (11) 3032-7191, , RUA FRANCISCO LEITAO, PINHEIROS, SAO PAULO, SP, 5414025, 05466648000171, False, ISENTO, , 1D, 22/04/2009, 24/03/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'ISENTO'
+WHERE   CODIGO = _latin1'10375'' at line 20
+004198, ASSOCIACAO OBJETO BRASIL, KARINA KOBASHI, (11) 3032-7191, , RUA FRANCISCO LEITAO, PINHEIROS, SAO PAULO, SP, 5414025, 05466648000171, False, ISENTO, , 1D, 22/04/2009, 24/03/2010
+004199, SONIA LG DOS REIS PRESENTES, NFE - SONIA LG DOS REIS, (92) 3584-0041, , RUA JOAO VALERIO, NOSSA SRA. DAS GRACA, MANAUS, AM, 69053140, 05972076000100, True, 042107237, , 1D, 19/05/2010, 19/05/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'042107237'
+WHERE   CODIGO = _latin1'10376'' at line 20
+004199, SONIA LG DOS REIS PRESENTES, NFE - SONIA LG DOS REIS, (92) 3584-0041, , RUA JOAO VALERIO, NOSSA SRA. DAS GRACA, MANAUS, AM, 69053140, 05972076000100, True, 042107237, , 1D, 19/05/2010, 19/05/2010
+004203, PRONTO PLAN CONSTRUCOES TERRAPLENAGENS E TRANSP. ROD. LTDA, NFE - PRONTO PLAN CONSTRUCOES, (22) 2762-2059, , AV. SANTOS MOREIRA, MIRAMAR, MACAE, RJ, 27943201, 31861222000122, True, 77475907, , 1D, 29/04/2009, 29/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'77475907'
+WHERE   CODIGO = _latin1'10377'' at line 20
+004203, PRONTO PLAN CONSTRUCOES TERRAPLENAGENS E TRANSP. ROD. LTDA, NFE - PRONTO PLAN CONSTRUCOES, (22) 2762-2059, , AV. SANTOS MOREIRA, MIRAMAR, MACAE, RJ, 27943201, 31861222000122, True, 77475907, , 1D, 29/04/2009, 29/04/2009
+004204, L A PAPELARIA E PRESENTES LTDA ME, NFE - L.A. PAPELARIA E PRESENT, (61) 3034-5887, , SHC N CL QD 310 BL A LJ 16, ASA NORTE, BRASILIA, DF, 70800000, 05423981000101, True, 0744075000187, , 1D, 29/10/2010, 29/10/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0744075000187'
+WHERE   CODIGO = _latin1'10378'' at line 20
+004204, L A PAPELARIA E PRESENTES LTDA ME, NFE - L.A. PAPELARIA E PRESENT, (61) 3034-5887, , SHC N CL QD 310 BL A LJ 16, ASA NORTE, BRASILIA, DF, 70800000, 05423981000101, True, 0744075000187, , 1D, 29/10/2010, 29/10/2010
+004205, J. A C. SOARES, NFE - J.A.C. SOARES, (41) 3453-0910, , RUA ERNESTO POSTAREK, CENTRO, MATINHOS, PR, 83260000, 10470290000190, True, 9046247059, , 1D, 18/10/2013, 05/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'9046247059'
+WHERE   CODIGO = _latin1'10379'' at line 20
+004205, J. A C. SOARES, NFE - J.A.C. SOARES, (41) 3453-0910, , RUA ERNESTO POSTAREK, CENTRO, MATINHOS, PR, 83260000, 10470290000190, True, 9046247059, , 1D, 18/10/2013, 05/05/2009
+004206, ANA MARIA DE SANTANA, , (79) 3611-2790, , RUA DR. JOVINIANO DE CARVALHO, CENTRO, SIMAO DIAS, SE, 49480000, 05145881000152, True, 271062541, , 1D, 30/04/2009, 30/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'271062541'
+WHERE   CODIGO = _latin1'10380'' at line 20
+004206, ANA MARIA DE SANTANA, , (79) 3611-2790, , RUA DR. JOVINIANO DE CARVALHO, CENTRO, SIMAO DIAS, SE, 49480000, 05145881000152, True, 271062541, , 1D, 30/04/2009, 30/04/2009
+004207, PISOLAR COMERCIO DE TINTAS LTDA - 0274, NFE PISOLAR COMERCIO DE TINTAS, (79) 3234-6667, , AV. GONCALO ROLEMBERG LEITE, SUICA, ARACAJU, SE, 49050370, 32868002000274, True, 271029153, , 1D, 31/05/2012, 08/12/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'271029153'
+WHERE   CODIGO = _latin1'10381'' at line 20
+004207, PISOLAR COMERCIO DE TINTAS LTDA - 0274, NFE PISOLAR COMERCIO DE TINTAS, (79) 3234-6667, , AV. GONCALO ROLEMBERG LEITE, SUICA, ARACAJU, SE, 49050370, 32868002000274, True, 271029153, , 1D, 31/05/2012, 08/12/2011
+004211, M. L. TOLEDO CATEN E CIA LTDA - EPP, NFE M. L. TOLEDO CATEN E CIA L, (28) 3552-1465, (28) 3525-1466, DR WANDERLEY, CENTRO, ALEGRE, ES, 29500000, 07329773000165, True, 082322589, , 1D, 10/03/2016, 25/08/2015
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'082322589'
+WHERE   CODIGO = _latin1'10382'' at line 20
+004211, M. L. TOLEDO CATEN E CIA LTDA - EPP, NFE M. L. TOLEDO CATEN E CIA L, (28) 3552-1465, (28) 3525-1466, DR WANDERLEY, CENTRO, ALEGRE, ES, 29500000, 07329773000165, True, 082322589, , 1D, 10/03/2016, 25/08/2015
+004212, IRAJA ARTIGOS DO VESTUARIO EM GERAL LTDA ME, NFE - IRAJA ARTIGOS DO VESTUAR, (16) 3623-5263, , RUA CHILE, JARDIM IRAJA, RIBEIRAO PRETO, SP, 14020610, 08936004000198, True, 582743034115, , 1D, 30/03/2011, 26/04/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'582743034115'
+WHERE   CODIGO = _latin1'10383'' at line 20
+004212, IRAJA ARTIGOS DO VESTUARIO EM GERAL LTDA ME, NFE - IRAJA ARTIGOS DO VESTUAR, (16) 3623-5263, , RUA CHILE, JARDIM IRAJA, RIBEIRAO PRETO, SP, 14020610, 08936004000198, True, 582743034115, , 1D, 30/03/2011, 26/04/2011
+004213, NIVALDA MARIA BIN, NFE - NIVALDA MARIA BIN, (54) 3027-3745, , RUA JACOB LUCHESI, SANTA CATARINA, CAXIAS DO SUL, RS, 95032000, 05367355000137, True, 0290400341, , 1D, 30/04/2009, 30/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0290400341'
+WHERE   CODIGO = _latin1'10384'' at line 20
+004213, NIVALDA MARIA BIN, NFE - NIVALDA MARIA BIN, (54) 3027-3745, , RUA JACOB LUCHESI, SANTA CATARINA, CAXIAS DO SUL, RS, 95032000, 05367355000137, True, 0290400341, , 1D, 30/04/2009, 30/04/2009
+004217, ANTONIO DE PADUA ALVES, ANTONIO, (34) 3811-1382, , RUA FELISBERTO FONSECA, CENTRO, PRESIDENTE OLEGARIO, MG, 38750000, 19334622000184, True, 5344026910050, , 1D, 30/04/2009, 30/04/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'5344026910050'
+WHERE   CODIGO = _latin1'10385'' at line 20
+004217, ANTONIO DE PADUA ALVES, ANTONIO, (34) 3811-1382, , RUA FELISBERTO FONSECA, CENTRO, PRESIDENTE OLEGARIO, MG, 38750000, 19334622000184, True, 5344026910050, , 1D, 30/04/2009, 30/04/2009
+004220, VALDIMIR BARBOSA CARDOSO - ME, , (38) 3841-1020, , RUA BARAO DO RIO BRANCO, CENTRO, SALINAS, MG, 39560000, 71233696000144, True, 5708513430041, , 1D, 30/04/2009, 18/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'5708513430041'
+WHERE   CODIGO = _latin1'10386'' at line 20
+004220, VALDIMIR BARBOSA CARDOSO - ME, , (38) 3841-1020, , RUA BARAO DO RIO BRANCO, CENTRO, SALINAS, MG, 39560000, 71233696000144, True, 5708513430041, , 1D, 30/04/2009, 18/05/2009
+004221, VANEIDE ALEXANDRA BARROS FLORES - ME, , (38) 3841-4122, , RUA VIRGILIO GRAO MOGOL, CENTRO, SALINAS, MG, 39560000, 02460143000101, True, 5707353070017, , 1D, 30/04/2009, 18/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'5707353070017'
+WHERE   CODIGO = _latin1'10387'' at line 20
+004221, VANEIDE ALEXANDRA BARROS FLORES - ME, , (38) 3841-4122, , RUA VIRGILIO GRAO MOGOL, CENTRO, SALINAS, MG, 39560000, 02460143000101, True, 5707353070017, , 1D, 30/04/2009, 18/05/2009
+004223, MARIA DE LOURDES MERTINS, NFE - MARIA DE LOURDES MERTINS, (51) 3637-1626, , AV CEL MARCOS JOSE DE LEAO, CENTRO, FELIZ, RS, 95770000, 94161973000156, True, 0470010231, , 1D, 15/08/2016, 15/08/2016
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0470010231'
+WHERE   CODIGO = _latin1'10388'' at line 20
+004223, MARIA DE LOURDES MERTINS, NFE - MARIA DE LOURDES MERTINS, (51) 3637-1626, , AV CEL MARCOS JOSE DE LEAO, CENTRO, FELIZ, RS, 95770000, 94161973000156, True, 0470010231, , 1D, 15/08/2016, 15/08/2016
+004225, CASA RIOS MATERIAL DE CONSTRUCAO LTDA, NFE - CASA RIOS, (37) 3341-1600, , PRACA LINCOLN DA LUZ RIBEIRO, CENTRO, ITAPECERICA, MG, 35550000, 22259949000143, True, 3355253290059, , 1D, 05/05/2009, 18/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'3355253290059'
+WHERE   CODIGO = _latin1'10389'' at line 20
+004225, CASA RIOS MATERIAL DE CONSTRUCAO LTDA, NFE - CASA RIOS, (37) 3341-1600, , PRACA LINCOLN DA LUZ RIBEIRO, CENTRO, ITAPECERICA, MG, 35550000, 22259949000143, True, 3355253290059, , 1D, 05/05/2009, 18/05/2009
+004232, PRESENTE MARKANTE LTDA ME, NFE - PRESENTE MARKANTE LTDA M, (28) 3542-2284, , RUA ARISTEU BORGES DE AGUIAR, CENTRO, CASTELO, ES, 29360000, 27402817000142, True, 080875408, , 1D, 27/03/2013, 28/11/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'080875408'
+WHERE   CODIGO = _latin1'10390'' at line 20
+004232, PRESENTE MARKANTE LTDA ME, NFE - PRESENTE MARKANTE LTDA M, (28) 3542-2284, , RUA ARISTEU BORGES DE AGUIAR, CENTRO, CASTELO, ES, 29360000, 27402817000142, True, 080875408, , 1D, 27/03/2013, 28/11/2011
+004233, MARIA DE FATIMA SGARIA DE MORAIS ME, NFE - MARIA DE FATIMA SGARIA, (27) 3243-1401, , AV. ABIDO SAAD, JACARAIPE, SERRA, ES, 29173180, 05566966000104, True, 082203571, , 1D, 27/11/2012, 27/11/2012
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'082203571'
+WHERE   CODIGO = _latin1'10391'' at line 20
+004233, MARIA DE FATIMA SGARIA DE MORAIS ME, NFE - MARIA DE FATIMA SGARIA, (27) 3243-1401, , AV. ABIDO SAAD, JACARAIPE, SERRA, ES, 29173180, 05566966000104, True, 082203571, , 1D, 27/11/2012, 27/11/2012
+004234, TOK MAGIA PAPEIS E PRESENTES LTDA, NFE - TOK MAGIA PAPEIS, (27) 3340-8944, , AV. HUGO MUSSO, PRAIA DA COSTA, VILA VELHA, ES, 29101280, 06339224000109, True, 082269300, , 1D, 07/05/2009, 07/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'082269300'
+WHERE   CODIGO = _latin1'10392'' at line 20
+004234, TOK MAGIA PAPEIS E PRESENTES LTDA, NFE - TOK MAGIA PAPEIS, (27) 3340-8944, , AV. HUGO MUSSO, PRAIA DA COSTA, VILA VELHA, ES, 29101280, 06339224000109, True, 082269300, , 1D, 07/05/2009, 07/05/2009
+004235, MARIA ELOISA FONSECA RANGEL ME, NFE - MARIA ELOISA FONSECA, (27) 3256-7772, , QUINTINO LOUREIRO, CENTRO, ARACRUZ, ES, 29190014, 07883819000193, True, 082378983, , 1D, 07/05/2009, 07/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'082378983'
+WHERE   CODIGO = _latin1'10393'' at line 20
+004235, MARIA ELOISA FONSECA RANGEL ME, NFE - MARIA ELOISA FONSECA, (27) 3256-7772, , QUINTINO LOUREIRO, CENTRO, ARACRUZ, ES, 29190014, 07883819000193, True, 082378983, , 1D, 07/05/2009, 07/05/2009
+004236, SUPERMERCADO SHOW DE COMPRAS LTDA, , (27) 3248-0093, , RODOVIA BR 262, PEDRA AZUL, DOMINGOS MARTINS, ES, 29278000, 07009892000130, True, 082295433, , 1D, 06/05/2009, 06/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'082295433'
+WHERE   CODIGO = _latin1'10394'' at line 20
+004236, SUPERMERCADO SHOW DE COMPRAS LTDA, , (27) 3248-0093, , RODOVIA BR 262, PEDRA AZUL, DOMINGOS MARTINS, ES, 29278000, 07009892000130, True, 082295433, , 1D, 06/05/2009, 06/05/2009
+004240, AQUITETO PRESENTES E DECORACAO LTDA, NFE - AQUITETO PRESENTES E DEC, (82) 3338-2151, , RUA COMENDADOR F. AMORIM LEAO, FAROL, MACEIO, AL, 57057971, 07015307000105, True, 241044995, , 1D, 09/11/2010, 09/11/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'241044995'
+WHERE   CODIGO = _latin1'10395'' at line 20
+004240, AQUITETO PRESENTES E DECORACAO LTDA, NFE - AQUITETO PRESENTES E DEC, (82) 3338-2151, , RUA COMENDADOR F. AMORIM LEAO, FAROL, MACEIO, AL, 57057971, 07015307000105, True, 241044995, , 1D, 09/11/2010, 09/11/2010
+004258, CAPLER COMERCIO DE BRINDES PROMOCIONAIS LTDA, NFE - CAPLER COMERCIO, (11) 4165-4273, , RUA MAJOR TELLES, CENTRO, ITAPECERICA DA SERRA, SP, 6850001, 09386974000120, True, 370126655110, , 1D, 06/05/2009, 08/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'370126655110'
+WHERE   CODIGO = _latin1'10396'' at line 20
+004258, CAPLER COMERCIO DE BRINDES PROMOCIONAIS LTDA, NFE - CAPLER COMERCIO, (11) 4165-4273, , RUA MAJOR TELLES, CENTRO, ITAPECERICA DA SERRA, SP, 6850001, 09386974000120, True, 370126655110, , 1D, 06/05/2009, 08/05/2009
+004264, M.M.  MENDONCA E CIA LTDA, NFE - M.M. MENDONCA E CIA LTDA, (73) 3215-8458, , AV. JURACY MAGALHAES, ALTO MIRANTE, ITABUNA, BA, 45603231, 02409008000131, True, 48463267, , 1D, 29/09/2011, 10/11/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'48463267'
+WHERE   CODIGO = _latin1'10397'' at line 20
+004264, M.M.  MENDONCA E CIA LTDA, NFE - M.M. MENDONCA E CIA LTDA, (73) 3215-8458, , AV. JURACY MAGALHAES, ALTO MIRANTE, ITABUNA, BA, 45603231, 02409008000131, True, 48463267, , 1D, 29/09/2011, 10/11/2010
+004268, PERPAR COMERCIO DE BIJUTERIAS E PRESENTES LTDA, NFE - PERPAR COMERCIO DE BIJUT, (75) 3626-8273, , RUA LEONARDO GALVAO, CENTRO, CAMPO FORMOSO, BA, 44790000, 08605430000149, True, 73099140, , 1D, 12/05/2009, 12/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'73099140'
+WHERE   CODIGO = _latin1'10398'' at line 20
+004268, PERPAR COMERCIO DE BIJUTERIAS E PRESENTES LTDA, NFE - PERPAR COMERCIO DE BIJUT, (75) 3626-8273, , RUA LEONARDO GALVAO, CENTRO, CAMPO FORMOSO, BA, 44790000, 08605430000149, True, 73099140, , 1D, 12/05/2009, 12/05/2009
+004269, CINTIANE PRESENTES LTDA, NFE - CINTIANE PRESENTES LTDA, (22) 2762-0818, , AV. RUI BARBOSA, PQ VILA MIRANDA, MACAE, RJ, 27915000, 00940590000132, True, 85671499, , 1D, 12/05/2009, 12/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'85671499'
+WHERE   CODIGO = _latin1'10399'' at line 20
+004269, CINTIANE PRESENTES LTDA, NFE - CINTIANE PRESENTES LTDA, (22) 2762-0818, , AV. RUI BARBOSA, PQ VILA MIRANDA, MACAE, RJ, 27915000, 00940590000132, True, 85671499, , 1D, 12/05/2009, 12/05/2009
+004271, ARTE BELLE PRESENTES LTDA, NFE - ARTE BELLE PRESENTES, (69) 3451-8270, , AV. PRESIDENTE KENNEDY, PIONEIROS, PIMENTA BUENO, RO, 78984000, 04564956000177, True, 00000001031970, , 1D, 17/10/2013, 30/08/2013
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'00000001031970'
+WHERE   CODIGO = _latin1'10400'' at line 20
+004271, ARTE BELLE PRESENTES LTDA, NFE - ARTE BELLE PRESENTES, (69) 3451-8270, , AV. PRESIDENTE KENNEDY, PIONEIROS, PIMENTA BUENO, RO, 78984000, 04564956000177, True, 00000001031970, , 1D, 17/10/2013, 30/08/2013
+004273, COMERCIAL OURINHOS LTDA, NFE - COMERCIAL OURINHOS, (65) 3648-2000, , AV. BRASIL, CPA II, CUIABA, MT, 78055508, 04446949000170, True, 132013088, , 1D, 11/05/2010, 11/05/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'132013088'
+WHERE   CODIGO = _latin1'10401'' at line 20
+004273, COMERCIAL OURINHOS LTDA, NFE - COMERCIAL OURINHOS, (65) 3648-2000, , AV. BRASIL, CPA II, CUIABA, MT, 78055508, 04446949000170, True, 132013088, , 1D, 11/05/2010, 11/05/2010
+004275, LUIS FERNANDO SODRE E CIA LTDA ME, , (14) 3882-2073, , RUA TENENTE JOAO FRANCISCO, V LAVRADOR, BOTUCATU, SP, 18609620, 00305690000197, True, 224071034116, , 1D, 12/05/2009, 12/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'224071034116'
+WHERE   CODIGO = _latin1'10402'' at line 20
+004275, LUIS FERNANDO SODRE E CIA LTDA ME, , (14) 3882-2073, , RUA TENENTE JOAO FRANCISCO, V LAVRADOR, BOTUCATU, SP, 18609620, 00305690000197, True, 224071034116, , 1D, 12/05/2009, 12/05/2009
+004283, LM TUDO PARA CASA E CONSTRUCAO LTDA, NFE - COMPENSADOS FERNANDES LT, (47) 3562-1001, , RUA CORONEL FEDERSEN, CENTRO, TAIO, SC, 89190000, 10690750000196, True, 255823614, , 1D, 21/09/2009, 21/09/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'255823614'
+WHERE   CODIGO = _latin1'10403'' at line 20
+004283, LM TUDO PARA CASA E CONSTRUCAO LTDA, NFE - COMPENSADOS FERNANDES LT, (47) 3562-1001, , RUA CORONEL FEDERSEN, CENTRO, TAIO, SC, 89190000, 10690750000196, True, 255823614, , 1D, 21/09/2009, 21/09/2009
+004286, ST JUDE MEDICAL BRASIL LTDA, , (31) 3055-5212, (31) 3055-5220 ferna, RUA PAISAGEM, VILA DA SERRA, NOVA LIMA, MG, 34000000, 00986846000223, True, 4489763050032, , 1D, 20/05/2009, 21/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'4489763050032'
+WHERE   CODIGO = _latin1'10404'' at line 20
+004286, ST JUDE MEDICAL BRASIL LTDA, , (31) 3055-5212, (31) 3055-5220 ferna, RUA PAISAGEM, VILA DA SERRA, NOVA LIMA, MG, 34000000, 00986846000223, True, 4489763050032, , 1D, 20/05/2009, 21/05/2009
+004289, ALB 949 BAR E RESTAURANTE LTDA, , (21) 2491-4031, , AV. ARMANDO LOMBARDI, BARRA DA TIJUCA, RIO DE JANEIRO, RJ, 22621000, 07911683000188, True, 78086696, , 1D, 08/05/2009, 08/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'78086696'
+WHERE   CODIGO = _latin1'10405'' at line 20
+004289, ALB 949 BAR E RESTAURANTE LTDA, , (21) 2491-4031, , AV. ARMANDO LOMBARDI, BARRA DA TIJUCA, RIO DE JANEIRO, RJ, 22621000, 07911683000188, True, 78086696, , 1D, 08/05/2009, 08/05/2009
+004290, ANDREIA BRAGA ME, NFE - ANDREA BRAGA, (27) 3361-0600, , RUA HENRIQUE COUTINHO, CENTRO, GUARAPARI, ES, 29200190, 02828941000143, True, 081973578, , 1D, 21/05/2009, 21/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'081973578'
+WHERE   CODIGO = _latin1'10406'' at line 20
+004290, ANDREIA BRAGA ME, NFE - ANDREA BRAGA, (27) 3361-0600, , RUA HENRIQUE COUTINHO, CENTRO, GUARAPARI, ES, 29200190, 02828941000143, True, 081973578, , 1D, 21/05/2009, 21/05/2009
+004291, VILAREJO DE MACAE MAT. CONST. LTDA-GOYTACAZES, NFE - VILAREJO DE MACAE MAT. C, (22) 2762-0623, , AV. 24 DE OUTUBRO, JARDIM FRAMBOIANT, CAMPOS DOS GOYTACAZES, RJ, 28010970, 01183645000684, True, 78727055, , 1D, 22/03/2016, 13/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'78727055'
+WHERE   CODIGO = _latin1'10407'' at line 20
+004291, VILAREJO DE MACAE MAT. CONST. LTDA-GOYTACAZES, NFE - VILAREJO DE MACAE MAT. C, (22) 2762-0623, , AV. 24 DE OUTUBRO, JARDIM FRAMBOIANT, CAMPOS DOS GOYTACAZES, RJ, 28010970, 01183645000684, True, 78727055, , 1D, 22/03/2016, 13/05/2009
+004292, COOPERATIVA DOS PROD.RURAIS DE ABAETE E REGIAO LTDA, NFE - COOPERATIVA DOS PROD. RU, (37) 3541-5432, , PRACA DR. AMADOR ALVARES, CENTRO, ABAETE, MG, 35620000, 16505554000180, True, 0020888630042, , 1D, 28/01/2014, 14/12/2012
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0020888630042'
+WHERE   CODIGO = _latin1'10408'' at line 20
+004292, COOPERATIVA DOS PROD.RURAIS DE ABAETE E REGIAO LTDA, NFE - COOPERATIVA DOS PROD. RU, (37) 3541-5432, , PRACA DR. AMADOR ALVARES, CENTRO, ABAETE, MG, 35620000, 16505554000180, True, 0020888630042, , 1D, 28/01/2014, 14/12/2012
+004293, PDX UTILIDADES LTDA, NFE PDX UTILIDADES, (83) 3247 2085, (83) 9311-8790, AV. GENERAL EDSON RAMALHO, MANAIRA, JOAO PESSOA, PB, 58038100, 10744272000150, True, 161606776, , 1D, 03/01/2012, 03/01/2012
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'161606776'
+WHERE   CODIGO = _latin1'10409'' at line 20
+004293, PDX UTILIDADES LTDA, NFE PDX UTILIDADES, (83) 3247 2085, (83) 9311-8790, AV. GENERAL EDSON RAMALHO, MANAIRA, JOAO PESSOA, PB, 58038100, 10744272000150, True, 161606776, , 1D, 03/01/2012, 03/01/2012
+004294, PRIMUS PROCESSAMENTO DE TUBOS SA, NFE - PRIMUS PROCESSAMENTO DE, (21)3461-4700, , RUA CAMPO GRANDE, CAMPO GRANDE, RIO DE JANEIRO, RJ, 23063000, 42416792000120, True, 82306307, , 1D, 13/05/2009, 13/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'82306307'
+WHERE   CODIGO = _latin1'10410'' at line 20
+004294, PRIMUS PROCESSAMENTO DE TUBOS SA, NFE - PRIMUS PROCESSAMENTO DE, (21)3461-4700, , RUA CAMPO GRANDE, CAMPO GRANDE, RIO DE JANEIRO, RJ, 23063000, 42416792000120, True, 82306307, , 1D, 13/05/2009, 13/05/2009
+004295, ACORES DISTRIBUIDORA LTDA, NFE - ACORES DISTRIBUIDORA LTD, (48) 3335-6165, , RODOVIA ADMAR GONZAGA, ITACORUBI, FLORIANOPOLIS, SC, 88034000, 07549864000106, True, 255038860, , 1D, 15/06/2009, 15/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'255038860'
+WHERE   CODIGO = _latin1'10411'' at line 20
+004295, ACORES DISTRIBUIDORA LTDA, NFE - ACORES DISTRIBUIDORA LTD, (48) 3335-6165, , RODOVIA ADMAR GONZAGA, ITACORUBI, FLORIANOPOLIS, SC, 88034000, 07549864000106, True, 255038860, , 1D, 15/06/2009, 15/06/2009
+004299, PINHO COMERCIO DE CALCADOS LTDA, EDSON PINHO, (62) 3297-4618, , AVENIDA CENTRAL, JARDIM NOVA ESPERANC, GOIANIA, GO, 74465100, 01501459000131, True, 103074678, , 1D, 12/05/2009, 12/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'103074678'
+WHERE   CODIGO = _latin1'10412'' at line 20
+004299, PINHO COMERCIO DE CALCADOS LTDA, EDSON PINHO, (62) 3297-4618, , AVENIDA CENTRAL, JARDIM NOVA ESPERANC, GOIANIA, GO, 74465100, 01501459000131, True, 103074678, , 1D, 12/05/2009, 12/05/2009
+004300, MARCOS DALLAQUA JUNI0R ME, NFE - MARCOS DALLAQUA JUNIOR, (14) 3815-7098, , RUA JOAO BUTGNOLI, LAGEADO, BOTUCATU, SP, 18618000, 10459643000151, True, 224191689112, , 1D, 21/07/2009, 21/07/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'224191689112'
+WHERE   CODIGO = _latin1'10413'' at line 20
+004300, MARCOS DALLAQUA JUNI0R ME, NFE - MARCOS DALLAQUA JUNIOR, (14) 3815-7098, , RUA JOAO BUTGNOLI, LAGEADO, BOTUCATU, SP, 18618000, 10459643000151, True, 224191689112, , 1D, 21/07/2009, 21/07/2009
+004304, ORGANIZACOES NUTRI DE REFEICOES COLETIVAS LTDA, NFE - ORGANIZACOES NUTRI, (31) 3555-3611, , RUA WASHINGTON FLORIANO, FRIMISA, SANTA LUZIA, MG, 33045040, 71139406000106, True, 5788500770019, , 1D, 27/08/2013, 27/08/2013
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'5788500770019'
+WHERE   CODIGO = _latin1'10414'' at line 20
+004304, ORGANIZACOES NUTRI DE REFEICOES COLETIVAS LTDA, NFE - ORGANIZACOES NUTRI, (31) 3555-3611, , RUA WASHINGTON FLORIANO, FRIMISA, SANTA LUZIA, MG, 33045040, 71139406000106, True, 5788500770019, , 1D, 27/08/2013, 27/08/2013
+004305, PARQUE HOTEL SANTA AMALIA LTDA, NFE - PARQUE HOTEL SANTA AMALI, (24) 2471-7007, , AV. SEBASTIAO MANOEL FURTADO, SANTA AMALIA, VASSOURAS, RJ, 27700000, 32414914000195, True, 80475780, , 1D, 02/06/2009, 02/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'80475780'
+WHERE   CODIGO = _latin1'10415'' at line 20
+004305, PARQUE HOTEL SANTA AMALIA LTDA, NFE - PARQUE HOTEL SANTA AMALI, (24) 2471-7007, , AV. SEBASTIAO MANOEL FURTADO, SANTA AMALIA, VASSOURAS, RJ, 27700000, 32414914000195, True, 80475780, , 1D, 02/06/2009, 02/06/2009
+004306, OXIGENIUS BRINQUED0S E PRESENTES LTDA ME, , (19) 3641-2978, , RUA BERNARDO GARCIA, CENTRO, VARGEM GRANDE DO SUL, SP, 13880000, 05582050000148, True, 711106743119, , 1D, 14/05/2009, 14/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'711106743119'
+WHERE   CODIGO = _latin1'10416'' at line 20
+004306, OXIGENIUS BRINQUED0S E PRESENTES LTDA ME, , (19) 3641-2978, , RUA BERNARDO GARCIA, CENTRO, VARGEM GRANDE DO SUL, SP, 13880000, 05582050000148, True, 711106743119, , 1D, 14/05/2009, 14/05/2009
+004308, MULTI HOUSE UTILIDADES PARA O LAR LTDA, , (61) 3202-7576, , SHC S CI QD 302 BLOCO C LOJA 16, ASA SUL, BRASILIA, DF, 70338530, 10462391000110, True, 0751269800149, , 1D, 21/09/2009, 21/09/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0751269800149'
+WHERE   CODIGO = _latin1'10417'' at line 20
+004308, MULTI HOUSE UTILIDADES PARA O LAR LTDA, , (61) 3202-7576, , SHC S CI QD 302 BLOCO C LOJA 16, ASA SUL, BRASILIA, DF, 70338530, 10462391000110, True, 0751269800149, , 1D, 21/09/2009, 21/09/2009
+004312, CLF COMERCIO E INDUSTRIA DE DECORACAO LTDA, NFE - CLF COMERCIO, (69) 3441-5021, , AV. SETE DE SETEMBRO, CENTRO, CACOAL, RO, 76964006, 03936596000124, True, 00000000541737, , 1D, 02/09/2011, 02/09/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'00000000541737'
+WHERE   CODIGO = _latin1'10418'' at line 20
+004312, CLF COMERCIO E INDUSTRIA DE DECORACAO LTDA, NFE - CLF COMERCIO, (69) 3441-5021, , AV. SETE DE SETEMBRO, CENTRO, CACOAL, RO, 76964006, 03936596000124, True, 00000000541737, , 1D, 02/09/2011, 02/09/2011
+004313, GLOBO COMERCIO DE CONFECCOES LTDA, NFE GLOBO COMERCIO DE CONFECCO, (69) 3441-3166, , AV. CASTELO BRANCO, CENTRO, CACOAL, RO, 76963898, 00849450000153, True, 00000000395561, , 1D, 18/08/2016, 18/08/2016
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'00000000395561'
+WHERE   CODIGO = _latin1'10419'' at line 20
+004313, GLOBO COMERCIO DE CONFECCOES LTDA, NFE GLOBO COMERCIO DE CONFECCO, (69) 3441-3166, , AV. CASTELO BRANCO, CENTRO, CACOAL, RO, 76963898, 00849450000153, True, 00000000395561, , 1D, 18/08/2016, 18/08/2016
+004314, ITAPOA COMERCIO DE TECIDOS E CONFECCOES LTDA, NFE - ITAPOA COMERCIO DE TECID, (69) 3422-2227, , RUA MARTINS COSTA VILA JOAO, NOVA BRASILIA, JI-PARANA, RO, 76903301, 63771067000140, True, 00000000338681, , 1D, 23/08/2012, 10/05/2012
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'00000000338681'
+WHERE   CODIGO = _latin1'10420'' at line 20
+004314, ITAPOA COMERCIO DE TECIDOS E CONFECCOES LTDA, NFE - ITAPOA COMERCIO DE TECID, (69) 3422-2227, , RUA MARTINS COSTA VILA JOAO, NOVA BRASILIA, JI-PARANA, RO, 76903301, 63771067000140, True, 00000000338681, , 1D, 23/08/2012, 10/05/2012
+004325, MAKRO ATACADISTA S/A - LJ.72 FRANCA, NFE - MAKRO ATACADISTA S/A - L, (16) 3706-7553, , RUA REYNALDO CHIOCA, PARQUE PROGRESSO, FRANCA, SP, 14403085, 47427653009929, True, 310453669116, , 1D, 03/06/2011, 29/10/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'108741631113'
+WHERE   CODIGO = _latin1'9884'' at line 20
+004325, MAKRO ATACADISTA S/A - LJ.72 FRANCA, NFE - MAKRO ATACADISTA S/A - L, (16) 3706-7553, , RUA REYNALDO CHIOCA, PARQUE PROGRESSO, FRANCA, SP, 14403085, 47427653009929, True, 310453669116, , 1D, 03/06/2011, 29/10/2010
+004326, MAKRO ATACADISTA S/A - LJ.73 VOLTA REDONDA, NFE - MAKRO ATACADISTA S/A - L, (24) 3343-1017, , AV. DOIS, JARDIM VILA RICA, VOLTA REDONDA, RJ, 27259010, 47427653009848, True, 78701862, , 1D, 03/06/2011, 29/12/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'108741631113'
+WHERE   CODIGO = _latin1'9884'' at line 20
+004326, MAKRO ATACADISTA S/A - LJ.73 VOLTA REDONDA, NFE - MAKRO ATACADISTA S/A - L, (24) 3343-1017, , AV. DOIS, JARDIM VILA RICA, VOLTA REDONDA, RJ, 27259010, 47427653009848, True, 78701862, , 1D, 03/06/2011, 29/12/2011
+004327, MAKRO ATACADISTA S/A - LJ.71 TAUBATE, NFE - MAKRO ATACADISTA S/A - L, (12) 3627-2953, , AV. DOS IMIGRANTES, QUIRIRIM, TAUBATE, SP, 12043490, 47427653010005, True, 688285916110, , 1D, 03/06/2011, 28/10/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'108741631113'
+WHERE   CODIGO = _latin1'9884'' at line 20
+004327, MAKRO ATACADISTA S/A - LJ.71 TAUBATE, NFE - MAKRO ATACADISTA S/A - L, (12) 3627-2953, , AV. DOS IMIGRANTES, QUIRIRIM, TAUBATE, SP, 12043490, 47427653010005, True, 688285916110, , 1D, 03/06/2011, 28/10/2010
+004328, ILZAMAR FONTINATO ERVATI, , (28) 3537-1460, , ROD.BR 101, CENTRO, ICONHA, ES, 29280000, 31755044000155, True, 081223927, , 1D, 16/03/2010, 16/03/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'081223927'
+WHERE   CODIGO = _latin1'10421'' at line 20
+004328, ILZAMAR FONTINATO ERVATI, , (28) 3537-1460, , ROD.BR 101, CENTRO, ICONHA, ES, 29280000, 31755044000155, True, 081223927, , 1D, 16/03/2010, 16/03/2010
+004330, COOPERATIVA TRITICOLA SARANDI LTDA, , (54) 3361-1299, , AV. 7 DE SETEMBRO, CENTRO, SARANDI, RS, 99560000, 97320451003244, True, 1330045030, , 1D, 21/09/2009, 21/09/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'1330045030'
+WHERE   CODIGO = _latin1'10422'' at line 20
+004330, COOPERATIVA TRITICOLA SARANDI LTDA, , (54) 3361-1299, , AV. 7 DE SETEMBRO, CENTRO, SARANDI, RS, 99560000, 97320451003244, True, 1330045030, , 1D, 21/09/2009, 21/09/2009
+004331, NILZE MARY S. TALINI E CIA LTDA, , (45) 3038-2424, , AV. BRASIL, CENTRO, CASCAVEL, PR, 85801000, 72266224000150, True, 4101324864, , 1D, 18/05/2009, 18/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'4101324864'
+WHERE   CODIGO = _latin1'10423'' at line 20
+004331, NILZE MARY S. TALINI E CIA LTDA, , (45) 3038-2424, , AV. BRASIL, CENTRO, CASCAVEL, PR, 85801000, 72266224000150, True, 4101324864, , 1D, 18/05/2009, 18/05/2009
+004334, IRMAOS ARANHA COMERCIO DE ALIMENTOS LTDA ME, LURDES, (65) 3052-8952, , AV. ANIBAL TOLEDO, CENTRO, POCONE, MT, 78175000, 10802909000117, True, 133707571, , 1D, 20/05/2009, 20/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'133707571'
+WHERE   CODIGO = _latin1'10424'' at line 20
+004334, IRMAOS ARANHA COMERCIO DE ALIMENTOS LTDA ME, LURDES, (65) 3052-8952, , AV. ANIBAL TOLEDO, CENTRO, POCONE, MT, 78175000, 10802909000117, True, 133707571, , 1D, 20/05/2009, 20/05/2009
+004336, RIBERCON DISTRIBUIDORA LTDA - ME, NFE - RIBERCON DISTRIBUICAO, (16) 3624-5020, , RUA VIRGILIO DE CARVALHO NEVES NETO, JD PALMARES, RIBEIRAO PRETO, SP, 14092440, 02662100000109, True, 582469331119, , 1D, 27/04/2012, 27/04/2012
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'582469331119'
+WHERE   CODIGO = _latin1'10425'' at line 20
+004336, RIBERCON DISTRIBUIDORA LTDA - ME, NFE - RIBERCON DISTRIBUICAO, (16) 3624-5020, , RUA VIRGILIO DE CARVALHO NEVES NETO, JD PALMARES, RIBEIRAO PRETO, SP, 14092440, 02662100000109, True, 582469331119, , 1D, 27/04/2012, 27/04/2012
+004338, STUDIO MICKEY PRESENTES FINOS LTDA, NFE - STUDIO MICKEY PRESENTES, (11) 3088-0577, , RUA OSCAR FREIRE, JARDIM PAULISTA, SAO PAULO, SP, 1426001, 50588409000149, True, 109998539113, , 1D, 29/04/2010, 29/04/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'109998539113'
+WHERE   CODIGO = _latin1'10426'' at line 20
+004338, STUDIO MICKEY PRESENTES FINOS LTDA, NFE - STUDIO MICKEY PRESENTES, (11) 3088-0577, , RUA OSCAR FREIRE, JARDIM PAULISTA, SAO PAULO, SP, 1426001, 50588409000149, True, 109998539113, , 1D, 29/04/2010, 29/04/2010
+004343, B.M. BRASIL COMERCIO DE MOVEIS LTDA ME, NFE - B.M. BRASIL COMERCIO DE, (47) 3333-9009, , ROD0VIA BR 470, BENEDITO, INDAIAL, SC, 89130000, 05410201000180, True, 255008546, , 1D, 19/05/2009, 19/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'255008546'
+WHERE   CODIGO = _latin1'10427'' at line 20
+004343, B.M. BRASIL COMERCIO DE MOVEIS LTDA ME, NFE - B.M. BRASIL COMERCIO DE, (47) 3333-9009, , ROD0VIA BR 470, BENEDITO, INDAIAL, SC, 89130000, 05410201000180, True, 255008546, , 1D, 19/05/2009, 19/05/2009
+004344, AKAZA UTILIDADES E PRESENTES LTDA, NFE - AKAZA UTILIDADES E PRESE, (64) 3632-7318, , RUA JOSE DE CARVALHO BASTOS, CENTRO, JATAI, GO, 75800047, 10780626000111, True, 104460644, , 1D, 30/10/2013, 25/11/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'104460644'
+WHERE   CODIGO = _latin1'10428'' at line 20
+004344, AKAZA UTILIDADES E PRESENTES LTDA, NFE - AKAZA UTILIDADES E PRESE, (64) 3632-7318, , RUA JOSE DE CARVALHO BASTOS, CENTRO, JATAI, GO, 75800047, 10780626000111, True, 104460644, , 1D, 30/10/2013, 25/11/2011
+004349, TEND TUDO COMERCIO DE PRESENTES LTDA EPP, , (13) 3289-1025, , AV. MARECHAL FL0RIANO PEIXOTO, GONZAGA, SANTOS, SP, 11060301, 10317574000141, True, 633673393111, , 1D, 22/05/2009, 22/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'633673393111'
+WHERE   CODIGO = _latin1'10429'' at line 20
+004349, TEND TUDO COMERCIO DE PRESENTES LTDA EPP, , (13) 3289-1025, , AV. MARECHAL FL0RIANO PEIXOTO, GONZAGA, SANTOS, SP, 11060301, 10317574000141, True, 633673393111, , 1D, 22/05/2009, 22/05/2009
+004350, MAZZA COMERCIO DE ARTIGOS PARA PRESENTES LTDA, NFE - MAZZA COMERCIO DE ARTIGO, (19) 3242-2900, (19) 3252-2777, AV. HIGIENOPOLIS, JARDIM HIGIENOPOLIS, LONDRINA, PR, 86015010, 08782320000314, True, 9045255023, , 1D, 29/06/2009, null
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'9045255023'
+WHERE   CODIGO = _latin1'10430'' at line 20
+004350, MAZZA COMERCIO DE ARTIGOS PARA PRESENTES LTDA, NFE - MAZZA COMERCIO DE ARTIGO, (19) 3242-2900, (19) 3252-2777, AV. HIGIENOPOLIS, JARDIM HIGIENOPOLIS, LONDRINA, PR, 86015010, 08782320000314, True, 9045255023, , 1D, 29/06/2009, null
+004351, MAZZA COMERCIO DE ARTIGOS PARA PRESENTES LTDA-0152, NFE - MAZZA COMERCIO DE ARTIGO, (19) 3242-2900, , AV. FLORIANO PEIXOTO, BRASIL, UBERLANDIA, MG, 38400704, 08782320000152, True, 0010334550068, , 1D, 29/06/2009, 06/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'9045255023'
+WHERE   CODIGO = _latin1'10430'' at line 20
+004351, MAZZA COMERCIO DE ARTIGOS PARA PRESENTES LTDA-0152, NFE - MAZZA COMERCIO DE ARTIGO, (19) 3242-2900, , AV. FLORIANO PEIXOTO, BRASIL, UBERLANDIA, MG, 38400704, 08782320000152, True, 0010334550068, , 1D, 29/06/2009, 06/06/2009
+004352, MAZZA COMERCIO DE ARTIGOS PARA PRESENTES LTDA - 0233, SR ROGERIO, (19) 3242-2900, , AV. PRESIDENTE KENNEDY, PORTAO, CURITIBA, PR, 80610905, 08782320000233, True, 9043671925, , 1D, 29/06/2009, 05/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'9045255023'
+WHERE   CODIGO = _latin1'10430'' at line 20
+004352, MAZZA COMERCIO DE ARTIGOS PARA PRESENTES LTDA - 0233, SR ROGERIO, (19) 3242-2900, , AV. PRESIDENTE KENNEDY, PORTAO, CURITIBA, PR, 80610905, 08782320000233, True, 9043671925, , 1D, 29/06/2009, 05/06/2009
+004353, ZUNEL - PRESENTES LTDA  EPP, NFE - ZUNEL - PRESENTES LTDA, (19) 3242-2900, , RUA CAROLINA FLORENSE, VILA NOVA, CAMPINAS, SP, 13073076, 06001532000120, True, 244952347117, , 1D, 29/06/2009, null
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'9045255023'
+WHERE   CODIGO = _latin1'10430'' at line 20
+004353, ZUNEL - PRESENTES LTDA  EPP, NFE - ZUNEL - PRESENTES LTDA, (19) 3242-2900, , RUA CAROLINA FLORENSE, VILA NOVA, CAMPINAS, SP, 13073076, 06001532000120, True, 244952347117, , 1D, 29/06/2009, null
+004357, INDUSTRIA DE JOIAS PADUA LTDA, , (38) 3531-1116, , RUA CAMPOS CARVALHO, CENTRO, DIAMANTINA, MG, 39100000, 20081949000170, True, 2160492770070, , 1D, 20/05/2009, 21/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'2160492770070'
+WHERE   CODIGO = _latin1'10431'' at line 20
+004357, INDUSTRIA DE JOIAS PADUA LTDA, , (38) 3531-1116, , RUA CAMPOS CARVALHO, CENTRO, DIAMANTINA, MG, 39100000, 20081949000170, True, 2160492770070, , 1D, 20/05/2009, 21/05/2009
+004363, DIAS E MANZANO LTDA, NFE - DIAS E MANZANO LTDA, (17) 3421-3308, , AV. BRASIL, SANTA ALICE, VOTUPORANGA, SP, 15500051, 08464518000198, True, 718130339111, , 1D, 17/12/2009, 17/12/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'718130339111'
+WHERE   CODIGO = _latin1'10432'' at line 20
+004363, DIAS E MANZANO LTDA, NFE - DIAS E MANZANO LTDA, (17) 3421-3308, , AV. BRASIL, SANTA ALICE, VOTUPORANGA, SP, 15500051, 08464518000198, True, 718130339111, , 1D, 17/12/2009, 17/12/2009
+004364, TOBIL MOVEIS E DECORACOES LTDA EPP, NFE - TOBIL MOVEIS, , , AV. GUILHERME CAMPOS, SANTA GENEBRA, CAMPINAS, SP, 13087901, 07109274000162, True, 244978587119, , 1D, 29/06/2009, 29/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'9045255023'
+WHERE   CODIGO = _latin1'10430'' at line 20
+004364, TOBIL MOVEIS E DECORACOES LTDA EPP, NFE - TOBIL MOVEIS, , , AV. GUILHERME CAMPOS, SANTA GENEBRA, CAMPINAS, SP, 13087901, 07109274000162, True, 244978587119, , 1D, 29/06/2009, 29/06/2009
+004370, ASSOC.PAIS E AMIGOS DOS EXCEPCIONAIS DE FLORES DA CUNHA, MARIA BRANCHINI, (54) 3292-1663, (54) 3292-3975, RUA JOHN KENNEDY, SAO JOSE, FLORES DA CUNHA, RS, 95270000, 87843892000170, False, ISENTO, , 1D, 22/05/2009, 22/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'ISENTO'
+WHERE   CODIGO = _latin1'10433'' at line 20
+004370, ASSOC.PAIS E AMIGOS DOS EXCEPCIONAIS DE FLORES DA CUNHA, MARIA BRANCHINI, (54) 3292-1663, (54) 3292-3975, RUA JOHN KENNEDY, SAO JOSE, FLORES DA CUNHA, RS, 95270000, 87843892000170, False, ISENTO, , 1D, 22/05/2009, 22/05/2009
+004371, ELIZETE LUIZA HASSELMANN, , (55) 2102-9477, , RUA JULIO DE CASTILHOS, CENTRO, URUGUAIANA, RS, 97510310, 04156744000150, True, 1530165811, , 1D, 27/05/2009, 27/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'1530165811'
+WHERE   CODIGO = _latin1'10434'' at line 20
+004371, ELIZETE LUIZA HASSELMANN, , (55) 2102-9477, , RUA JULIO DE CASTILHOS, CENTRO, URUGUAIANA, RS, 97510310, 04156744000150, True, 1530165811, , 1D, 27/05/2009, 27/05/2009
+004372, SUZZY MEIRE PALMA KOHL, NFE - SUZZY MEIRE PALMA KOHL, (67) 3291-1595, , AV. GASPAR REIS COELHO, FLAVIO GARCIA, COXIM, MS, 79400000, 07212775000170, True, 283344091, , 1D, 22/06/2011, 22/06/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'283344091'
+WHERE   CODIGO = _latin1'10435'' at line 20
+004372, SUZZY MEIRE PALMA KOHL, NFE - SUZZY MEIRE PALMA KOHL, (67) 3291-1595, , AV. GASPAR REIS COELHO, FLAVIO GARCIA, COXIM, MS, 79400000, 07212775000170, True, 283344091, , 1D, 22/06/2011, 22/06/2011
+004373, CEREALISTA BAHAMAS LTDA, NFE CEREALISTA BAHAMAS LTDA, (85) 3342-3191, , RUA BARAO DE IBIAPABA, CENTRO, CAUCAIA, CE, 61605180, 09182217000134, True, 063678098, , 1D, 16/12/2009, 14/11/2016
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'063678098'
+WHERE   CODIGO = _latin1'10436'' at line 20
+004373, CEREALISTA BAHAMAS LTDA, NFE CEREALISTA BAHAMAS LTDA, (85) 3342-3191, , RUA BARAO DE IBIAPABA, CENTRO, CAUCAIA, CE, 61605180, 09182217000134, True, 063678098, , 1D, 16/12/2009, 14/11/2016
+004377, ACE COMERCIO DE BRINDES LTDA, NFE - ACE COMERCIO, (11) 2621-3522, (11) 2506-4248, RUA QUITANDUBA, CAXINGUI, SAO PAULO, SP, 5516030, 09542215000109, True, 148119719116, , 1D, 25/05/2009, 25/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'148119719116'
+WHERE   CODIGO = _latin1'10437'' at line 20
+004377, ACE COMERCIO DE BRINDES LTDA, NFE - ACE COMERCIO, (11) 2621-3522, (11) 2506-4248, RUA QUITANDUBA, CAXINGUI, SAO PAULO, SP, 5516030, 09542215000109, True, 148119719116, , 1D, 25/05/2009, 25/05/2009
+004384, MACEDO E SOUZA LTDA, , (34) 3268-5388, , BR 365, DISTRITO INDUSTRIAL, ITUIUTABA, MG, 38300000, 19046218000296, True, 3421889220145, , 1D, 10/07/2009, 28/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'3421889220145'
+WHERE   CODIGO = _latin1'10438'' at line 20
+004384, MACEDO E SOUZA LTDA, , (34) 3268-5388, , BR 365, DISTRITO INDUSTRIAL, ITUIUTABA, MG, 38300000, 19046218000296, True, 3421889220145, , 1D, 10/07/2009, 28/05/2009
+004385, DECIO CHURRASCARIA LTDA, , (63) 3612-3030, , BR 153  KM 667, ZONA URBANA, GURUPI, TO, 77400000, 08043170000165, True, 293943095, , 1D, 10/07/2009, 10/07/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'3421889220145'
+WHERE   CODIGO = _latin1'10438'' at line 20
+004385, DECIO CHURRASCARIA LTDA, , (63) 3612-3030, , BR 153  KM 667, ZONA URBANA, GURUPI, TO, 77400000, 08043170000165, True, 293943095, , 1D, 10/07/2009, 10/07/2009
+004387, M. C. L. SILVA, NFE - M. C. L. SILVA, (95) 3224-4069, (95) 3224-3750, RUA INACIO MAGALHAES, CENTRO, BOA VISTA, RR, 69301340, 04049045000101, True, 240007043, , 1D, 21/09/2011, 21/09/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'240007043'
+WHERE   CODIGO = _latin1'10439'' at line 20
+004387, M. C. L. SILVA, NFE - M. C. L. SILVA, (95) 3224-4069, (95) 3224-3750, RUA INACIO MAGALHAES, CENTRO, BOA VISTA, RR, 69301340, 04049045000101, True, 240007043, , 1D, 21/09/2011, 21/09/2011
+004388, GRILLO MALHAS  LTDA, NFE GRILLO MALHAS LTDA, (81) 3634-1524, , RUA INACIO FERREIRA CABRAL, CENTRO, SURUBIM, PE, 55750000, 07622411000168, True, 033114730, , 1D, 29/05/2009, 29/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'033114730'
+WHERE   CODIGO = _latin1'10440'' at line 20
+004388, GRILLO MALHAS  LTDA, NFE GRILLO MALHAS LTDA, (81) 3634-1524, , RUA INACIO FERREIRA CABRAL, CENTRO, SURUBIM, PE, 55750000, 07622411000168, True, 033114730, , 1D, 29/05/2009, 29/05/2009
+004391, MIGUEL MARTINS RODRIGUES FILHO, NFE - MIGUEL MARTINS RODRIGUES, (15) 3231-1094, , AV. DR. ARTUR BERNARDES, JD. MARIA DO CARMO, SOROCABA, SP, 18081000, 03348871000199, True, 669362495116, , 1D, 05/06/2009, 22/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'669362495116'
+WHERE   CODIGO = _latin1'10441'' at line 20
+004391, MIGUEL MARTINS RODRIGUES FILHO, NFE - MIGUEL MARTINS RODRIGUES, (15) 3231-1094, , AV. DR. ARTUR BERNARDES, JD. MARIA DO CARMO, SOROCABA, SP, 18081000, 03348871000199, True, 669362495116, , 1D, 05/06/2009, 22/06/2009
+004392, PIM COMERCIO DE PRESENTES E DECORACOES LTDA- ME, NFE - IRENE VICENTE PINOTTI, (17) 3442-6438, , RUA BRASIL, CENTRO, FERNANDOPOLIS, SP, 15600000, 09205077000334, True, 304135482117, , 1D, 28/06/2012, 10/04/2012
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'304132066111'
+WHERE   CODIGO = _latin1'10280'' at line 20
+004392, PIM COMERCIO DE PRESENTES E DECORACOES LTDA- ME, NFE - IRENE VICENTE PINOTTI, (17) 3442-6438, , RUA BRASIL, CENTRO, FERNANDOPOLIS, SP, 15600000, 09205077000334, True, 304135482117, , 1D, 28/06/2012, 10/04/2012
+004393, A FABRICA DO PIERCING LTDA - ME, NFE - LAR U.D UTILIDADES, (17) 3305-9080, , RUA BERNARDINO DE CAMPOS, CENTRO, SAO JOSE DO RIO PRETO, SP, 15015300, 10720179000105, True, 647553632112, , 1D, 04/01/2011, 04/01/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'647553632112'
+WHERE   CODIGO = _latin1'10442'' at line 20
+004393, A FABRICA DO PIERCING LTDA - ME, NFE - LAR U.D UTILIDADES, (17) 3305-9080, , RUA BERNARDINO DE CAMPOS, CENTRO, SAO JOSE DO RIO PRETO, SP, 15015300, 10720179000105, True, 647553632112, , 1D, 04/01/2011, 04/01/2011
+004396, JOCAFA MAGAZINE LTDA ME, NFE - JOCAFA MAGAZINE LTDA ME, (15) 3532-4664, , PRACA FRANCISCO A. NEGRAO, CENTRO, ITARARE, SP, 18460000, 03516662000107, True, 380011726110, , 1D, 02/06/2009, 02/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'380011726110'
+WHERE   CODIGO = _latin1'10443'' at line 20
+004396, JOCAFA MAGAZINE LTDA ME, NFE - JOCAFA MAGAZINE LTDA ME, (15) 3532-4664, , PRACA FRANCISCO A. NEGRAO, CENTRO, ITARARE, SP, 18460000, 03516662000107, True, 380011726110, , 1D, 02/06/2009, 02/06/2009
+004397, FABIANA GERVASIO DE OLIVEIRA COM. DE INTERIORES, NFE - FABIANA GERVASIO DE OLIV, (21) 2610-2706, , AV. QUINTINO BOCAIUVA, SAO FRANCISCO, NITEROI, RJ, 24360022, 08990262000152, True, 78346736, , 1D, 01/06/2009, 01/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'78346736'
+WHERE   CODIGO = _latin1'10444'' at line 20
+004397, FABIANA GERVASIO DE OLIVEIRA COM. DE INTERIORES, NFE - FABIANA GERVASIO DE OLIV, (21) 2610-2706, , AV. QUINTINO BOCAIUVA, SAO FRANCISCO, NITEROI, RJ, 24360022, 08990262000152, True, 78346736, , 1D, 01/06/2009, 01/06/2009
+004398, SRL COSMO GOMES UTILIDADES E SERVICOS, NFE - SRL COSMO GOMES UTILIDAD, (75) 3223-7777, , AV. GETULIO VARGAS, PONTO CENTRAL, FEIRA DE SANTANA, BA, 44042010, 06981121000148, True, 64702662, , 1D, 12/06/2009, 25/08/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'64702662'
+WHERE   CODIGO = _latin1'10445'' at line 20
+004398, SRL COSMO GOMES UTILIDADES E SERVICOS, NFE - SRL COSMO GOMES UTILIDAD, (75) 3223-7777, , AV. GETULIO VARGAS, PONTO CENTRAL, FEIRA DE SANTANA, BA, 44042010, 06981121000148, True, 64702662, , 1D, 12/06/2009, 25/08/2009
+004401, CONFEITARIA DONA IGNES LTDA, NFE - CONFEITARIA DONA IGNES L, (51) 3340-8084, , AV. SERTORIO, SARANDI, PORTO ALEGRE, RS, 91130721, 04738821000180, True, 0962897876, , 1D, 04/06/2009, 04/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0962897876'
+WHERE   CODIGO = _latin1'10446'' at line 20
+004401, CONFEITARIA DONA IGNES LTDA, NFE - CONFEITARIA DONA IGNES L, (51) 3340-8084, , AV. SERTORIO, SARANDI, PORTO ALEGRE, RS, 91130721, 04738821000180, True, 0962897876, , 1D, 04/06/2009, 04/06/2009
+004404, MARTEX EQUIPAMENTOS PARA ESCRITORIO LTDA, NFE - MARTEX EQUIPAMENTOS PARA, (15) 3271-1708, (15) 3272-8624, RUA SILVA JARDIM, CENTRO, ITAPETININGA, SP, 18200000, 49704836000166, True, 371006894112, , 1D, 28/10/2011, 28/10/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'371006894112'
+WHERE   CODIGO = _latin1'10447'' at line 20
+004404, MARTEX EQUIPAMENTOS PARA ESCRITORIO LTDA, NFE - MARTEX EQUIPAMENTOS PARA, (15) 3271-1708, (15) 3272-8624, RUA SILVA JARDIM, CENTRO, ITAPETININGA, SP, 18200000, 49704836000166, True, 371006894112, , 1D, 28/10/2011, 28/10/2011
+004406, IVONE TEREZINHA STALTER SCHEUER, , (55) 3313-3993, , RUA FRANCISCO GRAZZIADEI, ALIANCA, SANTO ANGELO, RS, 98803110, 88963384000199, True, 1130134803, , 1D, 29/05/2009, 29/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'1130134803'
+WHERE   CODIGO = _latin1'10448'' at line 20
+004406, IVONE TEREZINHA STALTER SCHEUER, , (55) 3313-3993, , RUA FRANCISCO GRAZZIADEI, ALIANCA, SANTO ANGELO, RS, 98803110, 88963384000199, True, 1130134803, , 1D, 29/05/2009, 29/05/2009
+004407, OUYLDES FABRES ZANOL ME, , (27) 3361-1440, , RUA GETULIO VARGAS, CENTRO, GUARAPARI, ES, 29200000, 02858006000120, True, 081976208, , 1D, 03/06/2009, null
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'081976208'
+WHERE   CODIGO = _latin1'10449'' at line 20
+004407, OUYLDES FABRES ZANOL ME, , (27) 3361-1440, , RUA GETULIO VARGAS, CENTRO, GUARAPARI, ES, 29200000, 02858006000120, True, 081976208, , 1D, 03/06/2009, null
+004408, DEKORAR COMERCIO DE PRESENTES E DECORACOES LTDA, NFE - DEKORAR COMERCIO DE PRES, (47) 3521-6910, , AV. BARAO DO RIO BRANCO, CENTRO, RIO DO SUL, SC, 89160000, 03886193000118, True, 254112765, , 1D, 03/06/2009, 03/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'254112765'
+WHERE   CODIGO = _latin1'10450'' at line 20
+004408, DEKORAR COMERCIO DE PRESENTES E DECORACOES LTDA, NFE - DEKORAR COMERCIO DE PRES, (47) 3521-6910, , AV. BARAO DO RIO BRANCO, CENTRO, RIO DO SUL, SC, 89160000, 03886193000118, True, 254112765, , 1D, 03/06/2009, 03/06/2009
+004409, FORUM GERENCIAMENTO DE PROJETOS, , (47) 433 0641, , RUA DOUTOR PLACIDO GOMES, ANITA GARIBALDI, JOINVILLE, SC, 89202050, 01749954000164, True, 254990754, , 1D, 28/05/2009, 28/05/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+004409, FORUM GERENCIAMENTO DE PROJETOS, , (47) 433 0641, , RUA DOUTOR PLACIDO GOMES, ANITA GARIBALDI, JOINVILLE, SC, 89202050, 01749954000164, True, 254990754, , 1D, 28/05/2009, 28/05/2009
+TELEFONE Inválido, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'254990754'
+WHERE   CODIGO = _latin1'10451'' at line 20
+004409, FORUM GERENCIAMENTO DE PROJETOS, , (47) 433 0641, , RUA DOUTOR PLACIDO GOMES, ANITA GARIBALDI, JOINVILLE, SC, 89202050, 01749954000164, True, 254990754, , 1D, 28/05/2009, 28/05/2009
+004410, MOBILIADORA BOLIVAR COM IMP. E EXP. LTDA, NFE - MOBILIADORA BOLIVAR, (69) 3541-3719, , AV. CONSTITUICAO, CENTRO, GUAJARA-MIRIM, RO, 76850000, 14604631000124, True, 00000000157520, , 1D, 03/06/2009, 03/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'00000000157520'
+WHERE   CODIGO = _latin1'10452'' at line 20
+004410, MOBILIADORA BOLIVAR COM IMP. E EXP. LTDA, NFE - MOBILIADORA BOLIVAR, (69) 3541-3719, , AV. CONSTITUICAO, CENTRO, GUAJARA-MIRIM, RO, 76850000, 14604631000124, True, 00000000157520, , 1D, 03/06/2009, 03/06/2009
+004413, S.M. CAMELI, NFE - S.M. CAMELI, (68) 3322-2059, (68) 3322-2059, AV. ABSOLON MOREIRA, CENTRO, CRUZEIRO DO SUL, AC, 69980000, 07862517000139, True, 01.018.279/001-84, , 1D, 22/05/2012, 22/05/2012
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'01.018.279/001-84'
+WHERE   CODIGO = _latin1'10453'' at line 20
+004413, S.M. CAMELI, NFE - S.M. CAMELI, (68) 3322-2059, (68) 3322-2059, AV. ABSOLON MOREIRA, CENTRO, CRUZEIRO DO SUL, AC, 69980000, 07862517000139, True, 01.018.279/001-84, , 1D, 22/05/2012, 22/05/2012
+004415, EUGENIO ALVES DA SILVA, NFE - EUGENIO ALVES DA SILVA, (73) 3291-4107, , AV. 9 DE MAIO, JARDIM CARAIPE, TEIXEIRA DE FREITAS, BA, 45995971, 09089677000112, True, 75219170, , 1D, 21/08/2015, 21/08/2015
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'75219170'
+WHERE   CODIGO = _latin1'10454'' at line 20
+004415, EUGENIO ALVES DA SILVA, NFE - EUGENIO ALVES DA SILVA, (73) 3291-4107, , AV. 9 DE MAIO, JARDIM CARAIPE, TEIXEIRA DE FREITAS, BA, 45995971, 09089677000112, True, 75219170, , 1D, 21/08/2015, 21/08/2015
+004420, VIACAO GARCIA LTDA, NFE - VIACAO GARCIA LTDA, (43) 3373-2000, , AV. CELSO GARCIA CID, BOA VISTA, LONDRINA, PR, 86039000, 78586674000107, True, 6010263504, , 1D, 20/10/2010, 20/10/2010
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'6010263504'
+WHERE   CODIGO = _latin1'10455'' at line 20
+004420, VIACAO GARCIA LTDA, NFE - VIACAO GARCIA LTDA, (43) 3373-2000, , AV. CELSO GARCIA CID, BOA VISTA, LONDRINA, PR, 86039000, 78586674000107, True, 6010263504, , 1D, 20/10/2010, 20/10/2010
+004422, RIVATTI MOVEIS LTDA, ADRIANA, 54-3025-9300, , RUA GUAVIROVAS, DAS, BELA VISTA, CAXIAS DO SUL, RS, 95076140, 03961151000102, True, 0290360048, , 1D, 11/08/2009, 10/05/2017
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0290360048'
+WHERE   CODIGO = _latin1'10456'' at line 20
+004422, RIVATTI MOVEIS LTDA, ADRIANA, 54-3025-9300, , RUA GUAVIROVAS, DAS, BELA VISTA, CAXIAS DO SUL, RS, 95076140, 03961151000102, True, 0290360048, , 1D, 11/08/2009, 10/05/2017
+004425, COLORATA DECORACOES LTDA, NFE - COLORATA DECORACOES LTDA, (41) 3021-4407, , AV. NOSSA SENHORA APARECIDA, SEMINARIO, CURITIBA, PR, 80310100, 08313478000183, True, 9039301285, , 1D, 12/06/2009, 12/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'9039301285'
+WHERE   CODIGO = _latin1'10457'' at line 20
+004425, COLORATA DECORACOES LTDA, NFE - COLORATA DECORACOES LTDA, (41) 3021-4407, , AV. NOSSA SENHORA APARECIDA, SEMINARIO, CURITIBA, PR, 80310100, 08313478000183, True, 9039301285, , 1D, 12/06/2009, 12/06/2009
+004427, HOSPITAL SANTA PAULA LTDA, NFE - HOSPITAL SANTA PAULA, (11) 3040-8052, , AV. SANTO AMARO, VILA OLIMPIA, SAO PAULO, SP, 4556100, 60777901000116, False, , , 1D, 22/04/2013, 22/04/2013
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1''
+WHERE   CODIGO = _latin1'10458'' at line 20
+004427, HOSPITAL SANTA PAULA LTDA, NFE - HOSPITAL SANTA PAULA, (11) 3040-8052, , AV. SANTO AMARO, VILA OLIMPIA, SAO PAULO, SP, 4556100, 60777901000116, False, , , 1D, 22/04/2013, 22/04/2013
+004429, WESLEY E SANTOS DISTRIBUIDORA E COMERCIO LTDA, MARCELINO OU PEDRO, (21) 2424-8690, , ESTRADA DO TINDIBA, TAQUARA, RIO DE JANEIRO, RJ, 22740361, 04559646000164, True, 77225528, , 1D, 09/06/2009, 09/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'77225528'
+WHERE   CODIGO = _latin1'10459'' at line 20
+004429, WESLEY E SANTOS DISTRIBUIDORA E COMERCIO LTDA, MARCELINO OU PEDRO, (21) 2424-8690, , ESTRADA DO TINDIBA, TAQUARA, RIO DE JANEIRO, RJ, 22740361, 04559646000164, True, 77225528, , 1D, 09/06/2009, 09/06/2009
+004432, SO ALEGRIA VARIEDADES LTDA - LJ.2, NFE - SO ALEGRIA VARIEDADES LT, (75) 3221-1114, , RUA SALES BARBOSA, CENTRO, FEIRA DE SANTANA, BA, 44002256, 04958283000210, True, 73961142, , 1D, 29/09/2009, 12/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'73961142'
+WHERE   CODIGO = _latin1'10460'' at line 20
+004432, SO ALEGRIA VARIEDADES LTDA - LJ.2, NFE - SO ALEGRIA VARIEDADES LT, (75) 3221-1114, , RUA SALES BARBOSA, CENTRO, FEIRA DE SANTANA, BA, 44002256, 04958283000210, True, 73961142, , 1D, 29/09/2009, 12/06/2009
+004433, SO ALEGRIA VARIEDADES LTDA - LJ.3, NFE - SO ALEGRIA VARIEDADES LT, (75) 3632-0114, , RUA LANDULFO ALVES, CENTRO, SANTO ANTONIO DE JESUS, BA, 44571380, 04958283000300, True, 82927714, , 1D, 29/09/2009, 29/09/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'73961142'
+WHERE   CODIGO = _latin1'10460'' at line 20
+004433, SO ALEGRIA VARIEDADES LTDA - LJ.3, NFE - SO ALEGRIA VARIEDADES LT, (75) 3632-0114, , RUA LANDULFO ALVES, CENTRO, SANTO ANTONIO DE JESUS, BA, 44571380, 04958283000300, True, 82927714, , 1D, 29/09/2009, 29/09/2009
+004435, VALDIR MARANGONI, CARMEM - MARIA ELI, (48) 3433-2283, , RUA HENRIQUE LAGE, SANTA BARBARA, CRICIUMA, SC, 88800000, 82919168000160, True, 250031213, , 1D, 10/06/2009, 10/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'250031213'
+WHERE   CODIGO = _latin1'10461'' at line 20
+004435, VALDIR MARANGONI, CARMEM - MARIA ELI, (48) 3433-2283, , RUA HENRIQUE LAGE, SANTA BARBARA, CRICIUMA, SC, 88800000, 82919168000160, True, 250031213, , 1D, 10/06/2009, 10/06/2009
+004439, MARIA DE LOURDES MORA BOELONE ME, NFE - MARIA DE LOURDES MORA BO, (27) 3373-2150, , RUA JERONIMO MONTEIRO, NOVO HORIZONTE, LINHARES, ES, 29902220, 01410050000100, True, 081832435, , 1D, 06/03/2015, 06/03/2015
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'081832435'
+WHERE   CODIGO = _latin1'10462'' at line 20
+004439, MARIA DE LOURDES MORA BOELONE ME, NFE - MARIA DE LOURDES MORA BO, (27) 3373-2150, , RUA JERONIMO MONTEIRO, NOVO HORIZONTE, LINHARES, ES, 29902220, 01410050000100, True, 081832435, , 1D, 06/03/2015, 06/03/2015
+004440, SONHO DE PRESENTES LTDA EPP, NFE - SONHO DE PRESENTES, (27) 3721-1121, , RUA CASSIANO CASTELO, CENTRO, COLATINA, ES, 29700060, 36363646000180, True, 081482949, , 1D, 06/07/2016, 29/11/2012
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'081482949'
+WHERE   CODIGO = _latin1'10463'' at line 20
+004440, SONHO DE PRESENTES LTDA EPP, NFE - SONHO DE PRESENTES, (27) 3721-1121, , RUA CASSIANO CASTELO, CENTRO, COLATINA, ES, 29700060, 36363646000180, True, 081482949, , 1D, 06/07/2016, 29/11/2012
+004443, DETALHES PRESENTES E DEECORACOES LTDA, NFE - DETALHES PRESENTES, (67) 3422-5600, , RUA JOAO CANDIDO DA CAMARA, JARDIM AMERICA, DOURADOS, MS, 79804000, 07056913000179, True, 283324830, , 1D, 09/06/2009, 09/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'283324830'
+WHERE   CODIGO = _latin1'10464'' at line 20
+004443, DETALHES PRESENTES E DEECORACOES LTDA, NFE - DETALHES PRESENTES, (67) 3422-5600, , RUA JOAO CANDIDO DA CAMARA, JARDIM AMERICA, DOURADOS, MS, 79804000, 07056913000179, True, 283324830, , 1D, 09/06/2009, 09/06/2009
+004444, RAFAEL FERNANDO DE ARAGAO ME, NFE - RAFAEL FERNANDO DE ARAGA, (15) 3263-1209, (15) 3363-3458, RUA CEL. EUGENIO MOTTA, CENTRO, BOITUVA, SP, 18550000, 03828161000166, True, 219022206114, , 1D, 09/06/2009, 09/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'219022206114'
+WHERE   CODIGO = _latin1'10465'' at line 20
+004444, RAFAEL FERNANDO DE ARAGAO ME, NFE - RAFAEL FERNANDO DE ARAGA, (15) 3263-1209, (15) 3363-3458, RUA CEL. EUGENIO MOTTA, CENTRO, BOITUVA, SP, 18550000, 03828161000166, True, 219022206114, , 1D, 09/06/2009, 09/06/2009
+004445, ENGEFOOD EQUIP. ENG. E REPRES. LTDA, SOLANGE, (11) 4225-9400, (11) 4224-2642, RUA DOS AUTONOMISTAS - SANTA PAULA, CENTRO, SAO CAETANO DO SUL, SP, 9520040, 66535477000180, True, 636116574119, , 1D, 09/06/2009, 08/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'636116574119'
+WHERE   CODIGO = _latin1'10466'' at line 20
+004445, ENGEFOOD EQUIP. ENG. E REPRES. LTDA, SOLANGE, (11) 4225-9400, (11) 4224-2642, RUA DOS AUTONOMISTAS - SANTA PAULA, CENTRO, SAO CAETANO DO SUL, SP, 9520040, 66535477000180, True, 636116574119, , 1D, 09/06/2009, 08/06/2009
+004447, VIDEO EM CASA LOCADORA DE VIDEOS LTDA, JOAO / ANDREIA, (54) 9183-5300, (54) 9183-5600, RUA LUIZ GAVIRAGHI, RIO BRANCO, CAXIAS DO SUL, RS, 95097520, 10836234000127, True, ISENTO, , 1D, 16/06/2009, 16/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'ISENTO'
+WHERE   CODIGO = _latin1'10467'' at line 20
+004447, VIDEO EM CASA LOCADORA DE VIDEOS LTDA, JOAO / ANDREIA, (54) 9183-5300, (54) 9183-5600, RUA LUIZ GAVIRAGHI, RIO BRANCO, CAXIAS DO SUL, RS, 95097520, 10836234000127, True, ISENTO, , 1D, 16/06/2009, 16/06/2009
+004449, M.Y.Y. PINHO, , (91) 3241-0328, , AV. SERZEDELO CORREA, NAZARE, BELEM, PA, 66035400, 03385528000114, True, 152112510, , 1D, 15/06/2009, 15/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'152112510'
+WHERE   CODIGO = _latin1'10468'' at line 20
+004449, M.Y.Y. PINHO, , (91) 3241-0328, , AV. SERZEDELO CORREA, NAZARE, BELEM, PA, 66035400, 03385528000114, True, 152112510, , 1D, 15/06/2009, 15/06/2009
+004452, BLACKOUT MAGASIN LTDA, NFE - ELESANDRA DE GOES VIEIRA, (15) 3278-2710, , RUA AMERICO BRASILIENSE, CENTRO, PILAR DO SUL, SP, 18185000, 05246424000154, True, 527070290119, , 1D, 17/06/2009, 17/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'527070290119'
+WHERE   CODIGO = _latin1'10469'' at line 20
+004452, BLACKOUT MAGASIN LTDA, NFE - ELESANDRA DE GOES VIEIRA, (15) 3278-2710, , RUA AMERICO BRASILIENSE, CENTRO, PILAR DO SUL, SP, 18185000, 05246424000154, True, 527070290119, , 1D, 17/06/2009, 17/06/2009
+004461, PAPOULA BRANCA PORCELANAS LTDA, NFE - PAPOULA BRANCA, (31) 3482-0000, , RUA PETROLINA, SAGRADA FAMILIA, BELO HORIZONTE, MG, 31030370, 03678446000168, True, 0620714540080, , 1D, 23/12/2011, 23/12/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0620714540080'
+WHERE   CODIGO = _latin1'10470'' at line 20
+004461, PAPOULA BRANCA PORCELANAS LTDA, NFE - PAPOULA BRANCA, (31) 3482-0000, , RUA PETROLINA, SAGRADA FAMILIA, BELO HORIZONTE, MG, 31030370, 03678446000168, True, 0620714540080, , 1D, 23/12/2011, 23/12/2011
+004463, IVANEIDE GOMES DA CONCEICAO ME, NFE IVANEIDE GOMES DA CONCEICA, (73) 3294-2212, , AV. ANTONIO CARLOS MAGALHAES, CENTRO, ITAMARAJU, BA, 45836000, 04540389000119, True, 55678513, , 1D, 08/10/2012, 08/10/2012
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'55678513'
+WHERE   CODIGO = _latin1'10471'' at line 20
+004463, IVANEIDE GOMES DA CONCEICAO ME, NFE IVANEIDE GOMES DA CONCEICA, (73) 3294-2212, , AV. ANTONIO CARLOS MAGALHAES, CENTRO, ITAMARAJU, BA, 45836000, 04540389000119, True, 55678513, , 1D, 08/10/2012, 08/10/2012
+004464, ARTE JOIAS MAPAM LTDA ME, NFE - ARTE JOIAS MAPAM LTDA ME, (77) 3481-5854, (77) 3481-7312, AV. MANOEL NOVAES, CENTRO, BOM JESUS DA LAPA, BA, 47600000, 33999319000121, True, 99341378, , 1D, 14/11/2014, 14/11/2014
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'99341378'
+WHERE   CODIGO = _latin1'10472'' at line 20
+004464, ARTE JOIAS MAPAM LTDA ME, NFE - ARTE JOIAS MAPAM LTDA ME, (77) 3481-5854, (77) 3481-7312, AV. MANOEL NOVAES, CENTRO, BOM JESUS DA LAPA, BA, 47600000, 33999319000121, True, 99341378, , 1D, 14/11/2014, 14/11/2014
+004465, IRMANDADE SANTA CASA DE MISERICORDIA DE TAMBAU, , (19) 3673-2054, , RUA  CEL. MANOEL DE SOUZA MEIRELLES, CENTRO, TAMBAU, SP, 13710000, 72052350000102, False, ISENTO, , 1D, 19/06/2009, 19/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'ISENTO'
+WHERE   CODIGO = _latin1'10473'' at line 20
+004465, IRMANDADE SANTA CASA DE MISERICORDIA DE TAMBAU, , (19) 3673-2054, , RUA  CEL. MANOEL DE SOUZA MEIRELLES, CENTRO, TAMBAU, SP, 13710000, 72052350000102, False, ISENTO, , 1D, 19/06/2009, 19/06/2009
+004468, EMPORIUM PRODUTOS DIETETICOS LTDA ME, , (48) 3333-0309, , RUA DOUTOR CARLOS CORREIA, AGRONOMICA, FLORIANOPOLIS, SC, 88025250, 10638659000121, True, 255867956, , 1D, 13/07/2009, 31/07/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'255867956'
+WHERE   CODIGO = _latin1'10474'' at line 20
+004468, EMPORIUM PRODUTOS DIETETICOS LTDA ME, , (48) 3333-0309, , RUA DOUTOR CARLOS CORREIA, AGRONOMICA, FLORIANOPOLIS, SC, 88025250, 10638659000121, True, 255867956, , 1D, 13/07/2009, 31/07/2009
+004469, MAKRO ATACADISTA S/A - LJ.79  MARILIA, NFE - MAKRO ATACADISTA S/A - L, (14) 3311.0641, (14) 8170.0174, RUA CARLOS PAVARINI, PARQUE DAS INDUSTRIA, MARILIA, SP, 17519680, 47427653010188, True, 438271478110, , 1D, 03/06/2011, 02/05/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'108741631113'
+WHERE   CODIGO = _latin1'9884'' at line 20
+004469, MAKRO ATACADISTA S/A - LJ.79  MARILIA, NFE - MAKRO ATACADISTA S/A - L, (14) 3311.0641, (14) 8170.0174, RUA CARLOS PAVARINI, PARQUE DAS INDUSTRIA, MARILIA, SP, 17519680, 47427653010188, True, 438271478110, , 1D, 03/06/2011, 02/05/2011
+004470, NFA COM. IMP. E EXP. DE PRODUTOS DE INFORMATICA LTDA, NFE - NFA COM. IMP. E EXP. DE, (16) 3413-9470, , RUA DOS FERROVIARIOS, VILA PRADO, SAO CARLOS, SP, 13572200, 10517594000166, True, 637318278115, , 1D, 09/06/2011, 09/06/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'637318278115'
+WHERE   CODIGO = _latin1'10475'' at line 20
+004470, NFA COM. IMP. E EXP. DE PRODUTOS DE INFORMATICA LTDA, NFE - NFA COM. IMP. E EXP. DE, (16) 3413-9470, , RUA DOS FERROVIARIOS, VILA PRADO, SAO CARLOS, SP, 13572200, 10517594000166, True, 637318278115, , 1D, 09/06/2011, 09/06/2011
+004471, ERNANI E CIA LTDA ME, SILVA-- ANA, (14) 3284-1529, , RUA 9 DE JULHO, CENTRO, PEDERNEIRAS, SP, 17280000, 53815783000128, True, 515001396111, , 1D, 24/06/2009, 24/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'515001396111'
+WHERE   CODIGO = _latin1'10476'' at line 20
+004471, ERNANI E CIA LTDA ME, SILVA-- ANA, (14) 3284-1529, , RUA 9 DE JULHO, CENTRO, PEDERNEIRAS, SP, 17280000, 53815783000128, True, 515001396111, , 1D, 24/06/2009, 24/06/2009
+004472, RUTE S. OLIVEIRA - ME, NFE - RUTE S. OLIVEIRA, (68) 3322-3116, , AV. RODRIGUES ALVES, CENTRO, CRUZEIRO DO SUL, AC, 69980000, 00817768000152, True, 0100332800187, , 1D, 24/07/2009, 24/07/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0100332800187'
+WHERE   CODIGO = _latin1'10477'' at line 20
+004472, RUTE S. OLIVEIRA - ME, NFE - RUTE S. OLIVEIRA, (68) 3322-3116, , AV. RODRIGUES ALVES, CENTRO, CRUZEIRO DO SUL, AC, 69980000, 00817768000152, True, 0100332800187, , 1D, 24/07/2009, 24/07/2009
+004474, GARCIA E SILVA LTDA EPP, NFE - GARCIA E SILVA, (67) 3247-1595, , RUA AMBROSINA PAES COELHO, CENTRO, COSTA RICA, MS, 79550000, 04612203000190, True, 283194804, , 1D, 24/06/2009, 24/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'283194804'
+WHERE   CODIGO = _latin1'10478'' at line 20
+004474, GARCIA E SILVA LTDA EPP, NFE - GARCIA E SILVA, (67) 3247-1595, , RUA AMBROSINA PAES COELHO, CENTRO, COSTA RICA, MS, 79550000, 04612203000190, True, 283194804, , 1D, 24/06/2009, 24/06/2009
+004476, JOZIA MENDES DA ROCHA EPP, NFE - JOZIA MENDES DA ROCHA EP, (16) 3342-5052, , AV. JAPAO, VILA SANTO ANDRE, IBITINGA, SP, 14940000, 00574435000140, True, 344047478113, , 1D, 29/06/2009, 29/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'344047478113'
+WHERE   CODIGO = _latin1'10479'' at line 20
+004476, JOZIA MENDES DA ROCHA EPP, NFE - JOZIA MENDES DA ROCHA EP, (16) 3342-5052, , AV. JAPAO, VILA SANTO ANDRE, IBITINGA, SP, 14940000, 00574435000140, True, 344047478113, , 1D, 29/06/2009, 29/06/2009
+004477, D.V.DINIZ, NFE - D.V. DINIZ, (84) 3215-8200, , RUA  PRESIDENTE BANDEIRA, ALECRIM, NATAL, RN, 59030000, 08537730000138, True, 200151916, , 1D, 29/04/2015, 30/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'200151916'
+WHERE   CODIGO = _latin1'10480'' at line 20
+004477, D.V.DINIZ, NFE - D.V. DINIZ, (84) 3215-8200, , RUA  PRESIDENTE BANDEIRA, ALECRIM, NATAL, RN, 59030000, 08537730000138, True, 200151916, , 1D, 29/04/2015, 30/06/2009
+004478, M.J.T.P DE AMORIM - ME, NFE - M.J.T.P. DE AMORIM - ME, (82) 3327-0229, , RUA DEPUTADO JOSE LAGES, PONTA VERDE, MACEIO, AL, 57035330, 10577511000124, True, 242159087, , 1D, 03/12/2010, 17/06/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'242159087'
+WHERE   CODIGO = _latin1'10481'' at line 20
+004478, M.J.T.P DE AMORIM - ME, NFE - M.J.T.P. DE AMORIM - ME, (82) 3327-0229, , RUA DEPUTADO JOSE LAGES, PONTA VERDE, MACEIO, AL, 57035330, 10577511000124, True, 242159087, , 1D, 03/12/2010, 17/06/2011
+004480, MARCOS TULIO NUNES DE OLIVEIRA ME, NFE - MARCOS TULIO N OLIVEIRA, (18) 3262-6377, , RUA FRANCISCO DE CESARE, VILA SAO VICENTE, PRESIDENTE BERNARDES, SP, 19300000, 06915669000190, True, 560066252112, , 1D, 24/06/2009, 24/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'560066252112'
+WHERE   CODIGO = _latin1'10482'' at line 20
+004480, MARCOS TULIO NUNES DE OLIVEIRA ME, NFE - MARCOS TULIO N OLIVEIRA, (18) 3262-6377, , RUA FRANCISCO DE CESARE, VILA SAO VICENTE, PRESIDENTE BERNARDES, SP, 19300000, 06915669000190, True, 560066252112, , 1D, 24/06/2009, 24/06/2009
+004481, BOTELHO PARRA E CIA LTDA, NFE - BOTELHO PARRA, (65) 3623-7878, , AV. ISAAC POVOAS, BOSQUE, CUIABA, MT, 78043300, 04623975000127, True, 132035790, , 1D, 06/03/2012, 16/04/2012
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'132035790'
+WHERE   CODIGO = _latin1'10483'' at line 20
+004481, BOTELHO PARRA E CIA LTDA, NFE - BOTELHO PARRA, (65) 3623-7878, , AV. ISAAC POVOAS, BOSQUE, CUIABA, MT, 78043300, 04623975000127, True, 132035790, , 1D, 06/03/2012, 16/04/2012
+004484, DAVID MORATO PRESENTES ME, , (44) 3252-1364, , PRACA MELLO PALHETA, CENTRO, NOVA ESPERANCA, PR, 87600000, 01710487000169, True, 9013382562, , 1D, 29/06/2009, 29/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'9013382562'
+WHERE   CODIGO = _latin1'10484'' at line 20
+004484, DAVID MORATO PRESENTES ME, , (44) 3252-1364, , PRACA MELLO PALHETA, CENTRO, NOVA ESPERANCA, PR, 87600000, 01710487000169, True, 9013382562, , 1D, 29/06/2009, 29/06/2009
+004493, NOVA EXPRESSAO GASTRONOMIA E ENTRETENIMENTO LTDA, , (54) 8119-0606, , RUA 13 DE MAIO, NSA SRA LOURDES, CAXIAS DO SUL, RS, 95084460, 08732887000114, True, 0290469465, , 1D, 26/06/2009, 26/06/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0290469465'
+WHERE   CODIGO = _latin1'10485'' at line 20
+004493, NOVA EXPRESSAO GASTRONOMIA E ENTRETENIMENTO LTDA, , (54) 8119-0606, , RUA 13 DE MAIO, NSA SRA LOURDES, CAXIAS DO SUL, RS, 95084460, 08732887000114, True, 0290469465, , 1D, 26/06/2009, 26/06/2009
+004494, FISA INCORPORADORA LTDA, NFE - FISA INCORPORADORA LTDA, (54) 3289-2300, , RUA SANTOS DUMONT, EXPOSICAO, CAXIAS DO SUL, RS, 95084390, 74127838000268, True, 0290428505, , 1D, 18/05/2011, 18/05/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0290428505'
+WHERE   CODIGO = _latin1'10486'' at line 20
+004494, FISA INCORPORADORA LTDA, NFE - FISA INCORPORADORA LTDA, (54) 3289-2300, , RUA SANTOS DUMONT, EXPOSICAO, CAXIAS DO SUL, RS, 95084390, 74127838000268, True, 0290428505, , 1D, 18/05/2011, 18/05/2011
+004497, B.F. BIANCINI HOTEL LTDA, BIANCA, (54) 3045-3665, , RUA LAVA PES, VILA VERGUEIRO, PASSO FUNDO, RS, 99010170, 07296563000118, True, 0910267626, , 1D, 01/07/2009, 01/07/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'0910267626'
+WHERE   CODIGO = _latin1'10487'' at line 20
+004497, B.F. BIANCINI HOTEL LTDA, BIANCA, (54) 3045-3665, , RUA LAVA PES, VILA VERGUEIRO, PASSO FUNDO, RS, 99010170, 07296563000118, True, 0910267626, , 1D, 01/07/2009, 01/07/2009
+004498, COPACABANA POSTO SEIS LANCHONETE LTDA, COPACABANA POSTO SEIS - VINICI, (21) 2522-7525, , AV. NOSSA SENHORA DE COPACABANA, COPACABANA, RIO DE JANEIRO, RJ, 22070011, 05496283000128, True, 77556729, , 1D, 20/07/2009, 20/07/2009
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'77556729'
+WHERE   CODIGO = _latin1'10488'' at line 20
+004498, COPACABANA POSTO SEIS LANCHONETE LTDA, COPACABANA POSTO SEIS - VINICI, (21) 2522-7525, , AV. NOSSA SENHORA DE COPACABANA, COPACABANA, RIO DE JANEIRO, RJ, 22070011, 05496283000128, True, 77556729, , 1D, 20/07/2009, 20/07/2009
+004499, NATUGRAN MARMORARIA ITAPETININGA LTDA ME, NFE- CRISTIANE MARIA DASSI, (15) 3373-3337, , RUA MARIA DO BONSUCESSO P. DE MORAES, VILA PROGRESSO, ITAPETININGA, SP, 18214570, 02088362000101, True, 371086090112, , 1D, 27/12/2011, 27/12/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'371086090112'
+WHERE   CODIGO = _latin1'10489'' at line 20
+004499, NATUGRAN MARMORARIA ITAPETININGA LTDA ME, NFE- CRISTIANE MARIA DASSI, (15) 3373-3337, , RUA MARIA DO BONSUCESSO P. DE MORAES, VILA PROGRESSO, ITAPETININGA, SP, 18214570, 02088362000101, True, 371086090112, , 1D, 27/12/2011, 27/12/2011
+004500, DOCE FLOR FEST DECORACOES LTDA, DOCE FLOR FEST - ABGAIL,  ERIC, (62) 3213-0115, , AV. ANHANGUERA, CENTRO, GOIANIA, GO, 74043011, 10796089000106, True, 104462280, , 1D, 11/10/2011, 11/10/2011
+FANTASIA Inválida, foram mantidos os valores originais para este campo
+Problema ao alterar cliente EOleException[MySQL][ODBC 5.1 Driver][mysqld-5.5.0-m2-community]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IE_RG = _latin1'104462280'
+WHERE   CODIGO = _latin1'10490'' at line 20
+004500, DOCE FLOR FEST DECORACOES LTDA, DOCE FLOR FEST - ABGAIL,  ERIC, (62) 3213-0115, , AV. ANHANGUERA, CENTRO, GOIANIA, GO, 74043011, 10796089000106, True, 104462280, , 1D, 11/10/2011, 11/10/2011
+CLIENTES IMPORTADOS COM SUCESSO EM...  18/09/2017 23:59:15
+GRAVANDO DADOS DAS FILIAIS... 
+DADOS DAS FILIAIS GERADO COM SUCESSO EM... 18/09/2017 23:59:15
+ATUALIZANDO COMPRA EM... 18/09/2017 23:59:15
+COMPRAS GERADAS COM SUCESSO EM... 19/09/2017 00:04:16
+ATUALIZAÇÃO FINALIZADA EM... 19/09/2017 00:04:48

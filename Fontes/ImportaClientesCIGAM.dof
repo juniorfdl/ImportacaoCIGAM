@@ -114,8 +114,8 @@ IncludeVerInfo=1
 AutoIncBuild=1
 MajorVer=2017
 MinorVer=11
-Release=11
-Build=0
+Release=12
+Build=13
 Debug=0
 PreRelease=0
 Special=0
@@ -126,7 +126,7 @@ CodePage=1252
 [Version Info Keys]
 CompanyName=
 FileDescription=
-FileVersion=2017.11.11.0
+FileVersion=2017.11.12.13
 InternalName=
 LegalCopyright=
 LegalTrademarks=
@@ -140,9 +140,6 @@ C:\Program Files (x86)\Borland\Delphi7\Projects\Bpl\ZDbc70.bpl=Zeos Low Level Da
 C:\Program Files (x86)\Borland\Delphi7\Projects\Bpl\ZPlain70.bpl=Zeos Plain Database API
 c:\program files (x86)\borland\delphi7\Projects\Bpl\xtradev7.bpl=Extra ReportBuilder Devices
 c:\program files (x86)\borland\delphi7\Bin\dclindy70.bpl=(Untitled)
-c:\program files (x86)\borland\delphi7\RBuilder\Lib\dclDAD107.bpl=ReportBuilder Data Access Environment
-c:\program files (x86)\borland\delphi7\RBuilder\Lib\dclRBU107.bpl=ReportBuilder Sample Components
-C:\Program Files (x86)\Borland\Delphi7\RBuilder\Lib\dclRBC107.bpl=ReportBuilder TeeChart 4.04 Components
 [HistoryLists\hlUnitAliases]
 Count=1
 Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;

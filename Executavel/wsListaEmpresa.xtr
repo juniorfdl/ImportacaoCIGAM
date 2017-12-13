@@ -1,0 +1,509 @@
+<XmlTransformation Version="1.0"><Transform Direction="ToCds"><SelectEach dest="DATAPACKET\ROWDATA\ROW" from="\geempres\reg"><Select dest="@codigoEmpresa" from="\codigoEmpresa"/><Select dest="@nomeCompleto" from="\nomeCompleto"/><Select dest="@contato" from="\contato"/><Select dest="@fone" from="\fone"/><Select dest="@faxFone" from="\faxFone"/><Select dest="@endereco" from="\endereco"/><Select dest="@bairro" from="\bairro"/><Select dest="@municipio" from="\municipio"/><Select dest="@uf" from="\uf"/><Select dest="@cep" from="\cep"/><Select dest="@cnpjCpf" from="\cnpjCpf"/><Select dest="@inscrito" from="\inscrito"/><Select dest="@inscricao" from="\inscricao"/><Select dest="@conceito" from="\conceito"/><Select dest="@codigoDivisao" from="\codigoDivisao"/><Select dest="@dataNascimento" from="\dataNascimento"/><Select dest="@ultimoMovimento" from="\ultimoMovimento"/><Select dest="@cadastro" from="\cadastro"/><Select dest="@codigoIndicacao" from="\codigoIndicacao"/><Select dest="@codigoRepresentante" from="\codigoRepresentante"/><Select dest="@percentualComissaoBaixa" from="\percentualComissaoBaixa"/><Select dest="@contabilCliente" from="\contabilCliente"/><Select dest="@codigoResponsavel" from="\codigoResponsavel"/><Select dest="@fantasia" from="\fantasia"/><Select dest="@pessoa" from="\pessoa"/><Select dest="@codigoContabilFornecedor" from="\codigoContabilFornecedor"/><Select dest="@codigoCondicaoPagamento" from="\codigoCondicaoPagamento"/><Select dest="@codigoTipoPagamento" from="\codigoTipoPagamento"/><Select dest="@codigoTipoOperacao" from="\codigoTipoOperacao"/><Select dest="@irrfAcumulado" from="\irrfAcumulado"/><Select dest="@tipoEmpresa" from="\tipoEmpresa"/><Select dest="@atividade" from="\atividade"/><Select dest="@funcionarios" from="\funcionarios"/><Select dest="@faturamento" from="\faturamento"/><Select dest="@limiteCredito" from="\limiteCredito"/><Select dest="@codigoMercado" from="\codigoMercado"/><Select dest="@codigoUsuarioModificacao" from="\codigoUsuarioModificacao"/><Select dest="@enviarCarta" from="\enviarCarta"/><Select dest="@tabelaPrecos" from="\tabelaPrecos"/><Select dest="@agendaInterna" from="\agendaInterna"/><Select dest="@codigoPais" from="\codigoPais"/><Select dest="@codigoCentralizadora" from="\codigoCentralizadora"/><Select dest="@atrasoMedio" from="\atrasoMedio"/><Select dest="@numero" from="\numero"/><Select dest="@complemento" from="\complemento"/><Select dest="@inscricaoMunicipal" from="\inscricaoMunicipal"/><Select dest="@suframa" from="\suframa"/><Select dest="@tipoFrete" from="\tipoFrete"/><Select dest="@percentualIndenizacao" from="\percentualIndenizacao"/><Select dest="@percDescontoSugestaoItens" from="\percDescontoSugestaoItens"/><Select dest="@percentualDesconto2" from="\percentualDesconto2"/><Select dest="@jurosPadrao" from="\jurosPadrao"/><Select dest="@ultimaAtualizacao" from="\ultimaAtualizacao"/><Select dest="@codigoUnidadeNegocio" from="\codigoUnidadeNegocio"/><Select dest="@portadorPadrao" from="\portadorPadrao"/><Select dest="@ativo" from="\ativo"/><Select dest="@sessao" from="\sessao"/><Select dest="@codigoContabilAdiantamentoCli" from="\codigoContabilAdiantamentoCli"/><Select dest="@codigoContabilAdiantamentoForn" from="\codigoContabilAdiantamentoForn"/><Select dest="@codigoCentroArmazenagem" from="\codigoCentroArmazenagem"/><Select dest="@codigoIndiceCredito" from="\codigoIndiceCredito"/><Select dest="@codigoUsuarioCriacao" from="\codigoUsuarioCriacao"/><Select dest="@dataModificacao" from="\dataModificacao"/><Select dest="@codigoRegiaoEntrega" from="\codigoRegiaoEntrega"/><Select dest="@dataValidadeCredito" from="\dataValidadeCredito"/><Select dest="@Cd_setor" from="\Cd_setor"/><Select dest="@codigoRegimeTriburario" from="\codigoRegimeTriburario"/><Select dest="@ultimaConsultaCredito" from="\ultimaConsultaCredito"/><Select dest="@validadeCobrancaAdmin" from="\validadeCobrancaAdmin"/><Select dest="@ultimaVenda" from="\ultimaVenda"/><Select dest="@prefixoCnae" from="\prefixoCnae"/><Select dest="@basePrazoDiferenciado" from="\basePrazoDiferenciado"/><Select dest="@possuiRetencaoIss" from="\possuiRetencaoIss"/><Select dest="@codigoCentroArmazenagemMatAlte" from="\codigoCentroArmazenagemMatAlte"/><Select dest="@filtroDataDirf" from="\filtroDataDirf"/><Select dest="@tipoImovel" from="\tipoImovel"/><Select dest="@listarIss" from="\listarIss"/><Select dest="@diaVencimento" from="\diaVencimento"/><Select dest="@limiteFaturamento" from="\limiteFaturamento"/><Select dest="@grauRelacionamento" from="\grauRelacionamento"/><Select dest="@sufixoCnae" from="\sufixoCnae"/><Select dest="@toleranciaVencimento" from="\toleranciaVencimento"/><Select dest="@nivelCredito" from="\nivelCredito"/><Select dest="@listarDirf" from="\listarDirf"/><Select dest="@conveniada" from="\conveniada"/><Select dest="@creditoLiberado" from="\creditoLiberado"/><Select dest="@percentualFrete" from="\percentualFrete"/><Select dest="@codigoEan" from="\codigoEan"/><Select dest="@percentualAcrescimoLimite" from="\percentualAcrescimoLimite"/><Select dest="@percentualAcrescimoPreco" from="\percentualAcrescimoPreco"/><Select dest="@utilizaPrazoDiferenciado" from="\utilizaPrazoDiferenciado"/><Select dest="@tgPadraoNfs" from="\tgPadraoNfs"/><Select dest="@limiteCreditoMensal" from="\limiteCreditoMensal"/><Select dest="@optanteSimples" from="\optanteSimples"/><Select dest="@Usrempr1" from="\Usrempr1"/><Select dest="@Usrempr2" from="\Usrempr2"/><Select dest="@cnaeServico" from="\cnaeServico"/><Select dest="@Usrempr4" from="\Usrempr4"/><Select dest="@valorFrete" from="\valorFrete"/></SelectEach></Transform><XmlSchema RootName="geempres"><![CDATA[<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="geempres" type="geempresType"/>
+  <xs:complexType name="geempresType">
+    <xs:sequence>
+      <xs:element name="reg" type="regType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="reg" type="regType"/>
+  <xs:complexType name="regType">
+    <xs:sequence>
+      <xs:element name="codigoEmpresa" type="codigoEmpresaType"/>
+      <xs:element name="nomeCompleto" type="nomeCompletoType"/>
+      <xs:element name="contato" type="contatoType"/>
+      <xs:element name="fone" type="foneType"/>
+      <xs:element name="faxFone" type="faxFoneType"/>
+      <xs:element name="endereco" type="enderecoType"/>
+      <xs:element name="bairro" type="bairroType"/>
+      <xs:element name="municipio" type="municipioType"/>
+      <xs:element name="uf" type="ufType"/>
+      <xs:element name="cep" type="cepType"/>
+      <xs:element name="cnpjCpf" type="cnpjCpfType"/>
+      <xs:element name="inscrito" type="inscritoType"/>
+      <xs:element name="inscricao" type="inscricaoType"/>
+      <xs:element name="conceito" type="conceitoType"/>
+      <xs:element name="codigoDivisao" type="codigoDivisaoType"/>
+      <xs:element name="dataNascimento" type="dataNascimentoType"/>
+      <xs:element name="ultimoMovimento" type="ultimoMovimentoType"/>
+      <xs:element name="cadastro" type="cadastroType"/>
+      <xs:element name="codigoIndicacao" type="codigoIndicacaoType"/>
+      <xs:element name="codigoRepresentante" type="codigoRepresentanteType"/>
+      <xs:element name="percentualComissaoBaixa" type="percentualComissaoBaixaType"/>
+      <xs:element name="contabilCliente" type="contabilClienteType"/>
+      <xs:element name="codigoResponsavel" type="codigoResponsavelType"/>
+      <xs:element name="fantasia" type="fantasiaType"/>
+      <xs:element name="pessoa" type="pessoaType"/>
+      <xs:element name="codigoContabilFornecedor" type="codigoContabilFornecedorType"/>
+      <xs:element name="codigoCondicaoPagamento" type="codigoCondicaoPagamentoType"/>
+      <xs:element name="codigoTipoPagamento" type="codigoTipoPagamentoType"/>
+      <xs:element name="codigoTipoOperacao" type="codigoTipoOperacaoType"/>
+      <xs:element name="irrfAcumulado" type="irrfAcumuladoType"/>
+      <xs:element name="tipoEmpresa" type="tipoEmpresaType"/>
+      <xs:element name="atividade" type="atividadeType"/>
+      <xs:element name="funcionarios" type="funcionariosType"/>
+      <xs:element name="faturamento" type="faturamentoType"/>
+      <xs:element name="limiteCredito" type="limiteCreditoType"/>
+      <xs:element name="codigoMercado" type="codigoMercadoType"/>
+      <xs:element name="codigoUsuarioModificacao" type="codigoUsuarioModificacaoType"/>
+      <xs:element name="enviarCarta" type="enviarCartaType"/>
+      <xs:element name="tabelaPrecos" type="tabelaPrecosType"/>
+      <xs:element name="agendaInterna" type="agendaInternaType"/>
+      <xs:element name="codigoPais" type="codigoPaisType"/>
+      <xs:element name="codigoCentralizadora" type="codigoCentralizadoraType"/>
+      <xs:element name="atrasoMedio" type="atrasoMedioType"/>
+      <xs:element name="numero" type="numeroType"/>
+      <xs:element name="complemento" type="complementoType"/>
+      <xs:element name="inscricaoMunicipal" type="inscricaoMunicipalType"/>
+      <xs:element name="suframa" type="suframaType"/>
+      <xs:element name="tipoFrete" type="tipoFreteType"/>
+      <xs:element name="percentualIndenizacao" type="percentualIndenizacaoType"/>
+      <xs:element name="percDescontoSugestaoItens" type="percDescontoSugestaoItensType"/>
+      <xs:element name="percentualDesconto2" type="percentualDesconto2Type"/>
+      <xs:element name="jurosPadrao" type="jurosPadraoType"/>
+      <xs:element name="ultimaAtualizacao" type="ultimaAtualizacaoType"/>
+      <xs:element name="codigoUnidadeNegocio" type="codigoUnidadeNegocioType"/>
+      <xs:element name="portadorPadrao" type="portadorPadraoType"/>
+      <xs:element name="ativo" type="ativoType"/>
+      <xs:element name="sessao" type="sessaoType"/>
+      <xs:element name="codigoContabilAdiantamentoCli" type="codigoContabilAdiantamentoCliType"/>
+      <xs:element name="codigoContabilAdiantamentoForn" type="codigoContabilAdiantamentoFornType"/>
+      <xs:element name="codigoCentroArmazenagem" type="codigoCentroArmazenagemType"/>
+      <xs:element name="codigoIndiceCredito" type="codigoIndiceCreditoType"/>
+      <xs:element name="codigoUsuarioCriacao" type="codigoUsuarioCriacaoType"/>
+      <xs:element name="dataModificacao" type="dataModificacaoType"/>
+      <xs:element name="codigoRegiaoEntrega" type="codigoRegiaoEntregaType"/>
+      <xs:element name="dataValidadeCredito" type="dataValidadeCreditoType"/>
+      <xs:element name="Cd_setor" type="Cd_setorType"/>
+      <xs:element name="codigoRegimeTriburario" type="codigoRegimeTriburarioType"/>
+      <xs:element name="ultimaConsultaCredito" type="ultimaConsultaCreditoType"/>
+      <xs:element name="validadeCobrancaAdmin" type="validadeCobrancaAdminType"/>
+      <xs:element name="ultimaVenda" type="ultimaVendaType"/>
+      <xs:element name="prefixoCnae" type="prefixoCnaeType"/>
+      <xs:element name="basePrazoDiferenciado" type="basePrazoDiferenciadoType"/>
+      <xs:element name="possuiRetencaoIss" type="possuiRetencaoIssType"/>
+      <xs:element name="codigoCentroArmazenagemMatAlte" type="codigoCentroArmazenagemMatAlteType"/>
+      <xs:element name="filtroDataDirf" type="filtroDataDirfType"/>
+      <xs:element name="tipoImovel" type="tipoImovelType"/>
+      <xs:element name="listarIss" type="listarIssType"/>
+      <xs:element name="diaVencimento" type="diaVencimentoType"/>
+      <xs:element name="limiteFaturamento" type="limiteFaturamentoType"/>
+      <xs:element name="grauRelacionamento" type="grauRelacionamentoType"/>
+      <xs:element name="sufixoCnae" type="sufixoCnaeType"/>
+      <xs:element name="toleranciaVencimento" type="toleranciaVencimentoType"/>
+      <xs:element name="nivelCredito" type="nivelCreditoType"/>
+      <xs:element name="listarDirf" type="listarDirfType"/>
+      <xs:element name="conveniada" type="conveniadaType"/>
+      <xs:element name="creditoLiberado" type="creditoLiberadoType"/>
+      <xs:element name="percentualFrete" type="percentualFreteType"/>
+      <xs:element name="codigoEan" type="codigoEanType"/>
+      <xs:element name="percentualAcrescimoLimite" type="percentualAcrescimoLimiteType"/>
+      <xs:element name="percentualAcrescimoPreco" type="percentualAcrescimoPrecoType"/>
+      <xs:element name="utilizaPrazoDiferenciado" type="utilizaPrazoDiferenciadoType"/>
+      <xs:element name="tgPadraoNfs" type="tgPadraoNfsType"/>
+      <xs:element name="limiteCreditoMensal" type="limiteCreditoMensalType"/>
+      <xs:element name="optanteSimples" type="optanteSimplesType"/>
+      <xs:element name="Usrempr1" type="Usrempr1Type"/>
+      <xs:element name="Usrempr2" type="Usrempr2Type"/>
+      <xs:element name="cnaeServico" type="cnaeServicoType"/>
+      <xs:element name="Usrempr4" type="Usrempr4Type"/>
+      <xs:element name="valorFrete" type="valorFreteType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="codigoEmpresa" type="codigoEmpresaType"/>
+  <xs:simpleType name="codigoEmpresaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="nomeCompleto" type="nomeCompletoType"/>
+  <xs:simpleType name="nomeCompletoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="contato" type="contatoType"/>
+  <xs:simpleType name="contatoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="fone" type="foneType"/>
+  <xs:simpleType name="foneType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="faxFone" type="faxFoneType"/>
+  <xs:simpleType name="faxFoneType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="endereco" type="enderecoType"/>
+  <xs:simpleType name="enderecoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="bairro" type="bairroType"/>
+  <xs:simpleType name="bairroType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="municipio" type="municipioType"/>
+  <xs:simpleType name="municipioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="uf" type="ufType"/>
+  <xs:simpleType name="ufType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="cep" type="cepType"/>
+  <xs:simpleType name="cepType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="cnpjCpf" type="cnpjCpfType"/>
+  <xs:simpleType name="cnpjCpfType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="inscrito" type="inscritoType"/>
+  <xs:simpleType name="inscritoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="inscricao" type="inscricaoType"/>
+  <xs:simpleType name="inscricaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="conceito" type="conceitoType"/>
+  <xs:simpleType name="conceitoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoDivisao" type="codigoDivisaoType"/>
+  <xs:simpleType name="codigoDivisaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="dataNascimento" type="dataNascimentoType"/>
+  <xs:simpleType name="dataNascimentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="ultimoMovimento" type="ultimoMovimentoType"/>
+  <xs:simpleType name="ultimoMovimentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="cadastro" type="cadastroType"/>
+  <xs:simpleType name="cadastroType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoIndicacao" type="codigoIndicacaoType"/>
+  <xs:simpleType name="codigoIndicacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoRepresentante" type="codigoRepresentanteType"/>
+  <xs:simpleType name="codigoRepresentanteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualComissaoBaixa" type="percentualComissaoBaixaType"/>
+  <xs:simpleType name="percentualComissaoBaixaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="contabilCliente" type="contabilClienteType"/>
+  <xs:simpleType name="contabilClienteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoResponsavel" type="codigoResponsavelType"/>
+  <xs:simpleType name="codigoResponsavelType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="fantasia" type="fantasiaType"/>
+  <xs:simpleType name="fantasiaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="pessoa" type="pessoaType"/>
+  <xs:simpleType name="pessoaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoContabilFornecedor" type="codigoContabilFornecedorType"/>
+  <xs:simpleType name="codigoContabilFornecedorType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoCondicaoPagamento" type="codigoCondicaoPagamentoType"/>
+  <xs:simpleType name="codigoCondicaoPagamentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoTipoPagamento" type="codigoTipoPagamentoType"/>
+  <xs:simpleType name="codigoTipoPagamentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoTipoOperacao" type="codigoTipoOperacaoType"/>
+  <xs:simpleType name="codigoTipoOperacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="irrfAcumulado" type="irrfAcumuladoType"/>
+  <xs:simpleType name="irrfAcumuladoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tipoEmpresa" type="tipoEmpresaType"/>
+  <xs:simpleType name="tipoEmpresaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="atividade" type="atividadeType"/>
+  <xs:simpleType name="atividadeType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="funcionarios" type="funcionariosType"/>
+  <xs:simpleType name="funcionariosType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="faturamento" type="faturamentoType"/>
+  <xs:simpleType name="faturamentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="limiteCredito" type="limiteCreditoType"/>
+  <xs:simpleType name="limiteCreditoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoMercado" type="codigoMercadoType"/>
+  <xs:simpleType name="codigoMercadoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoUsuarioModificacao" type="codigoUsuarioModificacaoType"/>
+  <xs:simpleType name="codigoUsuarioModificacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="enviarCarta" type="enviarCartaType"/>
+  <xs:simpleType name="enviarCartaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tabelaPrecos" type="tabelaPrecosType"/>
+  <xs:simpleType name="tabelaPrecosType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="agendaInterna" type="agendaInternaType"/>
+  <xs:simpleType name="agendaInternaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoPais" type="codigoPaisType"/>
+  <xs:simpleType name="codigoPaisType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoCentralizadora" type="codigoCentralizadoraType"/>
+  <xs:simpleType name="codigoCentralizadoraType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="atrasoMedio" type="atrasoMedioType"/>
+  <xs:simpleType name="atrasoMedioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="numero" type="numeroType"/>
+  <xs:simpleType name="numeroType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="complemento" type="complementoType"/>
+  <xs:simpleType name="complementoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="inscricaoMunicipal" type="inscricaoMunicipalType"/>
+  <xs:simpleType name="inscricaoMunicipalType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="suframa" type="suframaType"/>
+  <xs:simpleType name="suframaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tipoFrete" type="tipoFreteType"/>
+  <xs:simpleType name="tipoFreteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualIndenizacao" type="percentualIndenizacaoType"/>
+  <xs:simpleType name="percentualIndenizacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percDescontoSugestaoItens" type="percDescontoSugestaoItensType"/>
+  <xs:simpleType name="percDescontoSugestaoItensType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualDesconto2" type="percentualDesconto2Type"/>
+  <xs:simpleType name="percentualDesconto2Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="jurosPadrao" type="jurosPadraoType"/>
+  <xs:simpleType name="jurosPadraoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="ultimaAtualizacao" type="ultimaAtualizacaoType"/>
+  <xs:simpleType name="ultimaAtualizacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoUnidadeNegocio" type="codigoUnidadeNegocioType"/>
+  <xs:simpleType name="codigoUnidadeNegocioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="portadorPadrao" type="portadorPadraoType"/>
+  <xs:simpleType name="portadorPadraoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="ativo" type="ativoType"/>
+  <xs:simpleType name="ativoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="sessao" type="sessaoType"/>
+  <xs:simpleType name="sessaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoContabilAdiantamentoCli" type="codigoContabilAdiantamentoCliType"/>
+  <xs:simpleType name="codigoContabilAdiantamentoCliType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoContabilAdiantamentoForn" type="codigoContabilAdiantamentoFornType"/>
+  <xs:simpleType name="codigoContabilAdiantamentoFornType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoCentroArmazenagem" type="codigoCentroArmazenagemType"/>
+  <xs:simpleType name="codigoCentroArmazenagemType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoIndiceCredito" type="codigoIndiceCreditoType"/>
+  <xs:simpleType name="codigoIndiceCreditoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoUsuarioCriacao" type="codigoUsuarioCriacaoType"/>
+  <xs:simpleType name="codigoUsuarioCriacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="dataModificacao" type="dataModificacaoType"/>
+  <xs:simpleType name="dataModificacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoRegiaoEntrega" type="codigoRegiaoEntregaType"/>
+  <xs:simpleType name="codigoRegiaoEntregaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="dataValidadeCredito" type="dataValidadeCreditoType"/>
+  <xs:simpleType name="dataValidadeCreditoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="Cd_setor" type="Cd_setorType"/>
+  <xs:simpleType name="Cd_setorType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoRegimeTriburario" type="codigoRegimeTriburarioType"/>
+  <xs:simpleType name="codigoRegimeTriburarioType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="ultimaConsultaCredito" type="ultimaConsultaCreditoType"/>
+  <xs:simpleType name="ultimaConsultaCreditoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="validadeCobrancaAdmin" type="validadeCobrancaAdminType"/>
+  <xs:simpleType name="validadeCobrancaAdminType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="ultimaVenda" type="ultimaVendaType"/>
+  <xs:simpleType name="ultimaVendaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="prefixoCnae" type="prefixoCnaeType"/>
+  <xs:simpleType name="prefixoCnaeType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="basePrazoDiferenciado" type="basePrazoDiferenciadoType"/>
+  <xs:simpleType name="basePrazoDiferenciadoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="possuiRetencaoIss" type="possuiRetencaoIssType"/>
+  <xs:simpleType name="possuiRetencaoIssType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoCentroArmazenagemMatAlte" type="codigoCentroArmazenagemMatAlteType"/>
+  <xs:simpleType name="codigoCentroArmazenagemMatAlteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="filtroDataDirf" type="filtroDataDirfType"/>
+  <xs:simpleType name="filtroDataDirfType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tipoImovel" type="tipoImovelType"/>
+  <xs:simpleType name="tipoImovelType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="listarIss" type="listarIssType"/>
+  <xs:simpleType name="listarIssType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="diaVencimento" type="diaVencimentoType"/>
+  <xs:simpleType name="diaVencimentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="limiteFaturamento" type="limiteFaturamentoType"/>
+  <xs:simpleType name="limiteFaturamentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="grauRelacionamento" type="grauRelacionamentoType"/>
+  <xs:simpleType name="grauRelacionamentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="sufixoCnae" type="sufixoCnaeType"/>
+  <xs:simpleType name="sufixoCnaeType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="toleranciaVencimento" type="toleranciaVencimentoType"/>
+  <xs:simpleType name="toleranciaVencimentoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="nivelCredito" type="nivelCreditoType"/>
+  <xs:simpleType name="nivelCreditoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="listarDirf" type="listarDirfType"/>
+  <xs:simpleType name="listarDirfType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="conveniada" type="conveniadaType"/>
+  <xs:simpleType name="conveniadaType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="creditoLiberado" type="creditoLiberadoType"/>
+  <xs:simpleType name="creditoLiberadoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualFrete" type="percentualFreteType"/>
+  <xs:simpleType name="percentualFreteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoEan" type="codigoEanType"/>
+  <xs:simpleType name="codigoEanType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualAcrescimoLimite" type="percentualAcrescimoLimiteType"/>
+  <xs:simpleType name="percentualAcrescimoLimiteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="percentualAcrescimoPreco" type="percentualAcrescimoPrecoType"/>
+  <xs:simpleType name="percentualAcrescimoPrecoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="utilizaPrazoDiferenciado" type="utilizaPrazoDiferenciadoType"/>
+  <xs:simpleType name="utilizaPrazoDiferenciadoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="tgPadraoNfs" type="tgPadraoNfsType"/>
+  <xs:simpleType name="tgPadraoNfsType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="limiteCreditoMensal" type="limiteCreditoMensalType"/>
+  <xs:simpleType name="limiteCreditoMensalType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="optanteSimples" type="optanteSimplesType"/>
+  <xs:simpleType name="optanteSimplesType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="Usrempr1" type="Usrempr1Type"/>
+  <xs:simpleType name="Usrempr1Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="Usrempr2" type="Usrempr2Type"/>
+  <xs:simpleType name="Usrempr2Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="cnaeServico" type="cnaeServicoType"/>
+  <xs:simpleType name="cnaeServicoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="Usrempr4" type="Usrempr4Type"/>
+  <xs:simpleType name="Usrempr4Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="valorFrete" type="valorFreteType"/>
+  <xs:simpleType name="valorFreteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+</xs:schema>]]></XmlSchema><CdsSkeleton/><XslTransform/><Skeleton><![CDATA[<?xml version="1.0"?><DATAPACKET Version="2.0"><METADATA><FIELDS><FIELD attrname="codigoEmpresa" fieldtype="string" WIDTH="6"/><FIELD attrname="nomeCompleto" fieldtype="string" WIDTH="60"/><FIELD attrname="contato" fieldtype="string" WIDTH="30"/><FIELD attrname="fone" fieldtype="string" WIDTH="19"/><FIELD attrname="faxFone" fieldtype="string" WIDTH="20"/><FIELD attrname="endereco" fieldtype="string" WIDTH="40"/><FIELD attrname="bairro" fieldtype="string" WIDTH="20"/><FIELD attrname="municipio" fieldtype="string" WIDTH="29"/><FIELD attrname="uf" fieldtype="string" WIDTH="2"/><FIELD attrname="cep" fieldtype="string" WIDTH="8"/><FIELD attrname="cnpjCpf" fieldtype="string" WIDTH="14"/><FIELD attrname="inscrito" fieldtype="string" WIDTH="5"/><FIELD attrname="inscricao" fieldtype="string" WIDTH="20"/><FIELD attrname="conceito" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoDivisao" fieldtype="string" WIDTH="2"/><FIELD attrname="dataNascimento" fieldtype="string" WIDTH="10"/><FIELD attrname="ultimoMovimento" fieldtype="string" WIDTH="10"/><FIELD attrname="cadastro" fieldtype="string" WIDTH="10"/><FIELD attrname="codigoIndicacao" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoRepresentante" fieldtype="string" WIDTH="32"/><FIELD attrname="percentualComissaoBaixa" fieldtype="string" WIDTH="2"/><FIELD attrname="contabilCliente" fieldtype="string" WIDTH="3"/><FIELD attrname="codigoResponsavel" fieldtype="string" WIDTH="32"/><FIELD attrname="fantasia" fieldtype="string" WIDTH="20"/><FIELD attrname="pessoa" fieldtype="string" WIDTH="5"/><FIELD attrname="codigoContabilFornecedor" fieldtype="string" WIDTH="4"/><FIELD attrname="codigoCondicaoPagamento" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoTipoPagamento" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoTipoOperacao" fieldtype="string" WIDTH="32"/><FIELD attrname="irrfAcumulado" fieldtype="string" WIDTH="1"/><FIELD attrname="tipoEmpresa" fieldtype="string" WIDTH="32"/><FIELD attrname="atividade" fieldtype="string" WIDTH="3"/><FIELD attrname="funcionarios" fieldtype="string" WIDTH="1"/><FIELD attrname="faturamento" fieldtype="string" WIDTH="1"/><FIELD attrname="limiteCredito" fieldtype="string" WIDTH="5"/><FIELD attrname="codigoMercado" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoUsuarioModificacao" fieldtype="string" WIDTH="3"/><FIELD attrname="enviarCarta" fieldtype="string" WIDTH="1"/><FIELD attrname="tabelaPrecos" fieldtype="string" WIDTH="32"/><FIELD attrname="agendaInterna" fieldtype="string" WIDTH="6"/><FIELD attrname="codigoPais" fieldtype="string" WIDTH="3"/><FIELD attrname="codigoCentralizadora" fieldtype="string" WIDTH="6"/><FIELD attrname="atrasoMedio" fieldtype="string" WIDTH="1"/><FIELD attrname="numero" fieldtype="string" WIDTH="10"/><FIELD attrname="complemento" fieldtype="string" WIDTH="32"/><FIELD attrname="inscricaoMunicipal" fieldtype="string" WIDTH="32"/><FIELD attrname="suframa" fieldtype="string" WIDTH="32"/><FIELD attrname="tipoFrete" fieldtype="string" WIDTH="32"/><FIELD attrname="percentualIndenizacao" fieldtype="string" WIDTH="2"/><FIELD attrname="percDescontoSugestaoItens" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualDesconto2" fieldtype="string" WIDTH="1"/><FIELD attrname="jurosPadrao" fieldtype="string" WIDTH="1"/><FIELD attrname="ultimaAtualizacao" fieldtype="string" WIDTH="10"/><FIELD attrname="codigoUnidadeNegocio" fieldtype="string" WIDTH="1"/><FIELD attrname="portadorPadrao" fieldtype="string" WIDTH="32"/><FIELD attrname="ativo" fieldtype="string" WIDTH="5"/><FIELD attrname="sessao" fieldtype="string" WIDTH="6"/><FIELD attrname="codigoContabilAdiantamentoCli" fieldtype="string" WIDTH="4"/><FIELD attrname="codigoContabilAdiantamentoForn" fieldtype="string" WIDTH="3"/><FIELD attrname="codigoCentroArmazenagem" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoIndiceCredito" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoUsuarioCriacao" fieldtype="string" WIDTH="3"/><FIELD attrname="dataModificacao" fieldtype="string" WIDTH="10"/><FIELD attrname="codigoRegiaoEntrega" fieldtype="string" WIDTH="32"/><FIELD attrname="dataValidadeCredito" fieldtype="string" WIDTH="10"/><FIELD attrname="Cd_setor" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoRegimeTriburario" fieldtype="string" WIDTH="32"/><FIELD attrname="ultimaConsultaCredito" fieldtype="string" WIDTH="4"/><FIELD attrname="validadeCobrancaAdmin" fieldtype="string" WIDTH="4"/><FIELD attrname="ultimaVenda" fieldtype="string" WIDTH="10"/><FIELD attrname="prefixoCnae" fieldtype="string" WIDTH="32"/><FIELD attrname="basePrazoDiferenciado" fieldtype="string" WIDTH="1"/><FIELD attrname="possuiRetencaoIss" fieldtype="string" WIDTH="1"/><FIELD attrname="codigoCentroArmazenagemMatAlte" fieldtype="string" WIDTH="32"/><FIELD attrname="filtroDataDirf" fieldtype="string" WIDTH="32"/><FIELD attrname="tipoImovel" fieldtype="string" WIDTH="32"/><FIELD attrname="listarIss" fieldtype="string" WIDTH="32"/><FIELD attrname="diaVencimento" fieldtype="string" WIDTH="2"/><FIELD attrname="limiteFaturamento" fieldtype="string" WIDTH="2"/><FIELD attrname="grauRelacionamento" fieldtype="string" WIDTH="32"/><FIELD attrname="sufixoCnae" fieldtype="string" WIDTH="32"/><FIELD attrname="toleranciaVencimento" fieldtype="string" WIDTH="32"/><FIELD attrname="nivelCredito" fieldtype="string" WIDTH="32"/><FIELD attrname="listarDirf" fieldtype="string" WIDTH="5"/><FIELD attrname="conveniada" fieldtype="string" WIDTH="5"/><FIELD attrname="creditoLiberado" fieldtype="string" WIDTH="5"/><FIELD attrname="percentualFrete" fieldtype="string" WIDTH="1"/><FIELD attrname="codigoEan" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualAcrescimoLimite" fieldtype="string" WIDTH="2"/><FIELD attrname="percentualAcrescimoPreco" fieldtype="string" WIDTH="1"/><FIELD attrname="utilizaPrazoDiferenciado" fieldtype="string" WIDTH="1"/><FIELD attrname="tgPadraoNfs" fieldtype="string" WIDTH="3"/><FIELD attrname="limiteCreditoMensal" fieldtype="string" WIDTH="1"/><FIELD attrname="optanteSimples" fieldtype="string" WIDTH="1"/><FIELD attrname="Usrempr1" fieldtype="string" WIDTH="6"/><FIELD attrname="Usrempr2" fieldtype="string" WIDTH="32"/><FIELD attrname="cnaeServico" fieldtype="string" WIDTH="32"/><FIELD attrname="Usrempr4" fieldtype="string" WIDTH="4"/><FIELD attrname="valorFrete" fieldtype="string" WIDTH="1"/></FIELDS><PARAMS/></METADATA><ROWDATA/><METADATA><FIELDS><FIELD attrname="codigoEmpresa" fieldtype="string" WIDTH="6"/><FIELD attrname="nomeCompleto" fieldtype="string" WIDTH="60"/><FIELD attrname="contato" fieldtype="string" WIDTH="30"/><FIELD attrname="fone" fieldtype="string" WIDTH="19"/><FIELD attrname="faxFone" fieldtype="string" WIDTH="20"/><FIELD attrname="endereco" fieldtype="string" WIDTH="40"/><FIELD attrname="bairro" fieldtype="string" WIDTH="20"/><FIELD attrname="municipio" fieldtype="string" WIDTH="29"/><FIELD attrname="uf" fieldtype="string" WIDTH="2"/><FIELD attrname="cep" fieldtype="string" WIDTH="8"/><FIELD attrname="cnpjCpf" fieldtype="string" WIDTH="14"/><FIELD attrname="inscrito" fieldtype="string" WIDTH="5"/><FIELD attrname="inscricao" fieldtype="string" WIDTH="20"/><FIELD attrname="conceito" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoDivisao" fieldtype="string" WIDTH="2"/><FIELD attrname="dataNascimento" fieldtype="string" WIDTH="10"/><FIELD attrname="ultimoMovimento" fieldtype="string" WIDTH="10"/><FIELD attrname="cadastro" fieldtype="string" WIDTH="10"/><FIELD attrname="codigoIndicacao" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoRepresentante" fieldtype="string" WIDTH="32"/><FIELD attrname="percentualComissaoBaixa" fieldtype="string" WIDTH="2"/><FIELD attrname="contabilCliente" fieldtype="string" WIDTH="3"/><FIELD attrname="codigoResponsavel" fieldtype="string" WIDTH="32"/><FIELD attrname="fantasia" fieldtype="string" WIDTH="20"/><FIELD attrname="pessoa" fieldtype="string" WIDTH="5"/><FIELD attrname="codigoContabilFornecedor" fieldtype="string" WIDTH="4"/><FIELD attrname="codigoCondicaoPagamento" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoTipoPagamento" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoTipoOperacao" fieldtype="string" WIDTH="32"/><FIELD attrname="irrfAcumulado" fieldtype="string" WIDTH="1"/><FIELD attrname="tipoEmpresa" fieldtype="string" WIDTH="32"/><FIELD attrname="atividade" fieldtype="string" WIDTH="3"/><FIELD attrname="funcionarios" fieldtype="string" WIDTH="1"/><FIELD attrname="faturamento" fieldtype="string" WIDTH="1"/><FIELD attrname="limiteCredito" fieldtype="string" WIDTH="5"/><FIELD attrname="codigoMercado" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoUsuarioModificacao" fieldtype="string" WIDTH="3"/><FIELD attrname="enviarCarta" fieldtype="string" WIDTH="1"/><FIELD attrname="tabelaPrecos" fieldtype="string" WIDTH="32"/><FIELD attrname="agendaInterna" fieldtype="string" WIDTH="6"/><FIELD attrname="codigoPais" fieldtype="string" WIDTH="3"/><FIELD attrname="codigoCentralizadora" fieldtype="string" WIDTH="6"/><FIELD attrname="atrasoMedio" fieldtype="string" WIDTH="1"/><FIELD attrname="numero" fieldtype="string" WIDTH="10"/><FIELD attrname="complemento" fieldtype="string" WIDTH="32"/><FIELD attrname="inscricaoMunicipal" fieldtype="string" WIDTH="32"/><FIELD attrname="suframa" fieldtype="string" WIDTH="32"/><FIELD attrname="tipoFrete" fieldtype="string" WIDTH="32"/><FIELD attrname="percentualIndenizacao" fieldtype="string" WIDTH="2"/><FIELD attrname="percDescontoSugestaoItens" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualDesconto2" fieldtype="string" WIDTH="1"/><FIELD attrname="jurosPadrao" fieldtype="string" WIDTH="1"/><FIELD attrname="ultimaAtualizacao" fieldtype="string" WIDTH="10"/><FIELD attrname="codigoUnidadeNegocio" fieldtype="string" WIDTH="1"/><FIELD attrname="portadorPadrao" fieldtype="string" WIDTH="32"/><FIELD attrname="ativo" fieldtype="string" WIDTH="5"/><FIELD attrname="sessao" fieldtype="string" WIDTH="6"/><FIELD attrname="codigoContabilAdiantamentoCli" fieldtype="string" WIDTH="4"/><FIELD attrname="codigoContabilAdiantamentoForn" fieldtype="string" WIDTH="3"/><FIELD attrname="codigoCentroArmazenagem" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoIndiceCredito" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoUsuarioCriacao" fieldtype="string" WIDTH="3"/><FIELD attrname="dataModificacao" fieldtype="string" WIDTH="10"/><FIELD attrname="codigoRegiaoEntrega" fieldtype="string" WIDTH="32"/><FIELD attrname="dataValidadeCredito" fieldtype="string" WIDTH="10"/><FIELD attrname="Cd_setor" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoRegimeTriburario" fieldtype="string" WIDTH="32"/><FIELD attrname="ultimaConsultaCredito" fieldtype="string" WIDTH="4"/><FIELD attrname="validadeCobrancaAdmin" fieldtype="string" WIDTH="4"/><FIELD attrname="ultimaVenda" fieldtype="string" WIDTH="10"/><FIELD attrname="prefixoCnae" fieldtype="string" WIDTH="32"/><FIELD attrname="basePrazoDiferenciado" fieldtype="string" WIDTH="1"/><FIELD attrname="possuiRetencaoIss" fieldtype="string" WIDTH="1"/><FIELD attrname="codigoCentroArmazenagemMatAlte" fieldtype="string" WIDTH="32"/><FIELD attrname="filtroDataDirf" fieldtype="string" WIDTH="32"/><FIELD attrname="tipoImovel" fieldtype="string" WIDTH="32"/><FIELD attrname="listarIss" fieldtype="string" WIDTH="32"/><FIELD attrname="diaVencimento" fieldtype="string" WIDTH="2"/><FIELD attrname="limiteFaturamento" fieldtype="string" WIDTH="2"/><FIELD attrname="grauRelacionamento" fieldtype="string" WIDTH="32"/><FIELD attrname="sufixoCnae" fieldtype="string" WIDTH="32"/><FIELD attrname="toleranciaVencimento" fieldtype="string" WIDTH="32"/><FIELD attrname="nivelCredito" fieldtype="string" WIDTH="32"/><FIELD attrname="listarDirf" fieldtype="string" WIDTH="5"/><FIELD attrname="conveniada" fieldtype="string" WIDTH="5"/><FIELD attrname="creditoLiberado" fieldtype="string" WIDTH="5"/><FIELD attrname="percentualFrete" fieldtype="string" WIDTH="1"/><FIELD attrname="codigoEan" fieldtype="string" WIDTH="1"/><FIELD attrname="percentualAcrescimoLimite" fieldtype="string" WIDTH="2"/><FIELD attrname="percentualAcrescimoPreco" fieldtype="string" WIDTH="1"/><FIELD attrname="utilizaPrazoDiferenciado" fieldtype="string" WIDTH="1"/><FIELD attrname="tgPadraoNfs" fieldtype="string" WIDTH="3"/><FIELD attrname="limiteCreditoMensal" fieldtype="string" WIDTH="1"/><FIELD attrname="optanteSimples" fieldtype="string" WIDTH="1"/><FIELD attrname="Usrempr1" fieldtype="string" WIDTH="6"/><FIELD attrname="Usrempr2" fieldtype="string" WIDTH="32"/><FIELD attrname="cnaeServico" fieldtype="string" WIDTH="32"/><FIELD attrname="Usrempr4" fieldtype="string" WIDTH="4"/><FIELD attrname="valorFrete" fieldtype="string" WIDTH="1"/></FIELDS><PARAMS/></METADATA><ROWDATA/></DATAPACKET>
+]]></Skeleton></XmlTransformation>

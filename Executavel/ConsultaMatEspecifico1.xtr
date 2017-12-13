@@ -1,0 +1,88 @@
+<XmlTransformation Version="1.0"><Transform Direction="ToCds" DataEncoding="utf-8"><SelectEach dest="DATAPACKET\ROWDATA\ROW" from="\reg"><Select dest="@codigoEspecif1" from="\codigoEspecif1"/><Select dest="@codigoGrupo" from="\codigoGrupo"/><Select dest="@codigoSubGrupo" from="\codigoSubGrupo"/><Select dest="@descricao" from="\descricao"/><Select dest="@formaCodigo" from="\formaCodigo"/><Select dest="@formaDescricao" from="\formaDescricao"/><Select dest="@indenpendente" from="\indenpendente"/><Select dest="@controlaEstoque" from="\controlaEstoque"/><Select dest="@codigoUsuarioModificacao" from="\codigoUsuarioModificacao"/><Select dest="@codigoUsuarioCriacao" from="\codigoUsuarioCriacao"/><Select dest="@dataModificacao" from="\dataModificacao"/><Select dest="@mascara" from="\mascara"/><Select dest="@codigoSubGrupoFiltro" from="\codigoSubGrupoFiltro"/><Select dest="@usresp11" from="\usresp11"/><Select dest="@usresp12" from="\usresp12"/><Select dest="@usresp13" from="\usresp13"/></SelectEach></Transform><XmlSchema RootName="reg"><![CDATA[<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="reg" type="regType"/>
+  <xs:complexType name="regType">
+    <xs:sequence>
+      <xs:element name="codigoEspecif1" type="codigoEspecif1Type"/>
+      <xs:element name="codigoGrupo" type="codigoGrupoType"/>
+      <xs:element name="codigoSubGrupo" type="codigoSubGrupoType"/>
+      <xs:element name="descricao" type="descricaoType"/>
+      <xs:element name="formaCodigo" type="formaCodigoType"/>
+      <xs:element name="formaDescricao" type="formaDescricaoType"/>
+      <xs:element name="indenpendente" type="indenpendenteType"/>
+      <xs:element name="controlaEstoque" type="controlaEstoqueType"/>
+      <xs:element name="codigoUsuarioModificacao" type="codigoUsuarioModificacaoType"/>
+      <xs:element name="codigoUsuarioCriacao" type="codigoUsuarioCriacaoType"/>
+      <xs:element name="dataModificacao" type="dataModificacaoType"/>
+      <xs:element name="mascara" type="mascaraType"/>
+      <xs:element name="codigoSubGrupoFiltro" type="codigoSubGrupoFiltroType"/>
+      <xs:element name="usresp11" type="usresp11Type"/>
+      <xs:element name="usresp12" type="usresp12Type"/>
+      <xs:element name="usresp13" type="usresp13Type"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="codigoEspecif1" type="codigoEspecif1Type"/>
+  <xs:simpleType name="codigoEspecif1Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoGrupo" type="codigoGrupoType"/>
+  <xs:simpleType name="codigoGrupoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoSubGrupo" type="codigoSubGrupoType"/>
+  <xs:simpleType name="codigoSubGrupoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="descricao" type="descricaoType"/>
+  <xs:simpleType name="descricaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="formaCodigo" type="formaCodigoType"/>
+  <xs:simpleType name="formaCodigoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="formaDescricao" type="formaDescricaoType"/>
+  <xs:simpleType name="formaDescricaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="indenpendente" type="indenpendenteType"/>
+  <xs:simpleType name="indenpendenteType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="controlaEstoque" type="controlaEstoqueType"/>
+  <xs:simpleType name="controlaEstoqueType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoUsuarioModificacao" type="codigoUsuarioModificacaoType"/>
+  <xs:simpleType name="codigoUsuarioModificacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoUsuarioCriacao" type="codigoUsuarioCriacaoType"/>
+  <xs:simpleType name="codigoUsuarioCriacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="dataModificacao" type="dataModificacaoType"/>
+  <xs:simpleType name="dataModificacaoType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="mascara" type="mascaraType"/>
+  <xs:simpleType name="mascaraType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="codigoSubGrupoFiltro" type="codigoSubGrupoFiltroType"/>
+  <xs:simpleType name="codigoSubGrupoFiltroType">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="usresp11" type="usresp11Type"/>
+  <xs:simpleType name="usresp11Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="usresp12" type="usresp12Type"/>
+  <xs:simpleType name="usresp12Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="usresp13" type="usresp13Type"/>
+  <xs:simpleType name="usresp13Type">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+</xs:schema>]]></XmlSchema><CdsSkeleton/><XslTransform/><Skeleton><![CDATA[<?xml version="1.0"?><DATAPACKET Version="2.0"><METADATA><FIELDS><FIELD attrname="codigoEspecif1" fieldtype="string" WIDTH="6"/><FIELD attrname="codigoGrupo" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoSubGrupo" fieldtype="string" WIDTH="32"/><FIELD attrname="descricao" fieldtype="string" WIDTH="40"/><FIELD attrname="formaCodigo" fieldtype="string" WIDTH="5"/><FIELD attrname="formaDescricao" fieldtype="string" WIDTH="5"/><FIELD attrname="indenpendente" fieldtype="string" WIDTH="5"/><FIELD attrname="controlaEstoque" fieldtype="string" WIDTH="5"/><FIELD attrname="codigoUsuarioModificacao" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoUsuarioCriacao" fieldtype="string" WIDTH="32"/><FIELD attrname="dataModificacao" fieldtype="string" WIDTH="4"/><FIELD attrname="mascara" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoSubGrupoFiltro" fieldtype="string" WIDTH="32"/><FIELD attrname="usresp11" fieldtype="string" WIDTH="32"/><FIELD attrname="usresp12" fieldtype="string" WIDTH="1"/><FIELD attrname="usresp13" fieldtype="string" WIDTH="4"/></FIELDS><PARAMS/></METADATA><ROWDATA/><METADATA><FIELDS><FIELD attrname="codigoEspecif1" fieldtype="string" WIDTH="6"/><FIELD attrname="codigoGrupo" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoSubGrupo" fieldtype="string" WIDTH="32"/><FIELD attrname="descricao" fieldtype="string" WIDTH="40"/><FIELD attrname="formaCodigo" fieldtype="string" WIDTH="5"/><FIELD attrname="formaDescricao" fieldtype="string" WIDTH="5"/><FIELD attrname="indenpendente" fieldtype="string" WIDTH="5"/><FIELD attrname="controlaEstoque" fieldtype="string" WIDTH="5"/><FIELD attrname="codigoUsuarioModificacao" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoUsuarioCriacao" fieldtype="string" WIDTH="32"/><FIELD attrname="dataModificacao" fieldtype="string" WIDTH="4"/><FIELD attrname="mascara" fieldtype="string" WIDTH="32"/><FIELD attrname="codigoSubGrupoFiltro" fieldtype="string" WIDTH="32"/><FIELD attrname="usresp11" fieldtype="string" WIDTH="32"/><FIELD attrname="usresp12" fieldtype="string" WIDTH="1"/><FIELD attrname="usresp13" fieldtype="string" WIDTH="4"/></FIELDS><PARAMS/></METADATA><ROWDATA/></DATAPACKET>
+]]></Skeleton></XmlTransformation>

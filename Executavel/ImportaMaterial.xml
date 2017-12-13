@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://webservices.cigam.com/" xmlns:types="http://webservices.cigam.com/encodedTypes" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body soap:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+    <tns:ListarIndividual>
+      <pin xsi:type="xsd:string">001</pin>
+      <codigoMaterial xsi:type="xsd:string">00274</codigoMaterial>
+    </tns:ListarIndividual>
+  </soap:Body>
+</soap:Envelope>

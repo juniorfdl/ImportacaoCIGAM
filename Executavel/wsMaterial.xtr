@@ -1,0 +1,36 @@
+<XmlTransformation Version="1.0"><Transform Direction="ToCds" DataEncoding="utf-8"><SelectEach dest="DATAPACKET\ROWDATA\ROW" from="\soap:Envelope\soap:Body\tns:ListarIndividual"><Select dest="@pin" from="\pin"/><Select dest="@codigoMaterial" from="\codigoMaterial"/></SelectEach></Transform><XmlSchema RootName="Envelope"><![CDATA[<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Envelope" type="EnvelopeType"/>
+  <xs:complexType name="EnvelopeType">
+    <xs:sequence>
+      <xs:element name="soap:Body" type="soap:BodyType"/>
+    </xs:sequence>
+    <xs:attribute name="xmlns:xsi" type="xs:string"/>
+    <xs:attribute name="xmlns:xsd" type="xs:string"/>
+    <xs:attribute name="xmlns:soapenc" type="xs:string"/>
+    <xs:attribute name="xmlns:tns" type="xs:string"/>
+    <xs:attribute name="xmlns:types" type="xs:string"/>
+    <xs:attribute name="xmlns:soap" type="xs:string"/>
+  </xs:complexType>
+  <xs:element name="Body" type="BodyType"/>
+  <xs:complexType name="BodyType">
+    <xs:sequence>
+      <xs:element name="tns:ListarIndividual" type="tns:ListarIndividualType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ListarIndividual" type="ListarIndividualType"/>
+  <xs:complexType name="ListarIndividualType">
+    <xs:sequence>
+      <xs:element name="pin" type="pinType"/>
+      <xs:element name="codigoMaterial" type="codigoMaterialType"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="pin" type="pinType"/>
+  <xs:complexType name="pinType">
+    <xs:sequence/>
+  </xs:complexType>
+  <xs:element name="codigoMaterial" type="codigoMaterialType"/>
+  <xs:complexType name="codigoMaterialType">
+    <xs:sequence/>
+  </xs:complexType>
+</xs:schema>]]></XmlSchema><CdsSkeleton/><XslTransform/><Skeleton><![CDATA[<?xml version="1.0"?><DATAPACKET Version="2.0"><METADATA><FIELDS><FIELD attrname="pin" fieldtype="string" WIDTH="3"/><FIELD attrname="codigoMaterial" fieldtype="string" WIDTH="5"/></FIELDS><PARAMS/></METADATA><ROWDATA/><METADATA><FIELDS><FIELD attrname="pin" fieldtype="string" WIDTH="3"/><FIELD attrname="codigoMaterial" fieldtype="string" WIDTH="5"/></FIELDS><PARAMS/></METADATA><ROWDATA/></DATAPACKET>
+]]></Skeleton></XmlTransformation>

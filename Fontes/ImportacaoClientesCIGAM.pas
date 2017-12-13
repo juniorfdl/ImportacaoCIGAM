@@ -1608,7 +1608,8 @@ end;
 //                   ***  ICLUI/ALTERA UM CLIENTE NO CADASTRO  ***
 //---------------------------------------------------------------------------------------
 
-function Tfrm_ImportaClientesCIGAM.insertOrUpdateCliente(
+function Tfrm_ImportaClientesCIGAM.insertOrUpdateCliente
+  (
   COD_ERP, RAZAO, FANTASIA, CPF_CNPJ, END_RUA, CIDADE, BAIRRO, ESTADO, CEP,
   FONE1, EMAIL, OPERADOR, COD_UNIDADE, SALDO_DISPONIVEL, POTENCIAL,
   DATA_ULT_COMPRA, SEGMENTO, IE_RG: string): string;
@@ -1876,7 +1877,7 @@ begin
         qrUpdateClientePOTENCIAL.AsString := trim(POTENCIAL);
 
         if (DATA_ULT_COMPRA = '0000-00-00') or (DATA_ULT_COMPRA = '0001-01-01') then
-          qrUpdateClienteDATA_ULT_COMPRA.Value := null
+          qrUpdateClienteDATA_ULT_COMPRA.clear
         else
           qrUpdateClienteDATA_ULT_COMPRA.AsDateTime := StrToDate(DATA_ULT_COMPRA);
 
@@ -1939,7 +1940,7 @@ begin
         qrUpdateClientePOTENCIAL.AsString := trim(POTENCIAL);
 
         if (DATA_ULT_COMPRA = '0000-00-00') or (DATA_ULT_COMPRA = '0001-01-01') then
-          qrUpdateClienteDATA_ULT_COMPRA.Value := null
+          qrUpdateClienteDATA_ULT_COMPRA.Clear
         else
           qrUpdateClienteDATA_ULT_COMPRA.AsDateTime := StrToDate(DATA_ULT_COMPRA);
 
@@ -2372,7 +2373,7 @@ end;
 function Tfrm_ImportaClientesCIGAM.RetornaSegmento(Valor: string): string;
 begin
 
-  Result := Valor; 
+  Result := Valor;
   {with TADOQuery.Create(nil) do
   try
 
@@ -3426,7 +3427,7 @@ begin
     cds_NF_Itens.Close;
     cds_NF.Close;
 
-    wMemoNF_XML := TXMLDocument.Create(Self); 
+    wMemoNF_XML := TXMLDocument.Create(Self);
     wMemoNF_XML.XML.Clear;
     //wMemoNF_XML.LoadFromFile(pCaminhoPrograma + 'ImportaComprasCIGAM.XML');
 
@@ -3436,7 +3437,7 @@ begin
     xmlnota := GetIntegradorNotaFiscalXmlSoap.ListarNotasFiscais(jvEd_PIN.Text, 0, '', '', '', StrPadZero(parStrID_CLIENTE_ERP, 6), '', '', '', dtxs_DataInicialNF, dtxs_DataFinalNF);
     showMessageDesenv(xmlnota);
     xmlnota := StringReplace(xmlnota, 'utf-8', 'ISO-8859-1', []);
-    showMessageDesenv(xmlnota);    
+    showMessageDesenv(xmlnota);
     wMemoNF_XML.XML.Clear;
     wMemoNF_XML.XML.Text := xmlnota;
 
@@ -3465,9 +3466,11 @@ begin
       cds_NF.Open;
       cds_NF.First;
 
-      cds_NF_Itens.Close;
-      cds_NF_Itens.Open;
-      cds_NF_Itens.First;
+      //cds_NF_Itens.Close;
+      //cds_NF_Itens.Open;
+      //cds_NF_Itens.First;
+
+      showMessageDesenv('Nro Nf: ' + cds_NFnf.AsString + ' Qtde Itens: ' + IntToStr(cds_NF_Itens.RecordCount));
 
       Application.ProcessMessages;
 
@@ -3485,19 +3488,11 @@ begin
     // 4- DESCRICAO(coloquei o codigo da compra)
     // 5- FORMA_PGTO
     //----------------------------------------------------------------------
+      //ShowMessage('Qtd Nota' + IntToStr(cds_NF.RecordCount));
 
       while not (cds_NF.Eof) do
       begin
-
-        if Trim(cds_NFtotalNF.Value) = '' then //-> SE O VALOR DA NOTA FOR EM BRANCO IGNORA
-        begin
-
-          cds_NF.Next;
-
-          Continue;
-
-        end;
-
+        //ShowMessage('Nro Nf: ' + cds_NFnf.AsString + ' Qtde Itens: ' + IntToStr(cds_NF_Itens.RecordCount));
         strDESCRICAO := cds_NFnf.Value + ' - ' + parStrID_CLIENTE_ERP;
 
         qry_BuscaCompra.Close;
@@ -3505,71 +3500,35 @@ begin
         qry_BuscaCompra.SQL.Add('SELECT DESCRICAO');
         qry_BuscaCompra.SQL.Add('  FROM compras');
         qry_BuscaCompra.SQL.Add(' WHERE DESCRICAO = ' + QuotedStr(strDESCRICAO));
-
         qry_BuscaCompra.Open;
 
-        if qry_BuscaCompra.RecordCount > 0 then
+        if (qry_BuscaCompra.IsEmpty) and (uppercase(cds_NFtipoNota.AsString) <> 'D') then
         begin
-
-          cds_NF.Next;
-
-          Continue;
-
-        end;
-
-        qry_BuscaCompra.Close;
-
-        if uppercase(cds_NFtipoNota.AsString) <> 'D' then
           aNF := insertCompra(parStraCLIENTE,
             FormatDateTime('yyyy-mm-dd', StrToDate(cds_NFdataEmissao.Value)),
             cds_NFtotalNF.Value,
             strDESCRICAO,
             BuscarCondPagamento(jvEd_PIN.Text, cds_NFcondicaoPagamento.Value)
             );
-                
-      //--------------------------------------------------------------------
 
-
-        cds_NF_Itens.First;
-
-        if uppercase(cds_NFtipoNota.AsString) <> 'D' then
+          cds_NF_Itens.First;
           while not (cds_NF_Itens.Eof) do
           begin
             wMemoMAT_XML := TXMLDocument.Create(Self);
             wMemoMAT_ESPEC1 := TXMLDocument.Create(Self);
-
             wMemoMAT_XML.XML.Clear;
             wMemoMAT_ESPEC1.XML.Clear;
 
-        // NOTA, 1 CODPROD, 2 DESCRICAO, 3 QDT, 4 UN_MEDIDA, 5 VALOR_UN, 6 DESCONTO
-
             if not vazio(aNF) then
             begin
-
-          //----------------------------------------------------------------
-          //  ***  BUSCA OS DADOS DO PRODUTO NO CADASTRO DE MATERIAIS  ***
-          //----------------------------------------------------------------
-
               wMemoMAT_XML.XML.Add('<?xml version="1.0" encoding="ISO-8859-1" ?>');
               wMemoMAT_XML.XML.Add(GetIntegradorMateriaisXmlSoap.ListarIndividual('001', cds_NF_ItenscodigoMaterial.Value));
 
               if Pos('exception', wMemoMAT_XML.XML.Text) = 0 then
               begin
-
-            //-->>  GRAVA O ARQUIVO MEMO NO FORMATO XML.
-
                 strNomeXmlMat := pCaminhoPrograma + 'ConsultaMaterial.xml';
-
-//                      if FileExists(strNomeXmlMat) then
-//                        if not(DeleteFile(strNomeXmlMat)) then
-//                          RenameFile(strNomeXmlMat, strNomeXmlMat +  '.Old');
-
                 wMemoMAT_XML.XML.SaveToFile(strNomeXmlMat);
-
-            //-->>  CARREGA O XML SALVO NO XMLtransformProvider
-
                 xmltp_MAT.XMLDataFile := strNomeXmlMat;
-
               end;
 
               cds_MAT.Close;
@@ -3578,36 +3537,22 @@ begin
 
               if cds_MAT.Locate('codigoMaterial', VarArrayOf([cds_NF_ItenscodigoMaterial.Value]), []) then
               begin
-
                 if Copy(cds_MATdescricao.Value, 1, 1) = '_' then
                   strDescMat := RemoveCaracter(cds_MATdescricao.Value, '_')
                 else
                   strDescMat := cds_MATdescricao.Value;
-
               end
               else
                 strDescMat := '';
-
-          //----------------------------------------------------------------
-          //     ***  CARREGA A DESCRIÇÃO DO MATERIAL ESPECÍFICO 1  ***
-          //----------------------------------------------------------------
 
               wMemoMAT_ESPEC1.XML.Add('<?xml version="1.0" encoding="ISO-8859-1" ?>');
               wMemoMAT_ESPEC1.XML.Add(GetIntegradorEspecif1XmlSoap.ListarIndividual('001', cds_NF_Itensespecif1.Value, '', ''));
 
               if Pos('exception', wMemoMAT_ESPEC1.XML.Text) = 0 then
               begin
-
-            //-->>  GRAVA O ARQUIVO MEMO NO FORMATO XML.
-
                 strDescMatEspecif := pCaminhoPrograma + 'ConsultaMatEspecifico1.xml';
-
                 wMemoMAT_ESPEC1.XML.SaveToFile(strDescMatEspecif);
-
-            //-->>  CARREGA O XML SALVO NO XMLtransformProvider
-
                 xmltp_MAT_ESPECIF1.XMLDataFile := strDescMatEspecif;
-
               end;
 
               cds_MAT_ESPECIF1.Close;
@@ -3616,36 +3561,26 @@ begin
 
               if cds_MAT_ESPECIF1.Locate('codigoEspecif1', VarArrayOf([cds_NF_Itensespecif1.Value]), []) then
               begin
-
                 if Trim(strDescMat) = '' then
                   strDescMat := cds_MAT_ESPECIF1descricao.Value
                 else
                   strDescMat := strDescMat + ' ' + cds_MAT_ESPECIF1descricao.Value;
-
               end;
 
-          //----------------------------------------------------------------
-
               insertCompraItem(aNF,
-                iif(cds_MATreferencia.AsString <> '', cds_MATreferencia.AsString, cds_NF_Itensmovimento.Value + cds_NF_ItenscodigoMaterial.Value),
+                iif(cds_MATreferencia.AsString <> '', cds_NF_Itensmovimento.Value + cds_MATreferencia.AsString, cds_NF_Itensmovimento.Value + cds_NF_ItenscodigoMaterial.Value),
                 strDescMat,
                 cds_NF_Itensquantidade1.Value,
                 '',
                 cds_NF_ItensprecoUnitario.Value,
                 '0,00');
-
             end;
-
             cds_NF_Itens.Next;
-
-            Application.ProcessMessages;
-
           end;
-
+          Application.ProcessMessages;
+        end;
         cds_NF.Next;
-
       end;
-
     end;
 
     Result := True;
