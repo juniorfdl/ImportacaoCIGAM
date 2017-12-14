@@ -1530,7 +1530,7 @@ begin
 
     Parameters[0].Value := trim(CLIENTE);
     Parameters[1].Value := trim(Data);
-    Parameters[2].Value := trim(xValor);
+    Parameters[2].Value := IIf(trim(xValor) = '', 0, trim(xValor)); 
     Parameters[3].Value := trim(DESCRICAO);
     Parameters[4].Value := trim(FORMA_PGTO);
 
@@ -1588,10 +1588,9 @@ begin
     Parameters[0].Value := trim(NOTA);
     Parameters[1].Value := trim(CODPROD);
     Parameters[2].Value := trim(DESCRICAO);
-    Parameters[3].Value := trim(xQtd);
-    Parameters[4].Value := trim(UN_MEDIDA);
-    Parameters[5].Value := trim(xVALOR_UN);
-    Parameters[6].Value := trim(xDESCONTO);
+    Parameters[3].Value := IIf(trim(xQtd) = '', 0, trim(xQtd));
+    Parameters[5].Value := IIf(trim(xVALOR_UN) = '', 0, trim(xVALOR_UN));
+    Parameters[6].Value := IIf(trim(xDESCONTO) = '', 0, trim(xDESCONTO));
     ExecSQL;
   except
 
