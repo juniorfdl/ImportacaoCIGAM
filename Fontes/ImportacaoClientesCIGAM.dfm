@@ -5687,4 +5687,13 @@ object frm_ImportaClientesCIGAM: Tfrm_ImportaClientesCIGAM
       Size = 32
     end
   end
+  object HTTPRIO1: THTTPRIO
+    OnBeforeExecute = HTTPRIO1BeforeExecute
+    HTTPWebNode.Agent = 'Borland SOAP 1.2'
+    HTTPWebNode.UseUTF8InHeader = False
+    HTTPWebNode.InvokeOptions = [soIgnoreInvalidCerts, soAutoCheckAccessPointViaUDDI]
+    Converter.Options = [soSendMultiRefObj, soTryAllSchema, soRootRefNodesToBody, soCacheMimeResponse, soUTF8EncodeXML]
+    Left = 636
+    Top = 191
+  end
 end

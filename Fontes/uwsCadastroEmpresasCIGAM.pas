@@ -78,11 +78,18 @@ type
   end;
 
 function GetIntegradorEmpresasXmlSoap(UseWSDL: Boolean=System.False; Addr: string=''; HTTPRIO: THTTPRIO = nil): IntegradorEmpresasXmlSoap;
-
-
+           
 implementation
 
 //uses PadStrUtils;
+
+{procedure httpRioBeforeExecute(const MethodName: string;
+  SOAPRequest: TStream);
+begin
+  SOAPRequest.Position := 0;
+  mmRequest.Lines.LoadFromStream(SOAPRequest);
+  SOAPRequest.Position := 0;
+end; }
 
 function GetIntegradorEmpresasXmlSoap(UseWSDL: Boolean; Addr: string; HTTPRIO: THTTPRIO): IntegradorEmpresasXmlSoap;
 const
@@ -97,64 +104,50 @@ const
   defPrt  = 'IntegradorEmpresasXmlSoap';
 
 var
-
-  RIO: THTTPRIO;
-
+  RIO: THTTPRIO;  
 begin
-
   Result := nil;
 
   if (Addr = '') then
   begin
-
     if intServer_EMP = 0 then
     begin
-
       if UseWSDL then
         Addr := defWSDL_Externo
       else
         Addr := defURL_Externo;
-
     end
     else
       if intServer_EMP = 1 then
       begin
-
         if UseWSDL then
           Addr := defWSDL_Interno
         else
           Addr := defURL_Interno;
-
       end;
-
   end;
 
   if HTTPRIO = nil then
     RIO := THTTPRIO.Create(nil)
   else
-    RIO := HTTPRIO;
+    RIO := HTTPRIO;     
 
   try
-
     Result := (RIO as IntegradorEmpresasXmlSoap);
 
     if UseWSDL then
     begin
-
       RIO.WSDLLocation := Addr;
       RIO.Service      := defSvc;
-      RIO.Port         := defPrt;
-
+      RIO.Port         := defPrt; 
     end
     else
-      RIO.URL := Addr;
-
+      RIO.URL := Addr;  
   finally
-
     if (Result = nil) and (HTTPRIO = nil) then
       RIO.Free;
-
   end;
+
 end;
 
 

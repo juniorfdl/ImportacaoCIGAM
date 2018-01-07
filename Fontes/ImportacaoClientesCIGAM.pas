@@ -730,6 +730,7 @@ type
     qrUpdateClienteSEGMENTO: TIntegerField;
     qrUpdateClienteIE_RG: TStringField;
     qrUpdateClienteCODIGO: TAutoIncField;
+    HTTPRIO1: THTTPRIO;
     procedure FormCreate(Sender: TObject);
     procedure FormClose(Sender: TObject; var Action: TCloseAction);
     procedure FormShow(Sender: TObject);
@@ -744,6 +745,8 @@ type
     procedure cbAtualizacaoDiaChange(Sender: TObject);
     procedure cbDataUltCOmpraChange(Sender: TObject);
     procedure SpeedButton1Click(Sender: TObject);
+    procedure HTTPRIO1BeforeExecute(const MethodName: String;
+      var SOAPRequest: WideString);
   private
     { Private declarations }
 
@@ -3261,10 +3264,9 @@ begin
     try
 
       if (ParamStr(1) = 'INICIAL') or (ParamCount = 0) then
-      begin
-
+      begin                     
         wMemoXML.XML.Add('<?xml version="1.0" encoding="ISO-8859-1" ?>');
-        wMemoXML.XML.Add(GetIntegradorEmpresasXmlSoap.ListarEmpresas(jvEd_PIN.Text,
+        wMemoXML.XML.Add(GetIntegradorEmpresasXmlSoap(false, '', HTTPRIO1).ListarEmpresas(jvEd_PIN.Text,
           IIf(AllTrim(msked_Codigo_Inicial.Text) = '0', '', AllTrim(StrPadZero(msked_Codigo_Inicial.Text, 6))),
           IIf(AllTrim(msked_Codigo_Final.Text) = '0', '', AllTrim(StrPadZero(msked_Codigo_Final.Text, 6))),
           '',
@@ -3292,7 +3294,7 @@ begin
         begin
 
           wMemoXML.XML.Add('<?xml version="1.0" encoding="ISO-8859-1" ?>');
-          wMemoXML.XML.Add(GetIntegradorEmpresasXmlSoap.ListarModificacoes(jvEd_PIN.Text,
+          wMemoXML.XML.Add(GetIntegradorEmpresasXmlSoap(false, '', HTTPRIO1).ListarModificacoes(jvEd_PIN.Text,
             dtxs_DataInicial,
             '',
             dtxs_DataFinal,
@@ -3696,6 +3698,23 @@ begin
   //ShowMessage(BuscarCondPagamento(jvEd_PIN.Text, Valor));
 
   Grava_Compras('342', '44343', '324234')
+end;
+
+procedure Tfrm_ImportaClientesCIGAM.HTTPRIO1BeforeExecute(
+  const MethodName: String; var SOAPRequest: WideString);
+var
+  sTmp: TStringList;
+  Caminho:string;
+begin
+  Caminho := ExtractFilePath(Application.ExeName)+'XmlEnvioCigam\';
+
+  if DirectoryExists(Caminho) then
+  begin
+    Caminho := Caminho + MethodName+StringReplace(StringReplace(DateTimeToStr(Now),'/','',[rfReplaceAll]), ':','',[rfReplaceAll]) +'.xml';
+    sTmp:=TStringList.Create;
+    sTmp.Text := SOAPRequest;
+    sTmp.SaveToFile(Caminho);
+  end;
 end;
 
 end.
