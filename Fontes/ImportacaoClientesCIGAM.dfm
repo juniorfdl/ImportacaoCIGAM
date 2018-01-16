@@ -1,5 +1,5 @@
 object frm_ImportaClientesCIGAM: Tfrm_ImportaClientesCIGAM
-  Left = 377
+  Left = 399
   Top = 134
   Width = 928
   Height = 562
@@ -5694,6 +5694,33 @@ object frm_ImportaClientesCIGAM: Tfrm_ImportaClientesCIGAM
     HTTPWebNode.InvokeOptions = [soIgnoreInvalidCerts, soAutoCheckAccessPointViaUDDI]
     Converter.Options = [soSendMultiRefObj, soTryAllSchema, soRootRefNodesToBody, soCacheMimeResponse, soUTF8EncodeXML]
     Left = 636
+    Top = 191
+  end
+  object HTTPRIO2: THTTPRIO
+    OnBeforeExecute = HTTPRIO2BeforeExecute
+    HTTPWebNode.Agent = 'Borland SOAP 1.2'
+    HTTPWebNode.UseUTF8InHeader = False
+    HTTPWebNode.InvokeOptions = [soIgnoreInvalidCerts, soAutoCheckAccessPointViaUDDI]
+    Converter.Options = [soSendMultiRefObj, soTryAllSchema, soRootRefNodesToBody, soCacheMimeResponse, soUTF8EncodeXML]
+    Left = 460
+    Top = 183
+  end
+  object HTTPRIO3: THTTPRIO
+    OnBeforeExecute = HTTPRIO3BeforeExecute
+    HTTPWebNode.Agent = 'Borland SOAP 1.2'
+    HTTPWebNode.UseUTF8InHeader = False
+    HTTPWebNode.InvokeOptions = [soIgnoreInvalidCerts, soAutoCheckAccessPointViaUDDI]
+    Converter.Options = [soSendMultiRefObj, soTryAllSchema, soRootRefNodesToBody, soCacheMimeResponse, soUTF8EncodeXML]
+    Left = 292
+    Top = 183
+  end
+  object HTTPRIO4: THTTPRIO
+    OnBeforeExecute = HTTPRIO3BeforeExecute
+    HTTPWebNode.Agent = 'Borland SOAP 1.2'
+    HTTPWebNode.UseUTF8InHeader = False
+    HTTPWebNode.InvokeOptions = [soIgnoreInvalidCerts, soAutoCheckAccessPointViaUDDI]
+    Converter.Options = [soSendMultiRefObj, soTryAllSchema, soRootRefNodesToBody, soCacheMimeResponse, soUTF8EncodeXML]
+    Left = 340
     Top = 191
   end
 end

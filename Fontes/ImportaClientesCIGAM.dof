@@ -90,7 +90,7 @@ MaxStackSize=1048576
 ImageBase=4194304
 ExeDescription=
 [Directories]
-OutputDir=C:\projetos\ImportacaoCIGAM\Executavel
+OutputDir=c:\sgr
 UnitOutputDir=C:\projetos\ImportacaoCIGAM\DCUs
 PackageDLLOutputDir=C:\projetos\ImportacaoCIGAM\DCUs
 PackageDCPOutputDir=C:\projetos\ImportacaoCIGAM\DCUs
@@ -115,7 +115,7 @@ AutoIncBuild=1
 MajorVer=2018
 MinorVer=0
 Release=1
-Build=8
+Build=17
 Debug=0
 PreRelease=0
 Special=0
@@ -126,7 +126,7 @@ CodePage=1252
 [Version Info Keys]
 CompanyName=
 FileDescription=
-FileVersion=2018.0.1.8
+FileVersion=2018.0.1.17
 InternalName=
 LegalCopyright=
 LegalTrademarks=
@@ -148,9 +148,10 @@ Count=2
 Item0=C:\projetos\ImportacaoCIGAM\DCUs
 Item1=C:\SGR\ImportacaoCIGAM\DCUs
 [HistoryLists\hlOutputDirectorry]
-Count=2
-Item0=C:\projetos\ImportacaoCIGAM\Executavel
-Item1=C:\SGR\ImportacaoCIGAM\Executavel
+Count=3
+Item0=c:\sgr
+Item1=C:\projetos\ImportacaoCIGAM\Executavel
+Item2=C:\SGR\ImportacaoCIGAM\Executavel
 [HistoryLists\hlBPLOutput]
 Count=2
 Item0=C:\projetos\ImportacaoCIGAM\DCUs

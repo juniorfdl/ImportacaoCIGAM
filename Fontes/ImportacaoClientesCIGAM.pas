@@ -731,6 +731,9 @@ type
     qrUpdateClienteIE_RG: TStringField;
     qrUpdateClienteCODIGO: TAutoIncField;
     HTTPRIO1: THTTPRIO;
+    HTTPRIO2: THTTPRIO;
+    HTTPRIO3: THTTPRIO;
+    HTTPRIO4: THTTPRIO;
     procedure FormCreate(Sender: TObject);
     procedure FormClose(Sender: TObject; var Action: TCloseAction);
     procedure FormShow(Sender: TObject);
@@ -746,6 +749,10 @@ type
     procedure cbDataUltCOmpraChange(Sender: TObject);
     procedure SpeedButton1Click(Sender: TObject);
     procedure HTTPRIO1BeforeExecute(const MethodName: String;
+      var SOAPRequest: WideString);
+    procedure HTTPRIO2BeforeExecute(const MethodName: String;
+      var SOAPRequest: WideString);
+    procedure HTTPRIO3BeforeExecute(const MethodName: String;
       var SOAPRequest: WideString);
   private
     { Private declarations }
@@ -784,7 +791,7 @@ type
     procedure AtualizaDataCompra;
     function ExecSql(xsql: string; Tipo: Integer = 0): TADOQuery;
     function BuscarCondPagamento(pin, valor: WideString): string;
-
+    procedure GetXmlEnvio(MethodName: String; SOAPRequest: WideString);
   public
     { Public declarations }
 
@@ -3435,7 +3442,11 @@ begin
     dtxs_DataInicialNF := DateTimeToXSDateTime(jvdted_Data_NF_Inicial_Pesq.Date);
     dtxs_DataFinalNF := DateTimeToXSDateTime(jvdted_Data_NF_Final_Pesq.Date);
 
-    xmlnota := GetIntegradorNotaFiscalXmlSoap.ListarNotasFiscais(jvEd_PIN.Text, 0, '', '', '', StrPadZero(parStrID_CLIENTE_ERP, 6), '', '', '', dtxs_DataInicialNF, dtxs_DataFinalNF);
+    //
+    //ShowMessage('ant compra');
+    xmlnota := GetIntegradorNotaFiscalXmlSoap(false,'', HTTPRIO2).ListarNotasFiscais(jvEd_PIN.Text, 0, '', '', '', StrPadZero(parStrID_CLIENTE_ERP, 6), '', '', '',
+    dtxs_DataInicialNF, dtxs_DataFinalNF);
+    //ShowMessage('pos compra');
     showMessageDesenv(xmlnota);
     xmlnota := StringReplace(xmlnota, 'utf-8', 'ISO-8859-1', []);
     showMessageDesenv(xmlnota);
@@ -3523,7 +3534,7 @@ begin
             if not vazio(aNF) then
             begin
               wMemoMAT_XML.XML.Add('<?xml version="1.0" encoding="ISO-8859-1" ?>');
-              wMemoMAT_XML.XML.Add(GetIntegradorMateriaisXmlSoap.ListarIndividual('001', cds_NF_ItenscodigoMaterial.Value));
+              wMemoMAT_XML.XML.Add(GetIntegradorMateriaisXmlSoap(false,'', HTTPRIO3).ListarIndividual('001', cds_NF_ItenscodigoMaterial.Value));
 
               if Pos('exception', wMemoMAT_XML.XML.Text) = 0 then
               begin
@@ -3547,7 +3558,7 @@ begin
                 strDescMat := '';
 
               wMemoMAT_ESPEC1.XML.Add('<?xml version="1.0" encoding="ISO-8859-1" ?>');
-              wMemoMAT_ESPEC1.XML.Add(GetIntegradorEspecif1XmlSoap.ListarIndividual('001', cds_NF_Itensespecif1.Value, '', ''));
+              wMemoMAT_ESPEC1.XML.Add(GetIntegradorEspecif1XmlSoap(false,'', HTTPRIO4).ListarIndividual('001', cds_NF_Itensespecif1.Value, '', ''));
 
               if Pos('exception', wMemoMAT_ESPEC1.XML.Text) = 0 then
               begin
@@ -3671,7 +3682,7 @@ var
   posicao: integer;
 begin
   //'  <descricao> dagfuhadgfusgdjsdg  </descricao>   dsfsafs';
-  retorno := GetIntegradorCondicaoPagamentoXmlSoap.ListarCondicaoPagamento(pin, valor);
+  retorno := GetIntegradorCondicaoPagamentoXmlSoap(false,'', HTTPRIO4).ListarCondicaoPagamento(pin, valor);
   //ShowMessage('Valor Cond: ' + valor);
   //ShowMessage(retorno);
   result := '';
@@ -3702,19 +3713,43 @@ end;
 
 procedure Tfrm_ImportaClientesCIGAM.HTTPRIO1BeforeExecute(
   const MethodName: String; var SOAPRequest: WideString);
+begin
+  GetXmlEnvio(MethodName, SOAPRequest);
+end;
+
+procedure Tfrm_ImportaClientesCIGAM.HTTPRIO2BeforeExecute(
+  const MethodName: String; var SOAPRequest: WideString);
+begin
+  GetXmlEnvio(MethodName, SOAPRequest);
+end;
+
+procedure Tfrm_ImportaClientesCIGAM.GetXmlEnvio(MethodName: String;
+  SOAPRequest: WideString);
 var
   sTmp: TStringList;
   Caminho:string;
 begin
-  Caminho := ExtractFilePath(Application.ExeName)+'XmlEnvioCigam\';
+  try
+    Caminho := ExtractFilePath(Application.ExeName)+'XmlEnvioCigam\';
 
-  if DirectoryExists(Caminho) then
-  begin
-    Caminho := Caminho + MethodName+StringReplace(StringReplace(DateTimeToStr(Now),'/','',[rfReplaceAll]), ':','',[rfReplaceAll]) +'.xml';
-    sTmp:=TStringList.Create;
-    sTmp.Text := SOAPRequest;
-    sTmp.SaveToFile(Caminho);
+    if DirectoryExists(Caminho) then
+    begin
+      Caminho := Caminho + MethodName+StringReplace(StringReplace(DateTimeToStr(Now),'/','',[rfReplaceAll]), ':','',[rfReplaceAll]) +'.xml';
+      sTmp:=TStringList.Create;
+      sTmp.Text := SOAPRequest;
+      sTmp.SaveToFile(Caminho);
+    end;
+  except
+    on e: Exception do
+      ShowMessage(e.Message);
   end;
+end;
+
+procedure Tfrm_ImportaClientesCIGAM.HTTPRIO3BeforeExecute(
+  const MethodName: String; var SOAPRequest: WideString);
+begin
+  GetXmlEnvio(MethodName, SOAPRequest);
+  
 end;
 
 end.
